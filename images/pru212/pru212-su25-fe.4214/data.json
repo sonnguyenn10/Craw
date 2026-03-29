@@ -1,0 +1,668 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "giờ mã đề là pru213 thì ôn mã này còn trúng k nhỉ",
+                "count": 1
+            },
+            {
+                "text": "Bạn 3 vì đã ở đây",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 10
+            },
+            {
+                "text": "Blend Tree trộn các animation lại với nhau một cách mượt mà. Bạn không cần nhảy từ “đứng yên” sang “chạy” cái bụp – mà có thể mượt mà đi qua “đi bộ” trước, rồi mới đến “chạy”.   Ví dụ: Blend Tree cho speed:  SpeedAnimation0Idle0.5Walk1Run Nếu speed = 0.75, Blend Tree sẽ trộn 75% \"Run\" + 25% \"Walk\" → animation rất mượt, không bị khựng.  A. They synchronize animations with gameplay events → Cái này là nhiệm vụ của Animation Events B. They create key points in an animation timeline → Đó là việc của Animation Clips và Keyframes D. They manage the flow of animations and states → Cái này là vai trò của Animator Controller, Transitions và State Machines",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            },
+            {
+                "text": "Usability (tính dễ sử dụng) = user-friendly (thân thiện với người dùng)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            },
+            {
+                "text": "D In Unity's uGUI (Unity Graphical User Interface) system:    Button is the primary interactive component used to detect and respond to user input like clicks or taps. Canvas/Panel, Text, and Image are mainly used for layout and display, not direct interaction.",
+                "count": 1
+            },
+            {
+                "text": "B --- Blend Tree là công cụ trong Unity giúp trộn mượt mà nhiều animation lại với nhau dựa trên các thông số như tốc độ, hướng di chuyển.   Ví dụ:    Khi nhân vật đứng yên → chạy animation \"Idle\" Khi di chuyển nhẹ → chuyển dần sang \"Walk\" Khi chạy nhanh → chuyển hẳn sang \"Run\"  → Blend Tree sẽ lo phần \"mượt chuyển cảnh\" này, thay vì bạn phải manually viết code chuyển qua lại từng animation.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 9
+            },
+            {
+                "text": "C --- Humanoid animation retargeting cho phép chia sẻ animation giữa các mô hình nhân vật khác nhau — miễn là cả hai đều được rig theo kiểu \"Humanoid\" (người 2 tay 2 chân tiêu chuẩn).  Ví dụ: Có animation “chạy” của nhân vật A → Dùng lại y chang cho nhân vật B mà không cần làm lại animation từ đầu.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 9
+            },
+            {
+                "text": "Khi nhân vật nhảy lên thì sau đó sẽ trở về trạng thái idle (hoặc falling) nhưng ko giữ jump liên tục  - Trigger khi hủy kích hoạt sẽ back về state trước đó ngay lập tức, phù hợp với Jump - Bool hay float, khi kích hoạt thì ko trở về state trước đó được. Lại phải thêm code logic để trở về state trước => Dùng luôn Trigger đi cho nhàn =)))",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 7
+            },
+            {
+                "text": "A  Animator Controller cho phép quản lý các state (Idle, Run, Jump...) và cách các animation chuyển đổi giữa các state này. Ví dụ: từ \"Idle\" → \"Run\" → \"Jump\" rồi quay về \"Idle\".",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "Canvas là nơi chứa toàn bộ UI, bắt buộc phải có để EventSystem hoạt động. EventSystem dùng để lắng nghe và phân phối các sự kiện (click, hover...) từ UI. Khi tương tác với UI trong Canvas, EventSystem sẽ gửi các callback (messaging) đến đúng component. Không có Canvas → UI không hiện → không có sự kiện → không có messaging.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 9
+            },
+            {
+                "text": "animator.SetClipSpeed(float speed);  Sai: Không có hàm SetClipSpeed() trong Unity's Animator. animation.speed = speed;  Gần đúng nhưng... chỉ dùng được với Animation (legacy), không phải Animator (Mecanim). Nếu đang dùng Animator Controller, dòng này sẽ không hoạt động. animator.speed = speed;  Đúng: Đây là cách chuẩn để điều chỉnh tốc độ phát của tất cả các animation clip qua Animator.  Ví dụ: animator.speed = 2.0f; // Chạy gấp đôi tốc độ<br> animator.Play(\"ClipName\", speed);  Sai: animator.Play() có cú pháp: animator.Play(stateName, layer = 0, normalizedTime = 0f);  Không nhận tham số speed, không thể truyền tốc độ ở đây.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 9
+            },
+            {
+                "text": "Muốn vật thể quay như bản lề → Hinge Joint Muốn gắn chặt không cho di chuyển → Fixed Joint Muốn mô phỏng co giãn như dây thun → Spring Joint Muốn full control nhưng phức tạp → Configurable Joint",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            },
+            {
+                "text": "Đáp ánÝ nghĩaĐúng/SaiGiải thíchA. PolarHệ tọa độ cực (r, θ)Dùng trong toán học hoặc đồ họa đặc biệt, không phải mặc định trong UnityB. CartesianHệ tọa độ Đề-các (x, y [, z])Là hệ chính trong Unity (2D dùng x, y)C. SphericalHệ tọa độ cầu (r, θ, φ)Thường dùng trong 3D đặc biệt như mô phỏng thiên vănD. CylindricalHệ tọa độ trụ (r, θ, z)Dùng trong một số hệ thống hình học, không phổ biến trong Unity",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "1. collision.impulse​ Kiểu dữ liệu: Vector3 Thuộc về: Collision class Ý nghĩa: Lực tức thời mà vật thể nhận được trong một khung vật lý (FixedUpdate) khi xảy ra va chạm. Đây là kết quả vật lý thực tế của va chạm, thường được dùng để mô phỏng lực phản hồi.  2. Time.fixedDeltaTime​ Kiểu dữ liệu: float Ý nghĩa: Khoảng thời gian giữa hai lần gọi FixedUpdate() – dùng trong các tính toán vật lý. => Dùng để chuyển impulse thành dạng lực (Force = Impulse / Δt)  3. collisionForce.normalized​ Kiểu dữ liệu: Vector3 Ý nghĩa: Trả về một vector đơn vị (độ dài = 1) theo cùng hướng với collisionForce. Công dụng: Ta chỉ lấy hướng va chạm, còn độ lớn sẽ được xác định bởi forceMagnitude.  4. Vector3 * float (Toán tử nhân vector với số thực)​ Ý nghĩa: Nhân vector hướng (collisionForce.normalized) với một độ lớn cụ thể (forceMagnitude) để tạo ra vector lực chính xác.  5. Rigidbody.AddForce(Vector3 force, ForceMode mode)​ Ý nghĩa: Thêm một lực lên Rigidbody theo vector chỉ định. Nếu dùng ForceMode.Impulse: lực được áp dụng ngay lập tức (giống như một cú đập nhanh).   Phương thức / PropertyChức năngcollision.impulseLực va chạm (Vector3)Time.fixedDeltaTimeThời gian vật lý giữa 2 frame.normalizedChuẩn hóa vector để lấy hướng* forceMagnitudeTạo ra lực có độ lớn mong muốnrb.AddForce(..., Impulse)Áp dụng lực tức thời lên object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            },
+            {
+                "text": "Vector3 combinedForce = (Vector3.up * mainForce) + (Vector3.right * sideForce);<br>   Vector3.up = (0, 1, 0) → Lực hướng lên trên (trục Y dương) Vector3.right = (1, 0, 0) → Lực hướng sang phải (trục X dương)  => Tổng lực: đi chéo lên trên và sang phải    rb.AddForce(combinedForce, ForceMode.Impulse);  Áp dụng lực tức thời với hướng và độ lớn đã tính.",
+                "count": 1
+            },
+            {
+                "text": "ForceModeTác động đếnTức thời?Bỏ qua mass?Giống vớiForceLựcĐộng cơ, lực gióImpulseXung lựcNhảy, va chạmVelocityChangeThay đổi vận tốcDash, knockbackAccelerationGia tốcGió ảo, bay nhẹ",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 7
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 7
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "Serialization trong Unity (và lập trình nói chung) là quá trình:      Chuyển đổi dữ liệu (thường là object hoặc cấu trúc phức tạp) thành một định dạng có thể lưu trữ được như JSON, XML, hoặc binary.  Nhấn để mở rộng...",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            },
+            {
+                "text": "Phương phápCó dùng để lưu dữ liệu không?Ghi chúA. PlayerPrefs CóLưu dữ liệu đơn giản (int, float, string) cho user (VD: setting, điểm số...)B. ScriptableObjects CóDùng để lưu dữ liệu cấu hình, cố định, chia sẻ giữa nhiều scene (không phải runtime state)C. SceneReconstruction Không phải phương pháp lưu dữ liệu phổ biếnĐây là một thuật ngữ không có sẵn trong Unity, đôi khi liên quan tới AR hoặc AI, không dùng để lưu state/data người dùngD. External files (JSON/XML) CóLưu dữ liệu ra file ngoài: JSON, XML, binary v.v.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 7
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "Đáp ánĐúng/SaiGiải thíchA. It applies animations to game objects at runtimeViệc áp dụng animation là do Animator component, không phải Animator ControllerB. It manages transitions between animation statesĐây là vai trò chính của Animator Controller – quản lý state machine, chuyển động giữa các state như Idle → Walk → JumpC. It provides a visual editor tool for creating and editing animationsAnimation window hoặc Timeline mới là công cụ để tạo/chỉnh sửa animationD. It handles the physics interactions between game objectsPhysics liên quan đến Rigidbody, Collider, không liên quan đến Animator Controller",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            },
+            {
+                "text": "Coroutines có thể hiểu là 1 script khi được kích hoạt sẽ pause script hiện tại chuyển sang chạy coroutines, sau khi chạy xong thì quay lại điểm pause của script trước đó rồi chạy tiếp",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            },
+            {
+                "text": "A. Delegates are essentially a reference type that holds the reference to a method. → Đúng vì delegate thực chất là kiểu tham chiếu, cho phép trỏ tới method (giống function pointer trong C/C++).     B. Delegates can be used to create callback mechanisms. → Đúng. Delegate thường dùng làm callback, ví dụ trong event hoặc xử lý bất đồng bộ.   C#:   void OnComplete() => Console.WriteLine(\"Done!\"); Action callback = OnComplete; callback(); // gọi callback giống như gọi hàm    C. Delegates cannot be invoked like a regular method. → Sai. Delegate có thể được gọi như một method thông thường, ví dụ myDelegate(); hoặc myDelegate?.Invoke();.    Giải thích:   myDelegate(); gọi delegate như hàm bình thường. myDelegate.Invoke(); gọi delegate bằng method nội tại. myDelegate?.Invoke(); là cách gọi an toàn tránh NullReferenceException.    C#:   Action notify = () => Console.WriteLine(\"Notified!\");  notify();          // Gọi delegate như hàm notify.Invoke();   // Gọi delegate bằng phương thức notify?.Invoke();  // Gọi an toàn nếu delegate là null",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "A. To directly access and modify private variables of other objects → Sai. Delegates và events không cho phép truy cập trực tiếp biến private của đối tượng khác – điều này vi phạm nguyên tắc đóng gói (encapsulation).   C#:   // Điều này không hợp lệ otherObject.privateField = 5; // ❌ Không thể làm qua delegate trừ khi có getter/setter   B. For inter-object communication → Đúng. Events và delegates trong Unity thường dùng để giao tiếp giữa các object, ví dụ khi Player chết thì gửi tín hiệu để UI xử lý.   C#:   public class Player { public delegate void OnPlayerDied(); public static event OnPlayerDied PlayerDied; public void Die() {     PlayerDied?.Invoke(); // Gửi event } } public class UI { void OnEnable() => Player.PlayerDied += ShowGameOver; void OnDisable() => Player.PlayerDied -= ShowGameOver; void ShowGameOver() => Debug.Log(\"Game Over!\"); }   C. To manage memory allocation and garbage collection → Sai. Delegate không quản lý bộ nhớ hay GC, điều đó do .NET runtime phụ trách. Delegate không có khả năng giảm hay kiểm soát việc cấp phát bộ nhớ.  D. To create graphical user interfaces (GUIs) → Sai. Unity GUI (Canvas, Button, Text…) được tạo bằng hệ thống UI như UGUI hoặc UI Toolkit. Delegate chỉ hỗ trợ xử lý sự kiện, không tự tạo giao diện.   C#:   // Delegate dùng để xử lý sự kiện, không tạo GUI myButton.onClick.AddListener(() => Debug.Log(\"Clicked\"));",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            },
+            {
+                "text": "C. Events can be invoked from any class in the application. → Sai – Đây là đáp án không đúng. Events chỉ có thể được invoke (gọi) từ bên trong class khai báo, ngoại trừ khi dùng custom accessor (add/remove). Điều này giúp đảm bảo tính đóng gói và an toàn.   C#:   public class Publisher { public event Action OnEvent; public void RaiseEvent() => OnEvent?.Invoke(); // ✅ Chỉ gọi được từ trong class } public class Other { void Test() { var pub = new Publisher(); // pub.OnEvent(); ❌ Không thể gọi từ ngoài, sẽ lỗi compile } }   A. Events provide a more robust and secure way of implementing the observer pattern → Đúng. Events trong C# giúp triển khai pattern Observer một cách an toàn và có kiểm soát – chỉ bên phát event mới có thể invoke, còn subscriber chỉ có thể += hoặc -=.   C#:   public class Button { public event Action OnClick; public void Click() => OnClick?.Invoke(); // Bắn event }   B. Events allow objects to subscribe to and unsubscribe from notifications. → Đúng. Đây là chức năng cốt lõi của event – các object có thể đăng ký (+=) và hủy đăng ký (-=) để nhận thông báo khi sự kiện xảy ra.   C#:   button.OnClick += HandleClick; button.OnClick -= HandleClick;   D. Events are typically declared using the event keyword → Đúng. Từ khóa event dùng để khai báo một event trên một delegate đã tồn tại.   C#:   public delegate void MyDelegate(); public event MyDelegate OnSomethingHappened;",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            },
+            {
+                "text": "D",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 7
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "a",
+                "count": 2
+            },
+            {
+                "text": "C",
+                "count": 9
+            },
+            {
+                "text": "Phân tích từng đáp án:   A. StartCoroutine(DelayAction(2));  ĐÚNG    Truyền số nguyên 2, Unity sẽ tự động convert thành float  B. StartCoroutine(DelayAction());  SAI    Không truyền tham số thời gian delay  C. StartCoroutine(DelayAction(2.0f));  ĐÚNG    Truyền float 2.0f, chính xác về kiểu dữ liệu  D. StartCoroutine(DelayAction(time: 2.0f));  SAI    Sử dụng named parameter không cần thiết và có thể gây lỗi tùy thuộc vào cách định nghĩa method",
+                "count": 1
+            },
+            {
+                "text": "CC",
+                "count": 1
+            },
+            {
+                "text": "C. StartCoroutine(DelayAction(2.0f));",
+                "count": 1
+            },
+            {
+                "text": "ĐÂY LÀ CÂU HỎI CUỐI CÙNG RỒI, TÔI CHÚC AE HỌC ĐỀ MÔN PRU212 VẪN DÍNH PRU213 NHÉ <3",
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,784 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "4",
+                "count": 1
+            },
+            {
+                "text": "môn này cứ câu nào dài nhất mà phang thôi nhỉ =))",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 15
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "B",
+                "count": 4
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "chọn D chắc lun",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "bê",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "B FOR SURE",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 15
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 14
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "B  https://docs.unity3d.com/2019.2/Documentation/Manual/VariablesAndTheInspector.html",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 13
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 14
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "B. Lerp: Viết tắt của Linear Interpolation (Nội suy tuyến tính). Đây chính xác là hàm được sử dụng để tìm một điểm (hoặc giá trị) nằm giữa hai điểm (hoặc giá trị) khác, dựa trên một tỷ lệ (thường từ 0 đến 1). Khi được sử dụng theo thời gian (ví dụ: trong Update hoặc FixedUpdate cùng với Time.deltaTime), nó tạo ra chuyển động hoặc thay đổi giá trị mượt mà.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 13
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C FOR SURE",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "B FOR SURE",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 13
+            },
+            {
+                "text": "C FOR SURE",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "B FOR SURE",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 13
+            },
+            {
+                "text": "C FOR SURE",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "B FOR SURE",
+                "count": 1
+            },
+            {
+                "text": "visualize chọn A  navigate chọn B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C FOR SURE",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 13
+            },
+            {
+                "text": "C FOR SURE",
+                "count": 1
+            },
+            {
+                "text": "cho hỏi nhấn key nào để switch được vậy",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 13
+            },
+            {
+                "text": "c for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C nè",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "B nà",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C nì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            },
+            {
+                "text": "C nù",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C nò",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C nè",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C nì",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            },
+            {
+                "text": "C nù",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "C nà",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 16
+            },
+            {
+                "text": "D nò",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "C này",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "A nhé",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 15
+            },
+            {
+                "text": "yes sir D đó",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            },
+            {
+                "text": "C đó",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "B nhén",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C nhen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 16
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    }
+]

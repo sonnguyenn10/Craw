@@ -1,0 +1,816 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "có đáp án chưa ad",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "5",
+                "count": 1
+            },
+            {
+                "text": "B. Combining code with physics simulation (Kết hợp code với mô phỏng vật lý)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 19
+            },
+            {
+                "text": "Player movement - Update hoặc FixedUpdate D.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. Lerp  Lerp (viết tắt của Nội suy tuyến tính) là một hàm trong Unity thường được sử dụng để chuyển đổi mượt mà giữa hai giá trị theo thời gian",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Interpolate (Nội suy) - Lerp (Viết tắt của Linear Interpolation)    Đáp Án & Giải Thích​  Đáp án đúng là: B. Lerp",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "Rendering (Vẽ đồ họa) - Renderer (Thành phần để vẽ)    Đáp Án & Giải Thích​  Đáp án đúng là: A. Mesh Renderer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "Transform (Biến đổi) - Position, rotation, and scale (Vị trí, xoay, và kích thước)    Đáp Án & Giải Thích​  Đáp án đúng là: C. Position, rotation, and scale of a game object (Vị trí, độ xoay, và kích thước của một đối tượng trong game)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "Collisions (Va chạm vật lý) - OnCollisionEnter (Khi Va chạm Bắt đầu)    Đáp Án & Giải Thích​  Đáp án đúng là: B. OnCollisionEnter",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "Continuous (Liên tục) - GetKey (Đang giữ phím)    Đáp Án & Giải Thích​  Đáp án đúng là: C. Input.GetKey",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "If (Nếu) - Making decisions (Đưa ra quyết định)    Đáp Án & Giải Thích​  Đáp án đúng là: C. Making decisions and executing different code paths based on conditions (Đưa ra quyết định và thực thi các luồng mã khác nhau dựa trên điều kiện)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "UI Animations (Hoạt ảnh UI) - Feedback &amp; Guidance (Phản hồi & Hướng dẫn)    Đáp Án & Giải Thích​  Đáp án đúng là: B. To provide feedback to users and guide them through different states or interactions (Để cung cấp phản hồi cho người dùng và hướng dẫn họ qua các trạng thái hoặc tương tác khác nhau).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "update là thực hiện theo mỗi frame",
+                "count": 1
+            },
+            {
+                "text": "Update (Cập nhật) - Each frame (Mỗi khung hình)    Đáp Án & Giải Thích​  Đáp án đúng là: C. Before each frame update (Trước mỗi lần cập nhật khung hình)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 16
+            },
+            {
+                "text": "Condition (Điều kiện cần kiểm tra liên tục) - Update (Hàm chạy liên tục)    Đáp Án & Giải Thích​  Đáp án đúng là: D. By checking a game over condition in the Update method (Bằng cách kiểm tra điều kiện thua game trong hàm Update)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "Null (Rỗng/Trống) - Trying to access a variable that is null (Cố gắng truy cập một biến đang bị rỗng)    Đáp Án & Giải Thích​  Đáp án đúng là: B. It means that your code is trying to access a variable or object that is null, resulting in a runtime error (Nó có nghĩa là code của bạn đang cố gắng truy cập một biến hoặc đối tượng đang là null, dẫn đến lỗi thời gian chạy).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "Realistic Physics Movement (Chuyển động vật lý chân thực) - Applying Forces to Rigidbody (Tác động lực lên Rigidbody)    Đáp Án & Giải Thích​  Đáp án đúng là: B. By applying forces and constraints to Rigidbody components based on scripted conditions (Bằng cách áp dụng các lực và ràng buộc lên component Rigidbody dựa trên các điều kiện được lập trình sẵn).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 15
+            },
+            {
+                "text": "Health System (Hệ thống máu) - Decrementing a health variable (Giảm giá trị một biến máu)    Đáp Án & Giải Thích​  Đáp án đúng là: D. By decrementing a health variable when characters take damage (Bằng cách giảm dần một biến máu khi nhân vật nhận sát thương).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "Debug (Gỡ lỗi) - Outputting information to the Console (In thông tin ra cửa sổ Console)    Đáp Án & Giải Thích​  Đáp án đúng là: B. Outputting information to the Unity Console for debugging purposes (In thông tin ra cửa sổ Console của Unity cho mục đích gỡ lỗi).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 15
+            },
+            {
+                "text": "Pointer Enter / Pointer Exit (Con trỏ vào / Con trỏ ra) - OnPointerEnter / OnPointerExit (Hàm xử lý con trỏ vào / ra)    Đáp Án & Giải Thích​  Đáp án đúng là: B. OnPointerEnter and OnPointerExit",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "Mouse Button Down (Nhấn nút chuột xuống) - Input.GetMouseButtonDown (Hàm lấy sự kiện nhấn nút chuột xuống)    Đáp Án & Giải Thích​  Đáp án đúng là: A. Input.GetMouseButtonDown",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "Behavior Script (Script hành vi) - MonoBehaviour (Lớp cha cho các script hành vi)    Đáp Án & Giải Thích​  Đáp án đúng là: C. MonoBehaviour",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            },
+            {
+                "text": "A",
+                "count": 10
+            },
+            {
+                "text": "Animator Controller​ Use an Animator Controller to arrange and maintain a set of Animation Clips and associated Animation Transitions for a character or an animated GameObjec",
+                "count": 1
+            },
+            {
+                "text": "mới tìm đc định nghĩa này thôi ko bt a vs c nào đúng hơn",
+                "count": 1
+            },
+            {
+                "text": "Chờ Cao nhân phân định A và C",
+                "count": 1
+            },
+            {
+                "text": "fbtcon đã viết:    Chờ Cao nhân phân định A và C  Nhấn để mở rộng...  vãi h nó thành 2 : 2 r hả thua",
+                "count": 1
+            },
+            {
+                "text": "mình chọn C nhe          Unity - Scripting API: Animator        docs.unity3d.com             Unity - Manual: Animator Controller        docs.unity3d.com     unity có định nghĩa r nè dô đọc đi r chọn ko bt",
+                "count": 1
+            },
+            {
+                "text": "A Animator là giao diện lập trình (scripting interface) chính để điều khiển hệ thống animation Mecanim trong Unity.   Tại sao không chọn:  Animation: Là một class cũ (legacy) và ít được khuyến khích sử dụng   AnimatorController: Là asset chứa state machine, không phải interface để điều khiển   AnimationClip: Chỉ là container chứa dữ liệu animation, không có khả năng điều khiển    Mã:   // Lấy reference đến component Animator Animator animator = GetComponent<Animator>(); // Set các parameter animator.SetBool(\"IsRunning\", true); animator.SetFloat(\"Speed\", 1.5f); // Trigger animation animator.SetTrigger(\"Jump\"); // Điều chỉnh tốc độ animator.speed = 2.0f;",
+                "count": 1
+            },
+            {
+                "text": "A đi",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "User Input (Tín hiệu người dùng) - Input Manager (Trình quản lý tín hiệu)    Đáp Án & Giải Thích​  Đáp án đúng là: C. Input Manager",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "Detect without physical response (Phát hiện nhưng không va chạm vật lý) - Collider as a Trigger (Collider được cấu hình làm Trigger)    Đáp Án & Giải Thích​  Đáp án đúng là: C. Collider (when configured as a trigger)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "Physics Material (Vật liệu Vật lý) - Friction &amp; Bounciness (Ma sát & Độ nảy)    Đáp Án & Giải Thích​  Đáp án đúng là: B. They define how colliders interact with each other, affecting physics behavior (Chúng định nghĩa cách các collider tương tác với nhau, ảnh hưởng đến hành vi vật lý).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "Essential: Thiết yếu, bắt buộc phải có. Integrating physics with scripts: Kết hợp vật lý với code. Control object movement: Điều khiển chuyển động của vật thể.   Đáp Án & Giải Thích​  Đáp án đúng là: C. Rigidbody Component",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "Stack trace: Dấu vết ngăn xếp. Unity debugging: Bối cảnh là gỡ lỗi trong Unity.   Đáp Án & Giải Thích​  Đáp án đúng là: B. It is a list of method calls and line numbers that led to the occurrence of an error, providing a trace of the program's execution path. (Nó là một danh sách các lời gọi hàm và số dòng đã dẫn đến sự xuất hiện của lỗi, cung cấp một dấu vết về đường đi thực thi của chương trình).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            },
+            {
+                "text": "c",
+                "count": 1
+            },
+            {
+                "text": "UI system: Bối cảnh là hệ thống giao diện người dùng. Event Trigger component: Tên của component cụ thể.   Đáp Án & Giải Thích​  Đáp án đúng là: B. It allows developers to define custom events and actions triggered by various user interactions, such as clicks or mouseovers, on UI elements. (Nó cho phép các nhà phát triển định nghĩa các sự kiện và hành động tùy chỉnh được kích hoạt bởi nhiều tương tác người dùng khác nhau, chẳng hạn như nhấp chuột hoặc di chuột qua, trên các phần tử UI).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "detect: Phát hiện. mouse pointer enters: Con trỏ chuột đi vào. GameObject's collider: Yêu cầu đối tượng phải có một component Collider để sự kiện này hoạt động.   Đáp Án & Giải Thích​  Đáp án đúng là: A. OnMouseEnter",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "Advantage: Lợi ích, ưu điểm. Scripting integrated with physics: Sự kết hợp giữa code và hệ thống vật lý.   Đáp Án & Giải Thích​  Đáp án đúng là: B. It allows for precise control over object behavior and interactions within the physics simulation. (Nó cho phép điều khiển chính xác hành vi và tương tác của đối tượng bên trong mô phỏng vật lý).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            },
+            {
+                "text": "Fluid and natural-looking: Chuyển động mượt mà và tự nhiên. Character animations: Hoạt ảnh của nhân vật. Walking and running: Đặc biệt là các hành động di chuyển, nơi tương tác với mặt đất là rất quan trọng.   Đáp Án & Giải Thích​  Đáp án đúng là: C. Implementing inverse kinematics (IK) to dynamically adjust character limb positions during animation. (Triển khai nghịch động học (IK) để tự động điều chỉnh vị trí các chi của nhân vật trong khi diễn hoạt).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 13
+            },
+            {
+                "text": "Detecting collisions: Phát hiện va chạm. Function: Hàm cụ thể nào.   Đáp Án & Giải Thích​  Đáp án đúng là: C. OnCollisionEnter",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "Visualize the flow of execution: Hình dung được luồng thực thi, tức là xem code chạy từng dòng một như thế nào. During debugging: Trong quá trình gỡ lỗi.   Đáp Án & Giải Thích​  Đáp án đúng là: C. Debugging toolbar with Step Into, Step Over, and Step Out buttons (Thanh công cụ gỡ lỗi với các nút Step Into, Step Over, và Step Out).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "Primary purpose: Mục đích chính, cốt lõi. Animation events: Các sự kiện được đặt trên dòng thời gian (timeline) của một AnimationClip.   Đáp Án & Giải Thích​  Đáp án đúng là: B. To trigger scripted actions or behaviors at specific points during an animation's playback. (Để kích hoạt các hành động hoặc hành vi được lập trình tại các điểm cụ thể trong quá trình phát của một hoạt ảnh).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "Unity UI Navigation system: Hệ thống điều hướng của UI. Role: Vai trò, chức năng.   Đáp Án & Giải Thích​  Đáp án đúng là: B. Defining the navigation flow between UI elements using events like \"tab\" or \"arrow\" keys (Định nghĩa luồng điều hướng giữa các phần tử UI bằng cách sử dụng các sự kiện như phím \"tab\" hoặc \"mũi tên\").",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            },
+            {
+                "text": "Significance: Tầm quan trọng, vai trò chính. Event System component: Component \"Hệ thống Sự kiện\".   Đáp Án & Giải Thích​  Đáp án đúng là: C. It handles user input interactions such as clicks, taps, and drag gestures on UI elements. (Nó xử lý các tương tác đầu vào của người dùng như nhấp chuột, chạm và cử chỉ kéo trên các phần tử UI).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "Print debugging: Gỡ lỗi bằng cách in (print).   Đáp Án & Giải Thích​  Đáp án đúng là: C. Inserting print statements or logging messages into your code to track its execution and identify issues. (Chèn các câu lệnh in hoặc thông điệp ghi log vào code của bạn để theo dõi quá trình thực thi và xác định sự cố).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "How can you set up: Các bước thiết lập như thế nào? Animation Event: Sự kiện hoạt ảnh. Specific frame: Tại một khung hình cụ thể.   Đáp Án & Giải Thích​  Đáp án đúng là: B. By adding an Animation Event marker to the animation timeline and specifying the function name in the animation clip. (Bằng cách thêm một điểm đánh dấu Animation Event vào dòng thời gian của hoạt ảnh và chỉ định tên hàm trong clip hoạt ảnh đó).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "mouse button exit events: Sự kiện khi con trỏ chuột đi ra. method: Hàm nào.   Đáp Án & Giải Thích​  Đáp án đúng là: C. OnMouseExit",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "Blending multiple animations: Trộn nhiều hoạt ảnh. Seamlessly: Một cách liền mạch, mượt mà.   Đáp Án & Giải Thích​  Đáp án đúng là: B. Animator Controller",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "Watch the values: Theo dõi giá trị. Specific variables: Các biến cụ thể. While debugging: Trong quá trình gỡ lỗi (khi chương trình đang bị tạm dừng).   Đáp Án & Giải Thích​  Đáp án đúng là: C. Watch window in the debugging layout (Cửa sổ Watch trong giao diện gỡ lỗi).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "Purpose: Mục đích. Scene view: Cửa sổ \"Cảnh\".   Đáp Án & Giải Thích​  Đáp án đúng là: B. Designing and arranging game elements in a 3D space (Thiết kế và sắp xếp các yếu tố game trong một không gian 3D).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "How do you create: Làm thế nào để tạo ra? New GameObject: Một GameObject mới.   Đáp Án & Giải Thích​  Đáp án đúng là: B. Right-click in the Hierarchy window and choose \"Create Empty.\" (Nhấp chuột phải vào cửa sổ Hierarchy và chọn \"Create Empty\").",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 12
+            },
+            {
+                "text": "Simulate different screen resolutions and aspect ratios: Mô phỏng các độ phân giải và tỷ lệ khung hình khác nhau. Test your UI layout: Kiểm tra bố cục UI.   Đáp Án & Giải Thích​  Đáp án đúng là: D. Game View",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 12
+            },
+            {
+                "text": "Continuous interactions: Tương tác liên tục (hành động xảy ra suốt thời gian phím được giữ). Keyboard-based input: Tín hiệu từ bàn phím.   Đáp Án & Giải Thích​  Đáp án chính xác nhất trong các lựa chọn là: D. By using Input.GetKey or Input.GetKeyUp in the script attached to the game objects",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 12
+            },
+            {
+                "text": "Potential issue: Sự cố tiềm tàng, có thể gây vấn đề. Does not stop the execution: Không làm chương trình dừng lại.   Đáp Án & Giải Thích​  Đáp án đúng là: A. Warning",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 12
+            },
+            {
+                "text": "Touch input: Tín hiệu đầu vào từ việc chạm (thường là bằng ngón tay ). Handling interactions: Xử lý tương tác.   Đáp Án & Giải Thích​  Đáp án đúng là: A. Input.GetTouch",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "A",
+                "count": 2
+            },
+            {
+                "text": "D",
+                "count": 10
+            },
+            {
+                "text": "c",
+                "count": 1
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "Handling interactions: Xử lý tương tác. Interactive objects: Các vật thể có thể tương tác (cánh cửa, rương đồ, NPC...). Commonly used: Cách làm phổ biến.   Đáp Án & Giải Thích​  Đáp án đúng là: D. By implementing custom interaction methods triggered by player input (Bằng cách triển khai các phương thức tương tác tùy chỉnh được kích hoạt bởi tín hiệu đầu vào của người chơi).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            },
+            {
+                "text": "Freeze Position: Đóng băng vị trí. Inspector window: Tùy chọn này nằm trong cửa sổ Inspector của component Rigidbody.   Đáp Án & Giải Thích​  Đáp án đúng là: C. Locks a game object's position along specific axes (Khóa vị trí của một game object theo các trục cụ thể).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "EventTrigger component: Component \"Kích hoạt Sự kiện\". Purpose: Mục đích chính.   Đáp Án & Giải Thích​  Đáp án đúng là: B. Enabling the detection of various events on UI elements (Cho phép phát hiện các sự kiện khác nhau trên các phần tử UI).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            },
+            {
+                "text": "Scene Manager: Trình quản lý Scene. Allow you to do: Cho phép em làm gì?   Đáp Án & Giải Thích​  Đáp án đúng là: C. Load, unload, and transition between scenes (Tải, dỡ và chuyển đổi giữa các scene).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "Precisely input specific values: Nhập các giá trị cụ thể một cách chính xác. Position, rotation, or scale: Các thuộc tính của component Transform.   Đáp Án & Giải Thích​  Đáp án đúng là: B. Manually typing values in the Transform component of the Inspector window (Nhập giá trị thủ công vào component Transform của cửa sổ Inspector).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 14
+            },
+            {
+                "text": "Object Destruction: Hủy đối tượng. How: Bằng cách nào?   Đáp Án & Giải Thích​  Đáp án đúng là: B. By using the Destroy function (Bằng cách sử dụng hàm Destroy).",
+                "count": 1
+            }
+        ]
+    }
+]

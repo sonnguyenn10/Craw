@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz & Review Học Tập</title>
+    <link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+    <div class="app-container">
+        
+        <!-- ======================= -->
+        <!-- KHUNG TRÁI (VIỀN ĐỎ)    -->
+        <!-- ======================= -->
+        <div class="left-panel">
+            <div class="zoom-controls">
+                <button id="zoom-out" title="Thu nhỏ (Ctrl + Lăn chuột)">-</button>
+                <span id="zoom-level">100%</span>
+                <button id="zoom-in" title="Phóng to (Ctrl + Lăn chuột)">+</button>
+                <button id="zoom-reset" title="Khôi phục mặc định">↺</button>
+            </div>
+            <div class="image-wrapper" id="image-wrapper">
+                <!-- Hình ảnh Placeholder mặc định -->
+                <img id="question-image" src="" alt="Vui lòng chọn môn học và tải đề để bắt đầu...">
+            </div>
+        </div>
+
+        <!-- ======================= -->
+        <!-- KHUNG PHẢI              -->
+        <!-- ======================= -->
+        <div class="right-panel">
+            
+            <!-- KHUNG TRÊN (VIỀN XANH LÁ): MENU QUẢN LÝ -->
+            <div class="menu-manager">
+                <h2>Cổng Ôn Tập & Bài Thi</h2>
+                
+                <div id="course-selector">
+                    <select id="select-subject">
+                        <option value="">-- Chọn Môn --</option>
+                    </select>
+                    <select id="select-thread" disabled>
+                        <option value="">-- Chọn Đề --</option>
+                    </select>
+                    <button id="btn-load">TẢI ĐỀ LÊN</button>
+                </div>
+                
+                <div id="mode-selector" class="hidden">
+                    <button id="btn-review-mode" class="active">Chế độ Ôn Tập</button>
+                    <button id="btn-quiz-mode">Chế độ Quiz</button>
+                </div>
+
+                <div id="nav-bar" class="navigation-bar hidden">
+                    <button id="btn-prev" title="Phím mũi tên Trái">&laquo; Câu trước</button>
+                    <span id="question-counter">Câu - / -</span>
+                    <button id="btn-next" title="Phím mũi tên Phải">Câu tiếp &raquo;</button>
+                    <button id="btn-shuffle" title="Xáo trộn câu hỏi ngẫu nhiên">🔀 Đảo câu</button>
+                </div>
+            </div>
+
+            <!-- KHUNG DƯỚI (VIỀN VÀNG): COMMENT HOẶC QUIZ -->
+            <div id="main-content" class="content-manager hidden">
+                
+                <!-- QUIZ PANEL -->
+                <div id="quiz-panel" class="hidden">
+                    <h3 class="panel-title">Chọn Đáp Án:</h3>
+                    <div class="options">
+                        <button class="opt-btn" data-val="A">A</button>
+                        <button class="opt-btn" data-val="B">B</button>
+                        <button class="opt-btn" data-val="C">C</button>
+                        <button class="opt-btn" data-val="D">D</button>
+                        <button class="opt-btn" data-val="E">E</button>
+                        <button class="opt-btn" data-val="F">F</button>
+                    </div>
+                    <div id="quiz-feedback" class="hidden"></div>
+                </div>
+
+                <!-- REVIEW PANEL -->
+                <div id="review-panel">
+                    <h3 class="panel-title">Bình luận / Gợi ý:</h3>
+                    <div id="comments-list">
+                        <!-- Danh sách comments sẽ được điền bằng JS ở đây -->
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+    
+    <script src="app.js?v=2"></script>
+</body>
+</html>

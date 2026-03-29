@@ -1,0 +1,247 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+    height: 100vh;
+    overflow: hidden; /* Prevent full page scroll, look like an app */
+}
+
+.app-container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    padding: 10px;
+    gap: 15px;
+}
+
+/* KHUNG TRÁI (VIỀN ĐỎ) */
+.left-panel {
+    flex: 7; /* Chiếm khoảng 70% độ rộng */
+    border: 3px solid #e74c3c;
+    border-radius: 8px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden; 
+    position: relative;
+}
+
+.zoom-controls {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 8px 12px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    z-index: 10;
+    border: 1px solid #ddd;
+}
+
+.zoom-controls button {
+    padding: 5px 12px;
+    font-size: 18px;
+    border-radius: 6px;
+    background: #ecf0f1;
+    color: #2c3e50;
+    border: 1px solid #bdc3c7;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+}
+
+.zoom-controls button:hover {
+    background: #3498db;
+    color: white;
+    border-color: #2980b9;
+}
+
+#zoom-level {
+    font-weight: bold;
+    min-width: 50px;
+    text-align: center;
+    font-size: 14px;
+    color: #34495e;
+}
+
+.image-wrapper {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: auto; 
+}
+
+#question-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+/* KHUNG PHẢI */
+.right-panel {
+    flex: 3; /* Chiếm 30% độ rộng */
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    min-width: 350px;
+}
+
+/* KHUNG TRÊN (VIỀN XANH LÁ) */
+.menu-manager {
+    border: 3px solid #27ae60;
+    border-radius: 8px;
+    background: #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.menu-manager h2 {
+    margin: 0;
+    text-align: center;
+    color: #2c3e50;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+#course-selector {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+select, button {
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+button {
+    cursor: pointer;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+button:hover { background-color: #2980b9; }
+button:disabled { background-color: #bdc3c7; cursor: not-allowed; }
+
+#mode-selector {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+#mode-selector button {
+    flex: 1;
+    background-color: #ecf0f1;
+    color: #333;
+}
+
+#mode-selector button.active {
+    background-color: #2ecc71;
+    color: white;
+}
+
+.navigation-bar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 6px;
+    gap: 10px;
+}
+
+#question-counter {
+    font-weight: bold;
+    color: #34495e;
+}
+
+.navigation-bar button {
+    padding: 6px 12px;
+    font-size: 14px;
+}
+
+/* KHUNG DƯỚI (VIỀN VÀNG) */
+.content-manager {
+    border: 3px solid #f1c40f;
+    border-radius: 8px;
+    background: #fff;
+    padding: 20px;
+    flex: 1; /* Tự động co giãn chiếm phần chiều cao còn lại */
+    overflow-y: auto; /* Cho phép cuộn nếu comment quá dài */
+}
+
+.panel-title {
+    margin-top: 0;
+    color: #e67e22;
+    border-bottom: 2px solid #f1c40f;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+/* Quiz Panel */
+.options {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.opt-btn {
+    height: 60px;
+    font-size: 22px;
+    background-color: transparent;
+    color: #2c3e50;
+    border: 2px solid #bdc3c7;
+}
+
+.opt-btn:hover { background-color: #ecf0f1; border-color: #95a5a6; }
+.opt-btn.correct { background-color: #2ecc71; color: white; border-color: #27ae60; }
+.opt-btn.wrong { background-color: #e74c3c; color: white; border-color: #c0392b; }
+
+#quiz-feedback {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Review Panel */
+.comment-item {
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px dashed #ecf0f1;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.comment-item:last-child {
+    border-bottom: none;
+}
+.comment-count {
+    font-size: 0.85em;
+    color: #7f8c8d;
+}
+
+.hidden { display: none !important; }

@@ -1,0 +1,1024 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "B 0.2",
+                "count": 1
+            },
+            {
+                "text": "How does the principle of Immediate Feedback enhance user experience in UI design? (Làm thế nào nguyên tắc Phản hồi ngay lập tức (Immediate Feedback) cải thiện trải nghiệm người dùng trong thiết kế giao diện người dùng (UI)?)  Nhấn để mở rộng...    Phân tích từng đáp án:​ A. By providing extensive tutorials ➡ Cung cấp hướng dẫn chi tiết     Không liên quan trực tiếp đến Immediate Feedback. Đây là hỗ trợ hướng dẫn, không phải phản hồi hành động.   B. By giving users instant responses to their actions ➡ Cung cấp phản hồi ngay lập tức cho hành động của người dùng     Đây là định nghĩa chính xác nhất về Immediate Feedback. Khi người dùng nhấn nút, kéo trượt, gõ phím..., hệ thống phản hồi ngay (hiệu ứng, thông báo, rung, v.v) → giúp họ biết mình đã thao tác đúng hay sai.  Đáp án đúng.   C. By making the interface visually complex ➡ Làm cho giao diện phức tạp về mặt hình ảnh     Ngược lại, điều này còn gây khó chịu cho người dùng.   D. By maintaining uniformity in design elements ➡ Duy trì tính đồng nhất trong các thành phần thiết kế     Đây là một nguyên tắc thiết kế khác (Consistency) chứ không phải Immediate Feedback.    Đáp án đúng:​   Giải thích ngắn gọn bằng tiếng Việt:​ Nguyên tắc Phản hồi ngay lập tức (Immediate Feedback) giúp người dùng biết hành động của họ có hiệu quả hay không, qua đó tăng sự tin tưởng và kiểm soát khi sử dụng giao diện. Ví dụ: nút đổi màu khi bấm, popup xuất hiện khi gửi form thành công, v.v.",
+                "count": 1
+            },
+            {
+                "text": "2",
+                "count": 1
+            },
+            {
+                "text": "By giving users instant responses to theri actions",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "How can you create engaging effects for buttons in Unity? (Làm thế nào để tạo hiệu ứng hấp dẫn cho nút bấm trong Unity?)  Nhấn để mở rộng...    Phân tích các lựa chọn:​  A. By using sprite atlases or sprite sheets for optimization ➡ Dùng sprite atlas hoặc sprite sheet để tối ưu     Mặc dù hữu ích cho hiệu suất và quản lý tài nguyên, nhưng không trực tiếp tạo hiệu ứng tương tác hấp dẫn cho nút.   B. Through scripting to define custom behaviors ➡ Dùng script để định nghĩa hành vi tùy chỉnh       C. By assigning functions or methods to buttons ➡ Gán function hoặc method cho nút     Đây là để xử lý logic (như khi bấm thì làm gì), không tạo hiệu ứng hình ảnh.   D. Using Unity’s animation system or event triggers ➡ Dùng hệ thống animation hoặc event trigger của Unity     Đây là cách đúng và trực tiếp nhất để tạo hiệu ứng hấp dẫn cho nút như: hover, nhấn, scale, sáng lên,... Unity hỗ trợ sẵn qua Animator và Event Trigger component để xử lý các hiệu ứng UI tương tác.    Đáp án đúng:​",
+                "count": 1
+            },
+            {
+                "text": "enggaging hấp dẫn -> animation system D.",
+                "count": 1
+            },
+            {
+                "text": "Using Unity's animation system or event triggers",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "What is a recommended optimization technique for button assets in Unity? (Kỹ thuật tối ưu hóa được khuyến nghị cho các tài sản nút (button assets) trong Unity là gì?)  Nhấn để mở rộng...    Phân tích các lựa chọn:​  A. Using Unity’s animation system to animate buttons ➡ Dùng hệ thống animation của Unity để tạo chuyển động cho nút     Tốt cho hiệu ứng hình ảnh, nhưng không phải kỹ thuật tối ưu hóa chính cho tài nguyên.   B. Scripting custom button behaviors ➡ Viết script cho hành vi nút tùy chỉnh     Đây là phần logic hành vi, không liên quan đến tối ưu hóa tài nguyên.   C. Assigning functions or methods to buttons for specific actions ➡ Gán hàm/method cho nút để xử lý hành động     Giống như trên, đây là xử lý tương tác, không phải kỹ thuật tối ưu hóa.   D. Using sprite atlases or sprite sheets to minimize draw calls and improve performance ➡ Dùng sprite atlas hoặc sprite sheet để giảm draw call và cải thiện hiệu năng     Đây là kỹ thuật tối ưu hóa tài nguyên chuẩn trong Unity. Sprite Atlas giúp gộp nhiều ảnh nhỏ vào một texture lớn, từ đó giảm số lần truy xuất GPU (draw calls), cải thiện hiệu suất render UI.    Đáp án đúng:​",
+                "count": 1
+            },
+            {
+                "text": "Using sprite atlases or sprite sheets to minimize draw calls and improve performace",
+                "count": 1
+            },
+            {
+                "text": "optimization tôi ưu hóa - improve performance",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Câu hỏi là: \"Tính năng nào trong Unity cho phép bạn tạo sự khác biệt về mặt hình ảnh giữa các trạng thái nút khác nhau, chẳng hạn như Bình thường, Được đánh dấu, Đã nhấn và Bị tắt?\"  Các lựa chọn là:A. Bộ điều khiển hoạt ảnh (Animation Controller)B. Chuyển đổi trạng thái (State Transitions)C. Trình kết xuất Canvas (Canvas Renderer)D. Đối tượng Scriptable (Scriptable Objects)  Giải thích:  Trong Unity, để tạo sự thay đổi hình ảnh cho các nút (UI Buttons) khi chúng ở các trạng thái tương tác khác nhau (như khi nút bình thường, khi chuột di chuyển qua nút (highlighted), khi nhấn nút, hoặc khi nút bị vô hiệu hóa), tính năng được sử dụng là Chuyển đổi trạng thái (State Transitions).   Chuyển đổi trạng thái là một phần của hệ thống UI của Unity, cho phép bạn định nghĩa cách một phần tử UI (như nút) thay đổi diện mạo (màu sắc, hình ảnh, hoặc hoạt ảnh) khi nó chuyển từ trạng thái này sang trạng thái khác. Các trạng thái phổ biến nhất cho nút là Normal (bình thường), Highlighted (được đánh dấu khi di chuột qua), Pressed (đã nhấn), Selected (được chọn), và Disabled (bị vô hiệu hóa). Các lựa chọn khác không đúng trong trường hợp này:   A. Bộ điều khiển hoạt ảnh (Animation Controller): Mặc dù bạn có thể sử dụng hoạt ảnh để tạo hiệu ứng cho các trạng thái nút, nhưng \"State Transitions\" là khái niệm tổng quát và chính xác hơn, nó bao gồm cả việc chuyển đổi giữa các hoạt ảnh hoặc các thuộc tính khác. C. Trình kết xuất Canvas (Canvas Renderer): Đây là một thành phần chịu trách nhiệm hiển thị các phần tử UI trên Canvas, nó không phải là tính năng để quản lý các trạng thái tương tác của nút. D. Đối tượng Scriptable (Scriptable Objects): Đây là các đối tượng dữ liệu có thể được tạo và lưu trữ bên ngoài các cảnh, hữu ích cho việc quản lý dữ liệu lớn hoặc cấu hình, nhưng không trực tiếp liên quan đến việc tạo sự khác biệt hình ảnh cho các trạng thái nút. Vì vậy, đáp án chính xác nhất là B. Chuyển đổi trạng thái (State Transitions).",
+                "count": 1
+            },
+            {
+                "text": "button states -> State Transitions",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "Which uGUI component is useful for handling scrollable content, particularly for long lists or content that doesn’t fit in a fixed area? (Thành phần uGUI nào hữu ích để xử lý nội dung có thể cuộn, đặc biệt là danh sách dài hoặc nội dung không vừa trong khu vực cố định?)  Nhấn để mở rộng...    Phân tích đáp án:​  A. Slider     Dùng để điều chỉnh giá trị số (ví dụ: âm lượng, độ sáng), không phải để cuộn nội dung.   B. Dropdown     Dùng để hiển thị danh sách lựa chọn ẩn/hiện, không phải là vùng cuộn tự do cho nội dung lớn.   C. Toggle     Dùng để bật/tắt trạng thái (giống checkbox), không liên quan đến cuộn nội dung.   D. Scroll View     Chính xác – đây là thành phần chuyên dùng để hiển thị nội dung có thể cuộn trong Unity UI. Thường được dùng để hiển thị danh sách item, văn bản dài, nội dung động... Scroll View bao gồm cả thanh cuộn (Scrollbar), Content, Mask, và Viewport.    Đáp án đúng:​",
+                "count": 1
+            },
+            {
+                "text": "scrollable -> Scroll View",
+                "count": 1
+            },
+            {
+                "text": "Scrollable Content (Nội dung cuộn được) - Scroll View ->D",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "Input Field -> Enabling user input for text",
+                "count": 1
+            },
+            {
+                "text": "Input Field (Trường Nhập liệu) - Enabling user input for text (Cho phép người dùng nhập văn bản) ->C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Creating user-friendly and easy-to-navigate interfaces",
+                "count": 1
+            },
+            {
+                "text": "Usability (Tính khả dụng) - User-friendly &amp; Easy-to-navigate (Thân thiện và Dễ điều hướng) _>B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "\"Các bộ phận có thể uốn cong của mô hình được gọi là gì?\"   Đáp án đúng là: D. Joints (khớp nối)   Giải thích bằng tiếng Việt:   Trong mô hình 3D và hoạt hình (animation), để mô hình có thể chuyển động (như gập tay, xoay chân...), người ta cần tạo ra một hệ thống xương – gọi là rigging. Trong hệ thống này:    Bones (xương): là cấu trúc chính, giống như xương thật, giúp định hình và truyền chuyển động. Joints (khớp nối): là các điểm kết nối giữa các bone, cho phép mô hình uốn cong hay xoay chuyển linh hoạt. Ví dụ như khớp gối, khớp vai.",
+                "count": 1
+            },
+            {
+                "text": "bendable parts -> Joints",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "Managing the flow of animations and states",
+                "count": 1
+            },
+            {
+                "text": "Animator Controller - Managing Flow &amp; States (Quản lý luồng & các trạng thái) ->A",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "image.sprite = newSprite",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "clicks -> Button",
+                "count": 1
+            },
+            {
+                "text": "Interaction with Clicks (Tương tác bằng Click) - Button ->D",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "animator.speed = speed",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "simulating vehicle wheels -> Wheel Collider",
+                "count": 1
+            },
+            {
+                "text": "Vehicle Wheels (Bánh xe) - Wheel Collider ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "\"Which component of game logic manages different states of the game, such as main menu, gameplay, and pause menu?\" (Tạm dịch: Thành phần nào của logic game quản lý các trạng thái khác nhau của trò chơi như menu chính, chế độ chơi, và menu tạm dừng?)   Đáp án đúng là: C. State Machines     Giải thích bằng tiếng Việt:​  State Machines (Máy trạng thái) là một kỹ thuật phổ biến trong lập trình game để quản lý các trạng thái khác nhau của trò chơi. Ví dụ:  Khi bạn vào main menu → đó là một trạng thái. Khi bạn bắt đầu chơi → chuyển sang gameplay. Khi bạn nhấn pause → chuyển sang pause menu.   State Machine sẽ giúp bạn điều hướng hợp lý giữa các trạng thái này mà không bị lỗi logic.     Giải thích vì sao các đáp án khác sai:​  A. Physics and Colliders → Dùng để xử lý va chạm và vật lý, không quản lý trạng thái. B. AI (Artificial Intelligence) → Quản lý hành vi của NPC (nhân vật máy), không phải logic tổng thể. D. Player Controls → Xử lý điều khiển người chơi như di chuyển, nhảy... không liên quan đến quản lý trạng thái trò chơi.",
+                "count": 1
+            },
+            {
+                "text": "manages different states -> State Machines",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "The object's friction, bounciness, and sound effects",
+                "count": 1
+            },
+            {
+                "text": "Physics Material - Friction &amp; Bounciness (Ma sát & Độ nảy) ->C.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Sphere Collider",
+                "count": 1
+            },
+            {
+                "text": "Balls / Round Entities → Sphere Collider ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "Characters / Cylindrical (Nhân vật / Hình trụ) - Capsule Collider ->C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "Câu hỏi: \"What is the purpose of the Composite Collider 2D in Unity's physics system?\" (Tạm dịch: Mục đích của Composite Collider 2D trong hệ thống vật lý của Unity là gì?)     Đáp án đúng là: D. To combine multiple colliders into a single collider for improved performance in 2D physics (Kết hợp nhiều collider thành một collider duy nhất để cải thiện hiệu suất trong vật lý 2D)     Giải thích bằng tiếng Việt:​ Trong Unity (chế độ 2D), Composite Collider 2D thường được sử dụng cùng với Tilemap Collider 2D hoặc Polygon Collider 2D.    Khi bạn có nhiều collider nhỏ, hệ thống vật lý phải xử lý từng cái một → gây tốn hiệu suất. Composite Collider 2D cho phép bạn gộp tất cả các collider lại thành một hình duy nhất, giúp giảm số lượng collider và tối ưu hiệu năng trong game 2D.    Giải thích các lựa chọn sai:​  A. To use the actual mesh of a 3D model as the collider → Sai, vì đây là chức năng của Mesh Collider trong chế độ 3D, không liên quan đến Composite Collider 2D. B. To optimize collision detection for terrains created with Unity's terrain system → Cũng sai, vì Unity Terrain System là tính năng 3D. C. To enable realistic wheel interactions with terrain → Tính năng này liên quan đến Wheel Collider (trong 3D), không phải Composite Collider 2D.    Vậy nên, đáp án đúng nhất là D.",
+                "count": 1
+            },
+            {
+                "text": "To combine multiple colliders into a single collider for improve perfomace in 2D physics",
+                "count": 1
+            },
+            {
+                "text": "Composite Collider 2D - Combine multiple colliders (Kết hợp nhiều collider) ->D",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Enemy Behavior",
+                "count": 1
+            },
+            {
+                "text": "Logic for NPCs/Enemies (Logic cho NPC/Kẻ địch) - Enemy Behavior (Hành vi của Kẻ địch) ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "C?",
+                "count": 1
+            },
+            {
+                "text": "C ?",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 13
+            },
+            {
+                "text": "có thể là C, ScriptableObject -> item, PlayerPrefs -> âm thanh, external files -> data player, còn SceneRecontruction -> AR/VR ít thấy",
+                "count": 1
+            },
+            {
+                "text": "\"Which of the following is NOT a method commonly used for saving data in Unity?\" (Tạm dịch: Phương pháp nào sau đây KHÔNG phải là cách phổ biến để lưu dữ liệu trong Unity?)     Đáp án đúng là: C. SceneReconstruction     Giải thích bằng tiếng Việt:​ Các cách phổ biến để lưu dữ liệu trong Unity gồm:    A. PlayerPrefs: ✔ Dùng để lưu dữ liệu đơn giản như cài đặt âm thanh, điểm cao, v.v. (dưới dạng key-value). B. ScriptableObjects: ✔ Được dùng để lưu trữ cấu hình hoặc dữ liệu tĩnh một cách hiệu quả, không cần khởi tạo object runtime. D. External files: ✔ Lưu dữ liệu ra file như JSON, XML, binary... để giữ thông tin phức tạp như save game, thiết lập tùy chỉnh.   ​  SceneReconstruction không phải là một phương pháp lưu trữ dữ liệu. Nó thường liên quan đến AR (Augmented Reality) như trong AR Foundation, dùng để xây dựng lại bối cảnh thực – không dùng để lưu dữ liệu trò chơi.    Kết luận: C. SceneReconstruction là đáp án đúng vì nó không phải là phương pháp phổ biến để lưu dữ liệu trong Unity.",
+                "count": 1
+            },
+            {
+                "text": "SceneReconstruction",
+                "count": 1
+            },
+            {
+                "text": "NOT a saving method (KHÔNG PHẢI là phương pháp lưu) - SceneReconstruction (Là một phần của quá trình tải) ->C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "The dynamic GameObject's movement ...",
+                "count": 1
+            },
+            {
+                "text": "Dynamic Rigidbody Collision (Va chạm của Rigidbody Động) - Influenced by Mass &amp; Gravity (Bị ảnh hưởng bởi Khối lượng & Trọng lực)  ->C.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "Update runs every frame, while FixedUpdate() runs at a fixed time step",
+                "count": 1
+            },
+            {
+                "text": "Update() vs FixedUpdate() → Frame-Dependent vs. Fixed Time Step  ->A. \"Update() runs every frame, while FixedUpdate() runs at a fixed time step.\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "It allows for easier testing and reduces coupling between components",
+                "count": 1
+            },
+            {
+                "text": "Dependency Injection - Easier Testing &amp; Reduces Coupling (Dễ Test & Giảm Khớp Nối) ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "hierachical -> Hierarchy",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "\"For the loading process in Unity's data saving/loading implementation, what is the primary purpose of scene reconstruction?\" (Tạm dịch: Trong quá trình tải dữ liệu trong Unity, mục đích chính của việc scene reconstruction là gì?)     Đáp án đúng là: D. Restoring the scene's previous state using deserialized data (Khôi phục lại trạng thái trước đó của cảnh bằng cách sử dụng dữ liệu đã được giải tuần tự hóa)     Giải thích bằng tiếng Việt:​ Trong quá trình lưu và tải dữ liệu trong Unity:    Serialization (tuần tự hóa): Là quá trình chuyển đổi dữ liệu thành dạng có thể lưu trữ (ví dụ: JSON, binary...). Deserialization (giải tuần tự): Là quá trình khôi phục lại dữ liệu gốc từ dạng đã lưu trữ. Scene Reconstruction: Là bước sau khi đã deserialize, bạn dùng dữ liệu đó để khôi phục lại trạng thái của cảnh (Scene) – như vị trí các đối tượng, chỉ số, trạng thái nhân vật...    Tại sao các đáp án khác sai:​  A. Converting data into a serializable format → Đây là bước lưu (saving), không phải tải (loading). B. Managing storage medium → Liên quan đến việc lưu trữ, không trực tiếp liên quan đến việc phục hồi scene. C. Retrieving saved data from storage → Là bước lấy dữ liệu, chưa phải là khôi phục lại cảnh từ dữ liệu đó.",
+                "count": 1
+            },
+            {
+                "text": "Restoring the scene's previous state using deserizalized data",
+                "count": 1
+            },
+            {
+                "text": "Scene Reconstruction (Tái tạo Scene) - Restoring Previous State (Khôi phục Trạng thái trước đó)->D",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "The kinematic object will remain unaffected by the collision",
+                "count": 1
+            },
+            {
+                "text": "isKinematic - Unaffected by collision (Không bị ảnh hưởng bởi va chạm) ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "\"What is the purpose of serialization in Unity’s data saving and loading process?\" (Tạm dịch: Mục đích của việc serialization (tuần tự hóa) trong quá trình lưu và tải dữ liệu của Unity là gì?)     Đáp án đúng là: B. To convert data into a format suitable for storage (Chuyển đổi dữ liệu thành định dạng phù hợp để lưu trữ)     Giải thích bằng tiếng Việt:​ Serialization là quá trình:    Chuyển đổi dữ liệu trong game (biến, đối tượng, trạng thái...) thành một định dạng có thể lưu trữ được như JSON, XML, hoặc binary. Đây là bước đầu tiên trước khi ghi dữ liệu vào file, bộ nhớ, hoặc gửi qua mạng.    Tại sao các đáp án khác sai:​  A. To save data directly to PlayerPrefs → PlayerPrefs chỉ là một cách lưu dữ liệu đơn giản, không liên quan trực tiếp đến bản chất của serialization. C. To manage the storage location of saved files → Việc quản lý vị trí lưu trữ là một khía cạnh khác, không phải chức năng chính của serialization. D. To restore the scene’s previous state → Đây là vai trò của deserialization + scene reconstruction, không phải của serialization.    Kết luận: Serialization trong Unity được dùng để: Chuyển dữ liệu thành định dạng có thể lưu trữ → Đáp án đúng là B.",
+                "count": 1
+            },
+            {
+                "text": "To convert data into a format suitable for storage",
+                "count": 1
+            },
+            {
+                "text": "Serialization - Convert data for storage (Chuyển đổi dữ liệu để lưu trữ) -> B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "load a new scene -> SceneManager.LoadScene()",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Tilemap",
+                "count": 1
+            },
+            {
+                "text": "Tile-based Environment → Tilemap ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "One of the object does not have a Rigidbody",
+                "count": 1
+            },
+            {
+                "text": "Collision Event (Sự kiện va chạm) - Requires Rigidbody (Yêu cầu có Rigidbody) không có rigidbody nên không phát hiện va chạm. ->C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "Đáp án đúng là: B. To ignore physics forces but still detect overlaps (Bỏ qua các lực vật lý nhưng vẫn phát hiện sự chồng lấp (overlap))   Tại sao các đáp án khác sai:​  A. To allow physics-based collisions → Sai, vì bật isTrigger là vô hiệu hóa va chạm vật lý. C. To optimize rendering of Colliders → Sai, vì rendering không liên quan đến isTrigger (collider không hiển thị). D. To enable rigid body interaction with other objects → Sai, vì interaction vật lý bị vô hiệu hóa khi bật isTrigger.",
+                "count": 1
+            },
+            {
+                "text": "To ignore physics forces but still detect overlaps",
+                "count": 1
+            },
+            {
+                "text": "Trigger -> detect(phát hiện) ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "Flaws in Logic (Sai sót Logic) - Logic Errors (Lỗi Logic) ->D",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "\"What does the Profiler in Unity provide?\" (Tạm dịch: Profiler trong Unity cung cấp điều gì?)     Đáp án đúng là: C. Performance metrics and analysis to identify bottlenecks (Các chỉ số hiệu suất và phân tích để xác định điểm nghẽn (bottlenecks))     Giải thích bằng tiếng Việt:​ Unity Profiler là công cụ mạnh mẽ dùng để:    Theo dõi hiệu suất CPU, GPU, Rendering, Memory, Physics, Scripts, v.v. Giúp bạn phát hiện ra điểm nghẽn hiệu suất (performance bottlenecks) trong game. Cho phép bạn tối ưu hóa các đoạn mã hoặc quy trình gây chậm trễ.    Giải thích các đáp án sai:​  A. Log messages and warnings → Đây là chức năng của Console window, không phải Profiler. B. Properties and components of game objects → Đây là nhiệm vụ của Inspector. D. Debugging for remote devices → Unity có hỗ trợ debug từ xa, nhưng đó không phải chức năng chính của Profiler.",
+                "count": 1
+            },
+            {
+                "text": "Performance metrics and analysis to identify bottlenecks",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "The space for collision detection",
+                "count": 1
+            },
+            {
+                "text": "Collider - Space for collision detection (Không gian để phát hiện va chạm) ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "To enable type-safe function pointers",
+                "count": 1
+            },
+            {
+                "text": "Delegate Purpose → Technical Definition ->C type - safe pointers",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "keyframes, curves, and events",
+                "count": 1
+            },
+            {
+                "text": "AnimationClip - Keyframes, Curves, Events (Keyframe, Đường cong, Sự kiện)->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "Delegate that enables one object to notify other objects about actions",
+                "count": 1
+            },
+            {
+                "text": "Event C# -> Delegate.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Through event handling and scripting",
+                "count": 1
+            },
+            {
+                "text": "Interactive UI (UI tương tác) - Event Handling &amp; Scripting (Xử lý sự kiện & Viết code) ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "D",
+                "count": 2
+            },
+            {
+                "text": "a",
+                "count": 6
+            },
+            {
+                "text": "Này B chứ nhỉ? nó chỉ hỏi khi nút Space được nhấn mà?",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 10
+            },
+            {
+                "text": "Only prints \"JUMP\"",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "Handling frame updates for physics-related updates",
+                "count": 1
+            },
+            {
+                "text": "FixedUpdate - Physics-related (Liên quan đến Vật lý)  ->C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "inherit from ... base class with methods",
+                "count": 1
+            },
+            {
+                "text": "MonoBehaviour -> base class (lớp cơ sở) -> methods and properties (phương thức và thuộc tính) -> scripting GameObject behavior (lập trình hành vi cho GameObject). ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "\"How do sprites appear when viewed in 3D space in Unity?\" (Tạm dịch: Sprite trông như thế nào khi được xem trong không gian 3D của Unity?)     Đáp án đúng là: C. As paper-thin objects with no Z-width (Là các đối tượng mỏng như giấy, không có độ dày theo trục Z)     Giải thích bằng tiếng Việt:​  Sprite là hình ảnh 2D phẳng. Trong không gian 3D của Unity, sprite:  Không có chiều dày theo trục Z (Z-width = 0). Nhìn nghiêng theo trục Z sẽ thấy rất mỏng hoặc gần như không thấy gì – giống như một tờ giấy dựng đứng.     Giải thích các lựa chọn sai:​  A. As thick 3D objects in z-axis → Sai, vì sprite không có độ dày (không phải khối 3D). B. As transparent objects in all axes → Sai, vì sprite chỉ có độ trong suốt nếu texture của nó có alpha. D. As rotating objects aligned with the camera → Sai, đây là hành vi của Billboard hoặc các UI canvas, không phải sprite mặc định.",
+                "count": 1
+            },
+            {
+                "text": "As paper-thin objects with no Z-width",
+                "count": 1
+            },
+            {
+                "text": "Sprites in 3D space (Sprite trong không gian 3D) - Paper-thin (Mỏng như giấy) ->C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "\"In Unity, how are GameObjects' behavior primarily controlled?\" (Tạm dịch: Trong Unity, hành vi của GameObject chủ yếu được điều khiển bằng cách nào?)     Đáp án đúng là: B. Through attached Scripts (Thông qua các Script được gắn vào)     Giải thích bằng tiếng Việt:​  Trong Unity, hành vi của một GameObject thường được điều khiển thông qua các script C#. Các script này được gắn vào như một Component → từ đó bạn có thể điều khiển chuyển động, tương tác, điều kiện...   public class PlayerMovement : MonoBehaviour {     void Update()     {         transform.Translate(Vector3.forward * Time.deltaTime);     } }    Giải thích các đáp án sai:​ A. Through built-in Components exclusively → Sai vì bạn cần viết script cho hành vi tùy chỉnh. Built-in chỉ hỗ trợ các chức năng cơ bản. C. Through external plugins → Sai vì plugin là phần mở rộng, không phải cách điều khiển chính. D. Through visual scripting tools → Sai vì đây là tùy chọn, không phải cách chủ yếu. Visual scripting chỉ phổ biến gần đây (Unity Bolt...).",
+                "count": 1
+            },
+            {
+                "text": "Through attached Scripted",
+                "count": 1
+            },
+            {
+                "text": "GameObject behavior (hành vi của đối tượng) -> Custom Logic (logic tùy chỉnh) -> Attached Scripts (Script đính kèm). ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "They allow for non-blocking execution and can be paused and resumed",
+                "count": 1
+            },
+            {
+                "text": "Coroutines - Pause and Resume (Tạm dừng và Tiếp tục) -> B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "\"What are prefabs primarily used for in Unity game development?\" (Tạm dịch: Prefab chủ yếu được dùng để làm gì trong phát triển game Unity?)     Đáp án đúng là: C. Dynamically generating GameObjects during gameplay (Tạo GameObject một cách linh hoạt trong khi chơi)",
+                "count": 1
+            },
+            {
+                "text": "Dynamically generating GameObjects durring gameplay",
+                "count": 1
+            },
+            {
+                "text": "Prefabs (khuôn mẫu tái sử dụng) -> Instantiate() (hàm khởi tạo) -> Dynamically generating GameObjects (tạo đối tượng động).-> C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "\"What is one of the advantages of Unity’s modern Input System over the legacy Input Manager?\" (Tạm dịch: Một trong những lợi thế của hệ thống Input hiện đại trong Unity so với Input Manager cũ là gì?)     Đáp án đúng là: B. It provides support for a wider range of input devices (Nó hỗ trợ nhiều loại thiết bị nhập hơn)     Giải thích bằng tiếng Việt:​  Modern Input System trong Unity:  Hỗ trợ tốt hơn cho gamepad, joystick, bàn phím, chuột, cảm ứng, và cả thiết bị VR/AR. Cho phép lập trình linh hoạt, phân tách thiết bị, tạo hành động thay vì đọc phím thủ công. Là hệ thống thay thế tiên tiến cho Legacy Input Manager.     Tại sao các đáp án khác sai:​  A. It simplifies 3D object rendering → Sai, vì rendering không liên quan gì đến hệ thống nhập liệu. C. It automatically creates prefabs for input-related objects → Sai, hệ thống nhập liệu không tự tạo prefab. D. It limits input sources for improved efficiency → Sai, vì hệ thống mới mở rộng, không giới hạn nguồn nhập.",
+                "count": 1
+            },
+            {
+                "text": "It provides support for a wider range of input devices",
+                "count": 1
+            },
+            {
+                "text": "odern Input System (Hệ thống Input hiện đại) - Wider range of devices (Hỗ trợ nhiều thiết bị hơn) ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Place the image directly",
+                "count": 1
+            },
+            {
+                "text": "Import (Nhập vào dự án) - Assets Folder (Thư mục Assets) ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "Input.GetKeyDown(KeyCode.W) in Update()",
+                "count": 1
+            },
+            {
+                "text": "jump, pressed onece -> GetkeyDown, Update() ->B",
+                "count": 1
+            },
+            {
+                "text": "D",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "Before gameplay",
+                "count": 1
+            },
+            {
+                "text": "Start (Bắt đầu) - Initialization (Khởi tạo) -> B",
+                "count": 1
+            },
+            {
+                "text": "Awake(): Được gọi ngay khi GameObject được khởi tạo (khi scene load, hoặc khi object được bật lên). Dùng để khởi tạo dữ liệu không phụ thuộc vào các đối tượng khác.  Start(): Được gọi trước frame update đầu tiên, chỉ một lần. Chạy sau Awake() và sau khi tất cả các Awake() khác đã được gọi.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "\"How does a script operate in Unity compared to a traditional program?\" (Tạm dịch: Một script hoạt động trong Unity như thế nào so với chương trình truyền thống?)     Đáp án đúng là: B. Unity intermittently passes control to the script by calling specific event functions (Unity định kỳ chuyển quyền điều khiển sang script bằng cách gọi các hàm sự kiện cụ thể)     Giải thích bằng tiếng Việt:​  Unity không chạy script theo vòng lặp chính của bạn như trong chương trình C truyền thống. Thay vào đó, Unity tự động gọi các hàm sự kiện được định nghĩa sẵn như:  Start() → gọi 1 lần khi khởi tạo. Update() → gọi mỗi frame. FixedUpdate(), OnTriggerEnter(), OnCollisionEnter()... → tùy tình huống.   ➡ Script hoạt động theo luồng điều khiển sự kiện của Unity, chứ không phải bạn tự viết vòng lặp điều khiển.     Giải thích các lựa chọn sai:​  A. Unity runs the script continuously in a loop like a traditional program → Sai, vì không có vòng lặp chính do lập trình viên tự tạo. C. Unity executes the script only once at the start of the game → Sai, vì script chạy liên tục qua Update(), v.v. D. Unity requires manual updates every frame to run script → Sai, Unity tự động gọi Update(), không cần cập nhật thủ công.",
+                "count": 1
+            },
+            {
+                "text": "traditional -> intermittently",
+                "count": 1
+            },
+            {
+                "text": "Script Operate (Hoạt động của script) - Calling Event Functions (Gọi các hàm sự kiện)  ->B",
+                "count": 1
+            }
+        ]
+    }
+]

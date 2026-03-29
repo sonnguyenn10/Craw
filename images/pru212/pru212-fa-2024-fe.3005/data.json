@@ -1,0 +1,664 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "3",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "\"How can you implement a physics-based puzzle involving pulleys in Unity?\" (Tạm dịch: Làm thế nào để bạn triển khai một câu đố dựa trên vật lý có sử dụng ròng rọc trong Unity?)     Đáp án đúng là: C. By attaching Rigidbody and ConfigurableJoint components to simulate pulley mechanics (Gắn các thành phần Rigidbody và ConfigurableJoint để mô phỏng cơ chế ròng rọc)     Giải thích bằng tiếng Việt:​ Để mô phỏng ròng rọc trong Unity (đặc biệt là các câu đố vật lý), bạn cần:    Rigidbody: Cho phép vật thể bị ảnh hưởng bởi trọng lực và lực vật lý. ConfigurableJoint: Là một loại Joint nâng cao trong Unity, có thể cấu hình để mô phỏng cơ chế kéo, treo, hoặc trượt như ròng rọc.  ➡ Sự kết hợp này cho phép bạn tạo hệ thống chuyển động, lực căng, vật thể nâng lên – giống như ròng rọc thật.     Giải thích các lựa chọn sai:​  A. Adjusting lighting settings → Không liên quan đến vật lý hay ròng rọc. B. Using a Collider component → Collider chỉ giúp phát hiện va chạm, không đủ để mô phỏng cơ học. D. Simulating audio playback → Âm thanh không liên quan đến ròng rọc hay hệ vật lý.    Kết luận: Để mô phỏng ròng rọc vật lý, bạn cần dùng Rigidbody + ConfigurableJoint → Đáp án C là chính xác.",
+                "count": 1
+            },
+            {
+                "text": "C sủi",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "(Tạm dịch: Làm thế nào để bạn triển khai một cơ chế trong Unity phản hồi khác nhau với va chạm dựa trên tag của đối tượng va chạm?)     Đáp án đúng là: C. By checking for OnCollisionEnter events and comparing the colliding object's tag (Bằng cách kiểm tra sự kiện OnCollisionEnter và so sánh tag của đối tượng va chạm)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "\"In Unity's UI system, what does the term 'UI Mask' refer to?\" (Tạm dịch: Trong hệ thống UI của Unity, thuật ngữ UI Mask đề cập đến điều gì?)     Đáp án đúng là: B. A component that restricts the visibility of UI elements to a specific area or shape (Một thành phần dùng để giới hạn khả năng hiển thị của các phần tử UI trong một vùng hoặc hình dạng cụ thể)     Giải thích bằng tiếng Việt:​  UI Mask trong Unity là một component được dùng trong hệ thống UI. Nó ẩn các phần tử UI con nằm ngoài vùng hiển thị của Mask. Thường dùng trong:  ScrollView Mini-map Cửa sổ cắt bớt nội dung   Ví dụ: Nếu bạn có một danh sách dài trong một ScrollRect, Mask giúp ẩn phần nội dung vượt ra ngoài khung nhìn.     Giải thích các lựa chọn sai:​  A. Áp dụng hiệu ứng đặc biệt → Sai, vì đó là nhiệm vụ của Shadow, Outline, v.v. C. Quản lý nhóm UI → Sai, đây là nhiệm vụ của Canvas hoặc Empty GameObject. D. Thay đổi kích thước động dựa trên input → Sai, điều này do Layout Group hoặc script xử lý, không phải Mask.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 16
+            },
+            {
+                "text": "(Tạm dịch: Giao diện lập trình nào trong Unity cho phép điều khiển chi tiết các hoạt ảnh, bao gồm gọi sự kiện và chuyển đổi trạng thái bằng mã?)     Đáp án đúng là: A. Animator     Giải thích bằng tiếng Việt:​  Animator là API chính trong Unity dùng để:  Điều khiển chuyển đổi animation state. Kích hoạt trigger, bool, float, hoặc int trong Animator Controller. Blend các animation hoặc chạy lại từ đầu.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "critical -> error potential -> warning runtime -> exception",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "A. Pixel-based layout → Không co giãn, gây vỡ bố cục khi đổi độ phân giải. C. Absolute positioning → Cố định theo tọa độ tuyệt đối → không linh hoạt. D. Fixed-size layout → Cố định kích thước → không phản ứng với các thiết bị khác nhau.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 15
+            },
+            {
+                "text": "\"Which debugging technique is commonly used to trace the flow of execution through your code and identify logical errors?\" (Tạm dịch: Kỹ thuật debug nào thường được sử dụng để theo dõi luồng thực thi mã và xác định lỗi logic?)     Đáp án đúng là: D. Step-through debugging (Gỡ lỗi từng bước)     Giải thích bằng tiếng Việt:​  Step-through debugging là kỹ thuật cho phép bạn:  Chạy từng dòng mã một cách tuần tự. Kiểm tra giá trị của biến tại từng thời điểm. Theo dõi luồng điều khiển (flow) để phát hiện lỗi logic hoặc điều kiện sai.   ➡ Đây là cách hiệu quả nhất để hiểu chương trình đang chạy như thế nào và tại sao nó không hoạt động đúng.     Giải thích các lựa chọn sai:​  A. Unit testing → Dùng để kiểm tra chức năng của từng phần mã, không theo dõi luồng thực thi trực tiếp. B. Regression testing → Dùng để đảm bảo tính năng cũ không bị lỗi sau khi cập nhật, không để debug logic. C. Code profiling → Dùng để kiểm tra hiệu năng, không phải để tìm lỗi logic.",
+                "count": 1
+            },
+            {
+                "text": "d. Step-through debugging là kỹ thuật debug chạy từng dòng mã lệnh",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "b. \"Integration\" trong vật lý Unity là việc kết hợp mã code (script) với hệ thống mô phỏng vật lý",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "\"In Unity's UI system, what is the purpose of the 'Canvas' component?\" (Tạm dịch: Trong hệ thống UI của Unity, mục đích của component Canvas là gì?)     Đáp án đúng là: B. It acts as a container for UI elements and provides a coordinate system for positioning them on the screen. (Nó hoạt động như một vùng chứa các phần tử UI và cung cấp hệ tọa độ để định vị chúng trên màn hình.)     Giải thích bằng tiếng Việt:​  Canvas là gốc của toàn bộ hệ thống UI trong Unity. Nó là nơi chứa tất cả các phần tử UI như Text, Image, Button, Panel... Nó định nghĩa hệ tọa độ không gian màn hình để các phần tử con có thể được căn chỉnh chính xác theo kích thước và tỷ lệ màn hình.    Tại sao các đáp án khác sai:​  A. Gần đúng nhưng chưa đầy đủ — chỉ nói đến bố cục mà không nhấn mạnh vai trò container và hệ tọa độ. C. Sai vì xử lý input là vai trò của EventSystem, không phải Canvas. D. Sai vì việc áp dụng hiệu ứng như bóng, viền là do các component như Shadow, Outline, không phải do Canvas.",
+                "count": 1
+            },
+            {
+                "text": "b. Canvas là container chứa UI, cung cấp hệ trục tọa độ giúp sắp xếp",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "c",
+                "count": 1
+            },
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "D do di du don de",
+                "count": 1
+            },
+            {
+                "text": "A. Unity Debugger → Không có công cụ tên chính xác là \"Unity Debugger\". Unity dùng IDE ngoài (như Visual Studio) để debug, không phải để theo dõi FPS hoặc memory. B. Inspector → Dùng để xem và chỉnh sửa thuộc tính của GameObject, không phải để theo dõi hiệu suất. C. Console → Hiển thị log, warning, error, không theo dõi hiệu suất hệ thống.  D. Frame Debugger → Dùng để xem rendering pipeline từng frame, tuy không cung cấp FPS/memory đầy đủ, nhưng gần nhất với việc giám sát hiệu năng trong các lựa chọn cho sẵn.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            },
+            {
+                "text": "Đáp án đúng là: C. Implementing inverse kinematics (IK) to dynamically adjust character limb positions during animation. (Triển khai kỹ thuật inverse kinematics (IK) để điều chỉnh vị trí tay chân nhân vật một cách linh hoạt trong khi hoạt ảnh đang phát.)     Giải thích bằng tiếng Việt:​  Inverse Kinematics (IK) cho phép:  Điều chỉnh vị trí tay chân, bàn chân, đầu gối... của nhân vật theo thời gian thực, sao cho phù hợp với mặt đất hoặc tương tác vật lý (như leo thang, bước qua vật thể). Giúp chuyển động như đi bộ, chạy, nhảy trông mượt mà, tự nhiên hơn so với hoạt ảnh cứng nhắc thông thường.     Tại sao các lựa chọn khác sai:​  A. Applying random rotations → Gây ra chuyển động không tự nhiên, không kiểm soát được. B. Increasing playback speed → Làm cho hoạt ảnh nhanh hơn, nhưng không cải thiện tính chân thực. D. Switching abruptly between states → Làm cho chuyển động bị giật, mất tự nhiên, trái ngược với yêu cầu “fluid”.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "c. Prefabs cho phép bạn lưu cấu hình các object/component, sau đó tái sử dụng, nhân bản hoặc thay đổi đồng loạt rất tiện.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "Đáp án đúng là: A. Scene view     Giải thích bằng tiếng Việt:​  Scene view là nơi bạn:  Kéo, thả, xoay, thay đổi kích thước các GameObject trong không gian. Dùng các công cụ như Move Tool, Rotate Tool, Scale Tool. Quan sát môi trường game từ nhiều góc độ để định vị chính xác.     Tại sao các đáp án khác sai:​  B. Inspector window → Dùng để chỉnh thông số chi tiết (transform, script, component...) nhưng không trực tiếp thao tác kéo thả. C. Hierarchy window → Hiển thị danh sách các GameObject trong scene theo cây phân cấp, không cho chỉnh vị trí trực tiếp. D. Project window → Chứa tài nguyên (asset), không liên quan đến việc định vị GameObject trong scene.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 14
+            },
+            {
+                "text": "c. Giữ phím Shift khi kéo một thanh scale sẽ giúp scale đều tất cả các trục (uniform scale), không bị méo.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            },
+            {
+                "text": "c. Khi scale (0, 0, 0), object co lại thành một điểm, nên coi như biến mất hoàn toàn trên màn hình (nhưng vẫn tồn tại trong scene, chỉ là không thấy nữa).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            },
+            {
+                "text": "c. Input.GetKey dùng để kiểm tra phím có đang được giữ không, thích hợp xử lý di chuyển liên tục",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "b",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "c. [NonSerialized] dùng để biến vẫn hiện trong Inspector (nếu là public), nhưng Unity sẽ không serialize (lưu giá trị khi save scene/prefab).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 14
+            },
+            {
+                "text": "c. [HideInInspector] sẽ ẩn biến khỏi Inspector dù có serialize hay public, nhưng giá trị vẫn tồn tại trong code.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "c. Conditional breakpoints (điểm dừng có điều kiện) cho phép bạn dừng chương trình chỉ khi một điều kiện cụ thể trong code xảy ra",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "c. Coroutine cho phép bạn nội suy (lerp/interpolate) trạng thái giữa hai animation qua nhiều frame, tạo chuyển động chuyển tiếp mượt mà.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "c. Để lấy vị trí touch/click, Unity dùng Input.mousePosition (cho chuột) hoặc Input.GetTouch (cho màn hình cảm ứng).",
+                "count": 1
+            }
+        ]
+    }
+]
