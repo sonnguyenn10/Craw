@@ -1,0 +1,976 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "Za Hi B đã viết:    b  Nhấn để mở rộng...  Ghek z tr",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "sai thầy T bóp cổ t",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "Câu hỏi: Chức năng chính của một \"rig\" là gì khi thực hiện animation cho một mô hình (model)?   Đáp án đúng:​ (Để xác định những bộ phận nào của mô hình có thể chuyển động)     Giải thích:​ Rigging là quá trình tạo bộ xương (skeleton) cho mô hình 3D. Mỗi \"xương\" sẽ điều khiển một phần nhất định của mô hình, từ đó cho phép:    Bẻ khớp tay, chân, đầu... Gắn animation vào từng phần cơ thể Tạo chuyển động mượt mà, logic  Rig chính là cầu nối giữa mô hình 3D và animation.     Giải thích vì sao các đáp án khác sai:​  A. To create realistic textures → Sai: Việc tạo texture là công việc của texturing, không liên quan đến rigging. B. To determine the model’s color palette → Sai: Màu sắc được quyết định bởi material và texture, không phải rig. D. To generate environmental effects → Sai: Hiệu ứng môi trường như mưa, gió, khói... liên quan đến VFX, không phải rig.",
+                "count": 1
+            },
+            {
+                "text": "To specify which parts of the model can move",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "Đáp án đúng:​   Giải thích:​ Để chuyển giữa các state trong Animator Controller bằng script, bạn cần sử dụng một parameter đã được định nghĩa sẵn trong Animator (Trigger, Bool, Int, Float), ví dụ: Animator animator = GetComponent<Animator>(); animator.SetTrigger(\"Attack\");",
+                "count": 1
+            },
+            {
+                "text": "By setting parameter in the Animator",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "âu hỏi: Nguyên tắc nào sau đây KHÔNG phải là nguyên tắc được đề cập trong Thiết kế Giao diện Tương tác (Interactive UI Design)?     Đáp án đúng:​   Giải thích:​ Các nguyên tắc cơ bản của Thiết kế UI tương tác thường bao gồm:    A. Usability (Tính dễ sử dụng): Giao diện cần dễ hiểu, dễ thao tác. B. Consistency (Tính nhất quán): Các yếu tố thiết kế lặp lại giúp người dùng quen thuộc nhanh hơn. C. Immediate feedback (Phản hồi tức thì): Giao diện cần phản hồi ngay khi người dùng thực hiện hành động (như nhấn nút, nhập dữ liệu...).  Ngược lại:    D. Cost-effectiveness (Hiệu quả chi phí) là một yếu tố liên quan đến kinh tế, quản lý dự án, không phải là nguyên tắc thiết kế UI/UX. Nó không tác động trực tiếp đến trải nghiệm người dùng trong giao diện.",
+                "count": 1
+            },
+            {
+                "text": "Cost-effectiveness",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "Đáp án đúng:​ (Thiết kế giao diện dễ hiểu, dễ học)     Giải thích:​ Learnability (Tính dễ học) là một nguyên tắc quan trọng trong UI/UX, tập trung vào việc:    Giúp người dùng mới dễ dàng học cách sử dụng hệ thống. Giao diện rõ ràng, logic, trực quan, không cần hướng dẫn phức tạp. Tối ưu trải nghiệm lần đầu và rút ngắn thời gian học cách sử dụng sản phẩm.    Vì sao các phương án khác sai:​  A. Making interfaces visually appealing → Sai: Liên quan đến thẩm mỹ (aesthetics), không phải mục tiêu chính của learnability. C. Ensuring interfaces are feature-rich → Sai: Nhiều tính năng có thể làm giao diện khó học hơn, nếu không được thiết kế hợp lý. D. Providing advanced customization options → Sai: Tùy chỉnh nâng cao là cho người dùng đã quen, không phục vụ mục tiêu “dễ học”.",
+                "count": 1
+            },
+            {
+                "text": "Designing easy-to-understand interfaces",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "Câu hỏi: Animator Controller sử dụng gì để quản lý các trạng thái animation và các transition?     Đáp án đúng:​ (Một máy trạng thái)     Giải thích:​ Trong Unity, Animator Controller sử dụng State Machine để:    Quản lý các animation state (Idle, Run, Jump, v.v.). Thiết lập các transition (chuyển đổi) giữa các state dựa trên điều kiện (parameter). Cho phép tạo logic điều khiển animation một cách trực quan và có tổ chức.  ▶ Ví dụ: Khi người chơi nhấn nút chạy, SetBool(\"isRunning\", true) sẽ khiến Animator chuyển từ trạng thái Idle sang Run.     Vì sao các lựa chọn khác sai:​  A. A Timeline Editor → Sai: Timeline Editor dùng để tạo cutscenes, trình tự diễn hoạt không tương tác – không phải để quản lý animation state trong Animator Controller. B. A Rigidbody component → Sai: Rigidbody dùng cho vật lý, không liên quan đến animation hoặc Animator. D. A Prefab structure → Sai: Prefab là để lưu trữ mẫu GameObject, không phải công cụ quản lý animation.",
+                "count": 1
+            },
+            {
+                "text": "A state machine",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "Đáp án đúng:​ (Gửi sự kiện đến các đối tượng dựa trên thao tác nhập liệu của người dùng)     Giải thích:​ Event System trong Unity là một phần quan trọng của hệ thống UI, có vai trò:    Theo dõi và xử lý input từ người dùng (như nhấp chuột, chạm, phím bấm). Gửi các sự kiện như OnClick, OnPointerEnter, OnSubmit... đến các UI elements hoặc GameObjects tương ứng. Kết hợp với các Input Module (Standalone, Touch Input, v.v.).  Ví dụ: Khi bạn bấm nút UI, Event System sẽ gửi sự kiện OnClick đến Button.     Vì sao các phương án khác sai:​  A. To handle animations for game objects → Sai: Animation được xử lý bởi Animator hoặc Animation component, không liên quan đến Event System. C. To manage the visual appearance of UI elements → Sai: Việc quản lý giao diện (màu sắc, hình ảnh...) là của các UI component (Image, Text, Canvas Renderer), không phải Event System. D. To calculate physics interactions between objects → Sai: Tương tác vật lý (va chạm, lực...) được xử lý bởi Physics engine (Rigidbody, Collider), không liên quan đến hệ thống sự kiện.",
+                "count": 1
+            },
+            {
+                "text": "To send events to objects based on input",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "\"Chức năng của Animator Controller trong hệ thống animation của Unity là gì?\"   Hỏi ChatGPT    Đáp án đúng:​ (Nó xác định các điều kiện để phát animation)     Giải thích:​ Animator Controller trong Unity:    Là công cụ quản lý các animation state (Idle, Run, Jump,...) Dùng để thiết lập các điều kiện (conditions) dựa trên parameter (Trigger, Bool, Float,...) để xác định khi nào một animation được phát. Giúp bạn thiết kế State Machine, trong đó các animation chuyển đổi dựa trên logic lập trình hoặc input của người chơi.  ▶ Ví dụ: Khi isRunning = true → chuyển từ Idle → Run     Giải thích các phương án sai:​  A. Controlling the conditions for playing animations → Gần đúng nhưng diễn đạt không chuẩn bằng phương án C. (C chính xác hơn về mặt khái niệm và từ ngữ chính thức trong Unity) B. It creates individual animation loops → Sai: Animator Controller không “tạo” loop. Animation clip mới là cái chứa loop hoặc không loop. D. It controls the timing of animations → Sai: Timing được điều chỉnh trong Animation clip hoặc dùng các hàm như Animator.speed, chứ không phải do Animator Controller trực tiếp điều khiển. E. It shifts between different animations → Sai: Nghe có vẻ đúng, nhưng quá mơ hồ. “Shifts” là kết quả của việc thiết lập conditions, chứ không mô tả vai trò chính.",
+                "count": 1
+            },
+            {
+                "text": "It determines the conditions for playing animations",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B c",
+                "count": 4
+            },
+            {
+                "text": "Đáp án đúng là:​ B. To arrange a set of animations for a GameObject C. To maintain a set of animations for a GameObject     Giải thích:​  Animator Controller trong Unity là một công cụ cho phép bạn:  Tổ chức (arrange) nhiều animation clip thành các state. Duy trì và điều khiển quá trình chuyển đổi (transition) giữa các state dựa trên các điều kiện (parameters). Áp dụng cho GameObject thông qua component Animator.   Do đó:    B. Arrange: sắp xếp các animation thành logic (Idle → Run → Jump…). C. Maintain: duy trì và quản lý tập hợp animation cho một GameObject.",
+                "count": 1
+            },
+            {
+                "text": "bc",
+                "count": 14
+            },
+            {
+                "text": "To arrange a set of animations for a GameObject To maintain a set of animations for a GameObject",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "Câu hỏi: Animation cải thiện trải nghiệm người dùng khi tương tác với các nút trong Unity như thế nào?   Đáp án đúng:​ (Bằng cách cung cấp phản hồi thị giác thông qua thay đổi animation dựa trên tương tác của người dùng)     Giải thích:​  Khi người dùng nhấn, di chuột qua hoặc chạm vào nút trong Unity, animation có thể giúp nút:  Thay đổi kích thước Sáng lên Rung nhẹ hoặc chuyển động mềm mại   ➡ Điều này tăng cảm giác phản hồi, giúp người dùng nhận biết rằng hành động của họ đã được ghi nhận, từ đó cải thiện trải nghiệm người dùng (UX).     Giải thích các đáp án sai:​  A. Thêm nhạc nền không liên quan trực tiếp đến nút hoặc animation của nút. C. Vật lý không phải là cơ chế chính khi làm việc với animation UI. D. Thay đổi vị trí có thể là một phần của animation, nhưng không phải mục tiêu chính để cải thiện UX khi tương tác với nút.",
+                "count": 1
+            },
+            {
+                "text": "By providing visual feedback through changes in animations based on user interactions",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "Mục đích chính của Broad-Phase Collision Detection (Phát hiện va chạm giai đoạn rộng) trong Unity là gì?   Đáp án đúng là:  A. Để xác định hiệu quả các va chạm tiềm năng trong số lượng lớn đối tượng     Giải thích bằng tiếng Việt:​ Trong Unity (và các engine vật lý khác như PhysX), quá trình phát hiện va chạm thường được chia thành 2 giai đoạn:   1.​  Là bước đầu tiên và chạy rất nhanh. Mục tiêu là lọc ra các cặp đối tượng có khả năng va chạm, dựa trên hộp bao (Bounding Boxes). Không kiểm tra chi tiết hình dạng thật của vật thể. Giúp giảm tải cho giai đoạn sau bằng cách loại bỏ những đối tượng chắc chắn không thể va chạm.   Đây là lý do vì sao đáp án A là đúng.   2.​  Xác định chính xác liệu các cặp đối tượng được chọn ở bước trước có thực sự va chạm hay không. Tính toán va chạm chi tiết, theo hình dạng thật của collider. Chi phí xử lý cao hơn.    Tóm lại:​  Broad-Phase là bước lọc nhanh: “có thể va chạm hay không?” Narrow-Phase mới xử lý chính xác: “có va chạm thật hay không?”   Vì vậy, đáp án A là chính xác nhất và đúng với vai trò của Broad-Phase trong Unity.",
+                "count": 1
+            },
+            {
+                "text": "To efficiently identify potential collisions among a large number of objects",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "Câu hỏi: Chức năng của thuộc tính drag trong Rigidbody của Unity là gì?     Đáp án đúng:​ (Mô phỏng lực cản của không khí hoặc chất lỏng, ảnh hưởng đến tốc độ giảm dần của vật thể khi di chuyển trong không gian)     Giải thích:​  Trong Unity, thuộc tính drag của Rigidbody đại diện cho lực cản tuyến tính (Linear Drag), giống như lực cản không khí hoặc ma sát với môi trường. Khi giá trị drag càng lớn, vật thể sẽ giảm tốc độ nhanh hơn khi không còn lực tác động. Nó không ảnh hưởng đến chuyển động xoay, chỉ ảnh hưởng đến di chuyển tuyến tính (linear movement).    Vì sao các lựa chọn khác sai:​  A. To adjust the gravitational pull on the object → Sai: Trọng lực được điều chỉnh bằng thuộc tính Use Gravity hoặc thông qua Physics.gravity, không liên quan đến drag. C. To apply a constant force in a specific direction → Sai: Việc áp lực liên tục là do AddForce() chứ không phải drag. D. To control the rotational speed of the object → Sai: Tốc độ quay được điều khiển bởi thuộc tính angularDrag, không phải drag.",
+                "count": 1
+            },
+            {
+                "text": "To simulate air or resistance",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "Câu hỏi: Khía cạnh nào của logic game liên quan đến việc thiết lập các sự kiện (events) và trigger để phản hồi các hành động cụ thể?     Đáp án đúng:​ (Sự kiện và trình kích hoạt)     Giải thích:​ Trong Unity và phát triển game nói chung:    Events và Triggers là phần quan trọng trong logic gameplay. Chúng cho phép bạn thiết lập các hành động phản hồi khi người chơi thực hiện một hành động cụ thể như:  Va chạm vào vùng nguy hiểm → mất máu  Nhấn nút → mở cửa  Bước vào trigger zone → chơi cutscene    Giải thích vì sao các phương án khác sai:​ A. Scripts → Sai một phần: Script là nơi chứa logic, nhưng bản thân nó không nói lên việc \"thiết lập trigger và sự kiện\". Nó thi hành chứ không phải là khía cạnh chính. C. State Machines → Sai: Dùng để quản lý trạng thái (animation, AI...) chứ không phải để thiết lập các trigger gameplay. D. Physics and Colliders → Sai: Là công cụ giúp phát hiện va chạm, nhưng không xử lý logic phản hồi – điều đó do trigger & event đảm nhiệm.",
+                "count": 1
+            },
+            {
+                "text": "Events and Triggers",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "Câu hỏi: Yếu tố nào quyết định một đối tượng phản ứng như thế nào với lực va chạm trong Unity?     Đáp án đúng:​ (Khối lượng và vận tốc của Rigidbody)     Giải thích:​ Trong Unity, khi một đối tượng có thành phần Rigidbody va chạm với vật khác, phản ứng vật lý (như đẩy, nảy, dừng lại) phụ thuộc vào:    Khối lượng (mass): vật nặng hơn khó bị đẩy hơn. Vận tốc (velocity): vật nhanh hơn tạo ra lực va chạm lớn hơn.  Hai yếu tố này ảnh hưởng đến động lượng (momentum) trong va chạm: → momentum = mass × velocity     Giải thích các lựa chọn sai:​  A. The object’s texture and size → Sai: Texture và kích thước hiển thị không ảnh hưởng đến va chạm vật lý. Colliders và Rigidbody mới quyết định điều đó. C. The number of colliders attached to the object → Sai: Số lượng Collider không quyết định lực phản ứng – chỉ giúp xác định vùng va chạm. D. The object’s color and material → Sai: Màu sắc và material chỉ ảnh hưởng đến hiển thị, không liên quan đến lực va chạm (trừ khi là Physics Material, nhưng câu này nói đến material theo kiểu đồ họa).",
+                "count": 1
+            },
+            {
+                "text": "The Rigidbody's mass and velocity",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "Câu hỏi: Thuộc tính \"friction\" (ma sát) của một physics material trong Unity điều khiển điều gì?     Đáp án đúng:​ (Lực cản chuyển động giữa hai vật thể va chạm với nhau)     Giải thích:​ Trong Unity, Physics Material được sử dụng để kiểm soát cách các vật thể tương tác vật lý với nhau, đặc biệt là khi va chạm hoặc trượt trên nhau.    Thuộc tính Friction (ma sát) điều chỉnh mức độ chống lại chuyển động trượt của vật thể khi tiếp xúc với vật khác. Có hai loại:  Static Friction – ma sát khi vật chưa bắt đầu trượt Dynamic Friction – ma sát khi vật đang trượt     Giải thích các đáp án sai:​  A. The difference of color and texture between two colliding objects → Sai: Màu sắc và kết cấu không ảnh hưởng đến vật lý va chạm. C. The animation speed during collisions of two objects → Sai: Tốc độ animation được điều khiển bởi Animator, không liên quan đến vật lý hoặc friction. D. The volume of sound effects during impacts on two objects → Sai: Âm thanh được xử lý bởi Audio Source, không liên quan đến Physics Material.",
+                "count": 1
+            },
+            {
+                "text": "friction : ma sát => resistance",
+                "count": 1
+            },
+            {
+                "text": "The resistance to motion between two colliding objects",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "Câu hỏi: \"Triggers khác gì so với va chạm thông thường (regular collision) trong Unity?\"   Đáp án đúng là:  C. Triggers không tạo ra phản ứng vật lý va chạm, còn Colliders thì có     Giải thích bằng tiếng Việt:​ Trong Unity:   ​  Dùng để phát hiện va chạm vật lý thật sự, ví dụ như đẩy, nảy, chặn,... Khi hai Collider chạm nhau và có Rigidbody, Unity sẽ xử lý va chạm theo vật lý (bật ra, dừng lại,...). Dùng cho các đối tượng có vật lý tương tác thật.  ​  Cũng dùng Collider, nhưng được đánh dấu là \"Is Trigger\" trong Inspector. Không tạo ra phản ứng vật lý, vật thể có thể đi xuyên qua. Dùng để kích hoạt sự kiện, ví dụ như mở cửa, tính điểm, bắt đầu hoạt ảnh...",
+                "count": 1
+            },
+            {
+                "text": "OnTriggeredEnter2D() => kh theo vật lý  OnCollisionEntered2D()=> theo vậy lý",
+                "count": 1
+            },
+            {
+                "text": "Triggers do not generate physics responses, colliders do",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "\"Thành phần Collider nào được khuyến nghị để mô hình hóa nhân vật hoặc các hình dạng dài?\"    Giải thích bằng tiếng Việt:​ Capsule Collider (Bộ va chạm hình con nhộng) là lựa chọn được khuyến nghị khi mô hình hóa nhân vật hoặc các hình dạng dài và thẳng đứng.   Lý do:    Hình dạng của Capsule Collider là một hình trụ có hai đầu bo tròn, rất giống với hình dáng của cơ thể người khi đứng. Collider này giúp di chuyển mượt mà hơn, đặc biệt là khi nhân vật va chạm với mặt đất hoặc tường — nó tránh bị mắc kẹt ở các góc như Box Collider. Box Collider (hình hộp) có các cạnh sắc, dễ bị vướng khi di chuyển. Sphere Collider (hình cầu) chỉ phù hợp với các vật thể tròn, không phù hợp cho hình dáng dài. Hemispherical Collider (hình bán cầu) không phải là một loại collider tiêu chuẩn trong Unity.   Vì vậy, khi bạn thiết kế nhân vật hoặc đối tượng dài, Capsule Collider là lựa chọn tối ưu.",
+                "count": 1
+            },
+            {
+                "text": "elongated => kéo dài",
+                "count": 1
+            },
+            {
+                "text": "Capsule Collider",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 17
+            },
+            {
+                "text": "Trong phát triển Unity, lợi ích chính của việc sử dụng nhiều scene trong một dự án là gì?    ​  ​ Trong Unity, scene là một phần riêng biệt của dự án, nơi bạn có thể sắp xếp các GameObject như nhân vật, môi trường, UI, v.v.   Việc sử dụng nhiều scene có những lợi ích chính sau:    Dễ tổ chức: Mỗi scene có thể đại diện cho một phần của game, ví dụ như menu chính, màn chơi 1, màn chơi 2, cảnh kết thúc... Điều này giúp bạn tổ chức rõ ràng và dễ quản lý. Tách biệt nội dung: Bạn có thể làm việc trên từng phần riêng biệt mà không ảnh hưởng đến phần còn lại của game. Làm việc nhóm hiệu quả: Nhiều người có thể làm việc đồng thời trên các scene khác nhau. Tối ưu hiệu suất: Unity chỉ cần tải scene đang sử dụng, giúp giảm bớt tài nguyên hệ thống.    Tại sao các đáp án khác sai:​  A. Quản lý sprite, prefab thường được thực hiện qua thư mục Assets chứ không phải nhờ scene. B. Logic game phức tạp vẫn cần phải dùng code/script, không thể chỉ dùng scene là đủ. C. Việc chia scene không làm giảm kích thước tổng thể của ứng dụng game — nó chỉ hỗ trợ tổ chức và quản lý dễ hơn.",
+                "count": 1
+            },
+            {
+                "text": "Scenes facilitate the organization of self-contained collections of game object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "Which Unity component is responsible for adding motion to a GameObject under the control of Unity’s physics engine? (Tạm dịch: Thành phần nào trong Unity chịu trách nhiệm thêm chuyển động cho một GameObject dưới sự điều khiển của bộ máy vật lý của Unity?)    ​  ​ Rigidbody là thành phần giúp một GameObject trong Unity di chuyển và chịu tác động của vật lý như trọng lực, lực đẩy, va chạm...    Khi bạn muốn một vật thể có thể rơi xuống, va chạm, chịu lực… bạn phải thêm Rigidbody vào. Rigidbody sẽ làm cho GameObject được điều khiển bởi engine vật lý của Unity. Bạn có thể áp dụng lực bằng lệnh như AddForce() hoặc điều chỉnh vận tốc, trọng lực,...    Tại sao các lựa chọn khác sai:​  A. Transform: Chỉ định vị trí, xoay, và tỉ lệ — không có vật lý. B. Collider: Xác định vùng va chạm nhưng không tạo ra chuyển động. C. Renderer: Chỉ hiển thị đối tượng lên màn hình — không liên quan đến chuyển động.",
+                "count": 1
+            },
+            {
+                "text": "adding motion -> Rigidbody",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "Rotate game object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "c nha,  hình như unity k có skeleton component  ai double check lại giùm mình",
+                "count": 1
+            },
+            {
+                "text": "Skeleton  Source: Link",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "C#",
+                "count": 1
+            },
+            {
+                "text": "A. Sai tự giác búng chym",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "Cách làm tốt nhất để quản lý nhiều thành phần (components) cần cập nhật thường xuyên trên cùng một GameObject là gì?    ​  ​ Trong Unity, mỗi script có thể có hàm Update() – hàm này được gọi mỗi frame, nên nếu bạn có nhiều script trên cùng một GameObject, thì mỗi script sẽ được Unity gọi Update() riêng biệt → tốn tài nguyên, giảm hiệu suất.    Vì vậy, cách làm tốt nhất là:    Tạo một Manager Script (ví dụ: GameManager, PlayerController, AIController,...). Trong script này, bạn gọi thủ công các hàm cập nhật riêng (MyUpdate() chẳng hạn) từ các component khác. Điều này giúp:  Giảm số lượng Update() Unity phải xử lý. Tăng hiệu suất game. Dễ tổ chức mã nguồn và kiểm soát luồng xử lý.     Tại sao các phương án khác không tốt:​  A. Dồn hết logic vào một Update() dễ làm code rối, khó mở rộng. B. Nhiều script với Update() riêng lẻ sẽ khiến Unity phải xử lý nhiều lần — không tối ưu. D. Gọi Update() thủ công là sai nguyên tắc — Unity đã quản lý việc gọi Update() theo vòng đời frame. Việc gọi tay có thể gây lỗi, bug khó lường.",
+                "count": 1
+            },
+            {
+                "text": "Use a manager script to centralize the update logic",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "Câu hỏi:​ What is the best approach to optimize performance when using many GameObjects with the same functionality? (Tạm dịch: Cách tiếp cận tốt nhất để tối ưu hiệu suất khi sử dụng nhiều GameObject có cùng chức năng là gì?)    ​  ​ Object Pooling (tái sử dụng đối tượng) là một kỹ thuật tối ưu hiệu suất rất hiệu quả trong game, đặc biệt khi bạn cần tạo và hủy nhiều đối tượng liên tục — ví dụ: đạn, kẻ địch, hiệu ứng nổ...    ⚙ Cách hoạt động:​  Thay vì tạo (Instantiate) và hủy (Destroy) các GameObject mỗi lần, bạn tạo một danh sách các đối tượng sẵn có từ đầu. Khi cần dùng, chỉ cần kích hoạt lại (activate) đối tượng từ pool. Khi không dùng nữa, ẩn đi (deactivate) để tái sử dụng sau.    Lợi ích:​  Giảm lag, tăng hiệu suất. Tránh tạo/huỷ nhiều đối tượng trong runtime, vốn rất tốn tài nguyên. Được dùng phổ biến trong các game có nhịp độ nhanh.    Tại sao các đáp án khác sai:​  A. Nhiều script không giúp tối ưu, thậm chí gây rối và tốn hiệu suất hơn. B. Tránh prefab là phản khoa học — prefab là công cụ mạnh để tái sử dụng. D. High-polygon models (mô hình đa giác cao) làm giảm hiệu suất, không phải tăng.",
+                "count": 1
+            },
+            {
+                "text": "bỏ nhiều gameobjects vào một cái \"pool\" khi cần lấy ra rồi cất vô không cần tạo hay hủy nhiều => optimal  GameObject bullet = bulletPool.Get();",
+                "count": 1
+            },
+            {
+                "text": "Use object pooling",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "Câu hỏi:​ What aspect of player experience does physics-based mechanics primarily enhance? (Tạm dịch: Cơ chế dựa trên vật lý chủ yếu nâng cao khía cạnh nào trong trải nghiệm người chơi?)    ​ (Dịch: Sự đắm chìm của người chơi)    ​ Physics-based mechanics (cơ chế vật lý) như va chạm, lực đẩy, trọng lực, mô phỏng vật thể rơi, chuyển động tự nhiên... giúp game trở nên thật hơn và sống động hơn.    Khi một vật thể nghiêng, lăn, rơi giống như ngoài đời thật, người chơi sẽ cảm thấy như họ thực sự đang ở trong thế giới game. Cảm giác tương tác vật lý chân thực khiến người chơi tập trung và gắn bó hơn với trải nghiệm.    Tại sao các đáp án khác sai:​  A. Player aesthetics → liên quan đến đồ họa, giao diện, không phải vật lý. C. Player communication → liên quan đến giao tiếp giữa người chơi, không liên quan đến cơ chế vật lý. D. Player progression → liên quan đến tiến trình chơi (level, điểm, kỹ năng), không phải mục tiêu chính của vật lý.",
+                "count": 1
+            },
+            {
+                "text": "B. Player immersion",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "Câu hỏi trong ảnh là:   \"Giá trị mặc định của Sort Order (thứ tự sắp xếp) trong Sprite Renderer của Unity là gì?\"   Đáp án đúng là:   A. 0   Giải thích bằng tiếng Việt:​ Trong Unity, khi bạn dùng Sprite Renderer để hiển thị hình ảnh (sprite), thuộc tính \"Order in Layer\" (tức là Sort Order) quyết định thứ tự mà các sprite được vẽ lên màn hình.    Sprite nào có giá trị Sort Order cao hơn sẽ được vẽ lên trên sprite có giá trị thấp hơn. Nếu hai sprite có cùng Sorting Layer nhưng khác nhau ở \"Order in Layer\", sprite có số lớn hơn sẽ nằm phía trên.   Giá trị mặc định của \"Order in Layer\" là 0. Nghĩa là nếu bạn không thay đổi gì, Unity sẽ gán giá trị 0 cho tất cả sprite mới tạo.   Ví dụ:    Sprite A: Order in Layer = 0 Sprite B: Order in Layer = 1 → Sprite B sẽ hiển thị đè lên Sprite A.  Vì vậy, đáp án đúng là A. 0.",
+                "count": 1
+            },
+            {
+                "text": "0",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "Dựa vào hình ảnh và các lựa chọn, chúng ta sẽ phân tích từng lựa chọn để tìm câu trả lời đúng:  Phân tích cấu trúc phân cấp (Hierarchy) trong hình ảnh:   Scene1  Main Camera ObjectRelease (Là con trực tiếp của Scene1) spaceWarShip (Là con trực tiếp của Scene1)  Protecter (Là con của spaceWarShip)  bullets_4_up (Là con của Protecter) bullets_4_down (Là con của Protecter)    Đánh giá các lựa chọn:   A. bullets_4_up and bullets_4_down share the same characteristics (bullets_4_up và bullets_4_down có cùng đặc điểm)  Trong cấu trúc phân cấp, các đối tượng ngang hàng (như bullets_4_up và bullets_4_down đều là con của Protecter) không tự động có cùng đặc điểm chính xác (ví dụ: các thành phần, script, vị trí, v.v.) trừ khi được cấu hình rõ ràng. Chúng là các đối tượng game riêng biệt. Vì vậy, câu này không nhất thiết đúng.  B. Protecter will move exactly same as spaceWarShip moves (Protecter sẽ di chuyển y hệt như spaceWarShip di chuyển)  Protecter là con của spaceWarShip. Trong Unity (và hầu hết các engine game), các đối tượng con thừa hưởng các phép biến đổi (vị trí, xoay, tỷ lệ) của đối tượng cha của chúng. Do đó, nếu spaceWarShip di chuyển, Protecter (và tất cả các con của nó) sẽ di chuyển cùng, duy trì vị trí tương đối của nó so với spaceWarShip. Câu này ĐÚNG.  C. ObjectRelease is child game object of Main Camera (ObjectRelease là đối tượng game con của Main Camera)  Nhìn vào cấu trúc phân cấp, ObjectRelease nằm trực tiếp dưới Scene1, và Main Camera cũng vậy. Chúng là các đối tượng ngang hàng (anh/chị em), không phải cha-con. Câu này SAI.  D. bullets_4_up is child game object of spaceWarShip (bullets_4_up là đối tượng game con của spaceWarShip)  bullets_4_up là con của Protecter, và Protecter là con của spaceWarShip. Do đó, bullets_4_up là cháu của spaceWarShip, không phải là con trực tiếp. Câu này SAI.",
+                "count": 1
+            },
+            {
+                "text": "Protecter will move exactly same as spaceWarShip moves",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "Câu hỏi là \"What does a Collider 2D component define for a 2D object in Unity?\" (Một thành phần Collider 2D xác định điều gì cho một đối tượng 2D trong Unity?).  Hãy cùng phân tích các lựa chọn:   A. The boundary and shape for object's color (Đường viền và hình dạng cho màu sắc của đối tượng): Collider không liên quan đến khía cạnh hình ảnh hoặc màu sắc của một đối tượng. Nhiệm vụ này thuộc về Sprite Renderer hoặc các thành phần hiển thị khác. B. The boundary and shape for collision detection (Đường viền và hình dạng để phát hiện va chạm): Đây là mục đích chính của một thành phần Collider trong Unity. Nó xác định hình dạng vật lý của một đối tượng để hệ thống vật lý của engine có thể phát hiện khi hai đối tượng chạm hoặc chồng chéo lên nhau (tức là va chạm). C. The boundary and shape for object's animation (Đường viền và hình dạng cho hoạt ảnh của đối tượng): Hoạt ảnh (animation) được xử lý bởi các thành phần Animator và Sprite Renderer, không phải Collider. D. The boundary for object's audio properties (Đường viền cho các thuộc tính âm thanh của đối tượng): Các thuộc tính âm thanh được xử lý bởi các thành phần Audio Source và Audio Listener. Do đó, câu trả lời đúng là B. The boundary and shape for collision detection.",
+                "count": 1
+            },
+            {
+                "text": "The boundary and shape for collision detection",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "\"What is the fundamental role of components in Unity’s Entity Component System (ECS)?\" (Tạm dịch: \"Vai trò cơ bản của các component trong hệ thống Entity Component System (ECS) của Unity là gì?\")   Đáp án đúng là:​ B. To serve as data containers that represent the attributes and behavior of entities (Đóng vai trò là các vùng chứa dữ liệu thể hiện thuộc tính và hành vi của các entity.)    Giải thích bằng tiếng Việt:​ Trong Unity ECS (Entity Component System):    Entity là một ID đại diện cho một đối tượng. Component là vùng chứa dữ liệu đơn thuần, không chứa logic (code xử lý). System mới là nơi xử lý logic và hành vi dựa trên dữ liệu của component.   Vậy nên, Component trong ECS không dùng để hiển thị, xử lý vật lý hay âm thanh, mà chỉ chứa dữ liệu, ví dụ như: Health, Position, Velocity, v.v.    B là đáp án chính xác, vì nó mô tả đúng vai trò cốt lõi của component trong ECS: lưu trữ dữ liệu cho các entity.",
+                "count": 1
+            },
+            {
+                "text": "To serve as data containers that represent the attributes and behavior of entities",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 17
+            },
+            {
+                "text": "What is the function of the Canvas in Unity? (Chức năng của Canvas trong Unity là gì?)    ​ (Để tổ chức và hiển thị các phần tử giao diện người dùng (UI) trong thế giới game)    ​ Trong Unity, Canvas là thành phần cốt lõi của hệ thống UI (giao diện người dùng). Nó có vai trò:    Là vùng chứa chính cho tất cả các phần tử UI như: nút (Button), hình ảnh (Image), văn bản (Text), thanh máu (Health Bar), v.v. Tổ chức và render (vẽ lên màn hình) các thành phần UI. Hỗ trợ nhiều chế độ hiển thị như:  Screen Space - Overlay: UI luôn nằm trên màn hình. Screen Space - Camera: UI phụ thuộc vào camera. World Space: UI có thể nằm trong không gian 3D của game.     Giải thích vì sao các phương án khác sai:​  A. Canvas không chỉ dành cho hình ảnh — đó là chức năng của Image component, không phải Canvas. B. Phần tử có thể nhấp (clickable) như Button chỉ là một thành phần con trong Canvas, không phải vai trò chính của Canvas. C. Nhập văn bản là chức năng của InputField hoặc TMP InputField, không phải toàn bộ Canvas.",
+                "count": 1
+            },
+            {
+                "text": "To organize and render UI elements within the game world",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "\"What is the primary use of the Inspector Window in Unity?\" (Tạm dịch: \"Công dụng chính của cửa sổ Inspector trong Unity là gì?\")   Đáp án đúng là:​ B. To inspect and modify properties and components of game objects during runtime (Để kiểm tra và chỉnh sửa các thuộc tính và component của các đối tượng game trong lúc chạy.)    Giải thích bằng tiếng Việt:​ Inspector Window trong Unity là công cụ quan trọng dùng để:    Xem thông tin chi tiết của một GameObject đã được chọn trong Hierarchy hoặc Scene. Chỉnh sửa các thuộc tính của component như Transform, Rigidbody, Collider, script v.v... Trong lúc Runtime (game đang chạy), bạn vẫn có thể dùng Inspector để xem và chỉnh sửa giá trị — điều này rất hữu ích cho việc test, cân chỉnh game logic và AI.  Các lựa chọn khác và lý do sai:​  A. Theo dõi luồng chương trình: cái này thuộc về Console hoặc Debugger. C. Phân tích hiệu suất: dùng Profiler, không phải Inspector. D. Gỡ lỗi trên thiết bị từ xa: đó là Unity Remote hoặc Device Simulator, không liên quan đến Inspector.   Vì vậy, đáp án đúng là B.",
+                "count": 1
+            },
+            {
+                "text": "To inspect and modify properties and components of game objects during runtime",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "Câu hỏi trong ảnh là:   \"What do Physics Materials control in Unity?\" (Vật liệu vật lý trong Unity điều khiển điều gì?)   Đáp án đúng là:​ C. The surface properties like bounciness and friction (Các đặc tính bề mặt như độ nảy và ma sát.)    Giải thích bằng tiếng Việt:​ Trong Unity, Physics Materials (hoặc Physic Material) được dùng để xác định cách một vật thể tương tác vật lý với bề mặt khác.   Một số thuộc tính quan trọng của Physics Material bao gồm:    Friction (ma sát): kiểm soát mức độ trượt của vật thể trên bề mặt khác. Bounciness (độ nảy): xác định mức độ vật thể bật lại khi va chạm.   Physics Material không điều khiển màu sắc (A sai), kích thước collider (B sai), hay thứ tự thực thi script (D sai).    Vì vậy, đáp án chính xác là C.",
+                "count": 1
+            },
+            {
+                "text": "The surface properties like bounciness and friction",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "What is the primary function of an Animation Clip in Unity? (Chức năng chính của Animation Clip trong Unity là gì?)    ​ (Chứa dữ liệu keyframe cho các chuyển động hoặc hành động cụ thể)    ​ Animation Clip trong Unity là một tập tin chứa dữ liệu hoạt ảnh cho các đối tượng game.    Animation Clip lưu trữ các keyframe — mỗi keyframe ghi lại trạng thái (vị trí, xoay, tỷ lệ, màu sắc, v.v.) tại một thời điểm cụ thể. Khi chạy, Unity sẽ nội suy (interpolate) giữa các keyframe để tạo chuyển động mượt mà. Nó có thể được sử dụng để hoạt ảnh hóa bất kỳ thuộc tính nào: di chuyển nhân vật, xoay camera, thay đổi màu sắc đối tượng, v.v.    Giải thích các lựa chọn sai:​  A. Animation không điều khiển vật lý (physics), đó là vai trò của Rigidbody, Collider... B. Quản lý input là nhiệm vụ của hệ thống Input, không liên quan đến Animation Clip. D. Audio effects được xử lý bởi Audio Source hoặc Audio Clip, không phải Animation Clip.    Kết luận:​    Animation Clip trong Unity dùng để lưu trữ các keyframe cho chuyển động và hành động → Đáp án đúng là: C. To contain keyframe data for specific movements or actions.  Nhấn để mở rộng...",
+                "count": 1
+            },
+            {
+                "text": "To contain keyframe data for specific movements or actions",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "What is the role of the Animator Component in Unity? (Vai trò của thành phần Animator trong Unity là gì?)    ​ (Điều khiển phát hoạt ảnh dựa trên Animator Controller đã được gán)    ​ Trong Unity:    Animator Component là thành phần gán vào một GameObject để thực thi và điều khiển các animation. Nó hoạt động dựa trên một Animator Controller, nơi định nghĩa các trạng thái hoạt ảnh (states), chuyển tiếp (transitions), và logic điều khiển.   Nói đơn giản: Animator = \"máy chạy animation\", còn Animator Controller = \"bản thiết kế điều khiển animation\".",
+                "count": 1
+            },
+            {
+                "text": "To control animation playback based on the assigned Animator Controller",
+                "count": 1
+            },
+            {
+                "text": "Animation Clip -> contain/store animation data, including keyframe  Animator Controller -> organize animation state and transition  Animator Component -> control animation playback",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "\"Which tool in Unity allows you to set breakpoints, inspect variables, and step through code execution?\" (Công cụ nào trong Unity cho phép bạn đặt breakpoint, xem biến, và thực thi mã theo từng bước?)     Đáp án đúng là:​ C. Debugger     Giải thích bằng tiếng Việt:​ Debugger là công cụ dùng để:    Đặt breakpoint (điểm dừng trong code). Theo dõi và kiểm tra biến trong quá trình chương trình chạy. Bước qua từng dòng mã (step over, step into...) để phân tích logic.  Trong Unity, debugger thường được sử dụng kết hợp với Visual Studio hoặc Rider, khi bạn nhấn Attach to Unity để debug code C#.",
+                "count": 1
+            },
+            {
+                "text": "Debugger",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "What type of error occurs due to mistakes in the code’s syntax that prevent compilation? (Loại lỗi nào xảy ra do sai cú pháp trong mã nguồn khiến không thể biên dịch?)    ​ (Lỗi cú pháp)    ​ Syntax Error (lỗi cú pháp) xảy ra khi bạn viết sai quy tắc cú pháp của ngôn ngữ lập trình, ví dụ:    Quên dấu ; ở cuối dòng Sai từ khóa (ví dụ viết publik thay vì public) Thiếu dấu ngoặc {} hoặc ()  ➡ Khi có lỗi cú pháp, chương trình sẽ không thể biên dịch (compile) và do đó không thể chạy được.",
+                "count": 1
+            },
+            {
+                "text": "Syntax Errors",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "How can dragging functionality be implemented in Unity? (Chức năng kéo thả có thể được triển khai trong Unity như thế nào?)    ​ (Bằng cách kết hợp OnMousePosition và hành động nút chuột để tính delta trong lúc kéo)    ​ Trong Unity, để thực hiện chức năng kéo thả (drag), bạn cần:    Xác định vị trí chuột (OnMousePosition hoặc Input.mousePosition) Theo dõi khi chuột được nhấn (mouse button down) và thả ra (mouse button up) Trong khi giữ chuột (mouse held), tính khoảng cách thay đổi (delta) vị trí để di chuyển đối tượng.   Kết hợp này giúp xác định khi nào bắt đầu kéo, khi nào kết thúc, và tính toán cách di chuyển đối tượng trong quá trình kéo.",
+                "count": 1
+            },
+            {
+                "text": "By combining OnMousePosition and mouse button actions to calculate the delta during the drag",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "What is the difference between Input.GetKey() and Input.GetKeyDown() in Unity? (Sự khác biệt giữa Input.GetKey() và Input.GetKeyDown() trong Unity là gì?)    ​ (Input.GetKey() phát hiện việc giữ phím liên tục, còn Input.GetKeyDown() phát hiện sự kiện nhấn một lần)    ​ Trong Unity:    **Input.GetKey()**: Đúng trong suốt thời gian phím được giữ → Ví dụ: nếu bạn giữ phím W, lệnh này sẽ trả về true mỗi frame. **Input.GetKeyDown()**: Chỉ đúng tại frame đầu tiên khi phím được nhấn → Ví dụ: khi bạn vừa nhấn phím W, nó trả về true duy nhất 1 lần, ngay tại thời điểm nhấn.    Giải thích vì sao các lựa chọn khác sai:​  A. Sai → GetKeyDown() không phải kiểm tra thả phím (release), mà là nhấn xuống. C. Cả hai đều hoạt động với bàn phím; nếu dùng đúng phím chuột (KeyCode.Mouse0), chúng cũng có thể áp dụng cho chuột. D. Input.GetAxis() mới dùng cho input dạng trục; GetKey() không phải dành cho axis.",
+                "count": 1
+            },
+            {
+                "text": "Input.GetKey() detects continouses pressing, while Input.GetKeyDown() detects a single press event",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "In C#, what is the difference between value types and reference types? (Trong C#, sự khác biệt giữa kiểu giá trị và kiểu tham chiếu là gì?)    ​ (Kiểu giá trị chứa trực tiếp dữ liệu, còn kiểu tham chiếu chứa một tham chiếu đến dữ liệu của chúng)    ​  Value Types (Kiểu giá trị):  Chứa dữ liệu thực sự bên trong chính nó. Khi gán một biến kiểu giá trị cho biến khác, dữ liệu sẽ được sao chép. Ví dụ: int, float, bool, struct...  Reference Types (Kiểu tham chiếu):  Không chứa dữ liệu trực tiếp mà lưu địa chỉ tham chiếu đến vùng nhớ chứa dữ liệu. Khi gán một biến reference type cho biến khác, cả hai biến cùng trỏ đến cùng một vùng nhớ. Ví dụ: class, array, string, object...",
+                "count": 1
+            },
+            {
+                "text": "Value types directly contain their data, while reference types contain a reference to their data",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "When is the FixedUpdate() method called in Unity? (Phương thức FixedUpdate() được gọi khi nào trong Unity?)    ​ (Ở một khoảng thời gian cố định)    ​ Trong Unity:    **FixedUpdate()** được gọi theo khoảng thời gian cố định, không phụ thuộc vào số khung hình/giây (FPS). Nó được sử dụng chủ yếu cho vật lý (physics) vì các tính toán vật lý cần độ chính xác về thời gian.   Ví dụ: Nếu Fixed Timestep được đặt là 0.02s, thì FixedUpdate() sẽ được gọi mỗi 0.02 giây, bất kể khung hình hiện tại chạy nhanh hay chậm.",
+                "count": 1
+            },
+            {
+                "text": "At a fixed time interval",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "\"What is the purpose of the OnEnable() method in Unity?\" (Mục đích của phương thức OnEnable() trong Unity là gì?)     Đáp án đúng là:​ C. To perform actions when the object becomes enabled and active (Thực hiện các hành động khi đối tượng được bật và hoạt động.)     Giải thích bằng tiếng Việt:​ Trong Unity, phương thức OnEnable() được gọi mỗi khi một GameObject hoặc Component được bật và hoạt động.   Thời điểm​  Khi scene được load. Khi script hoặc GameObject chuyển từ trạng thái disabled → enabled. Trước khi gọi Start().   Bạn thường dùng OnEnable() để:    Đăng ký sự kiện. Thiết lập trạng thái ban đầu. Kích hoạt logic khởi động nhẹ nhàng.    Các đáp án sai:​  A. Sai vì OnEnable() không chạy khi object bị tắt (disabled). B. Mô tả chưa đầy đủ — khởi tạo biến có thể là một phần, nhưng mục đích chính là chạy logic khi object được bật và hoạt động. D. Miêu tả của Update() chứ không phải OnEnable().",
+                "count": 1
+            },
+            {
+                "text": "To perform actions when the object becomes enabled and active",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "Câu hỏi trong ảnh là:   \"Which Unity-specific method is used to initialize variables before the game starts, but after all objects are loaded?\" (Phương thức đặc trưng của Unity nào được dùng để khởi tạo biến trước khi game bắt đầu, nhưng sau khi tất cả các đối tượng đã được load?)     Đáp án đúng là:​ A. Start()     Giải thích bằng tiếng Việt:​ Trong Unity, hai phương thức thường dùng để khởi tạo là Awake() và Start():    Awake(): được gọi ngay sau khi đối tượng được tạo (trước khi các đối tượng khác có thể được khởi tạo xong). Start(): được gọi sau khi tất cả các đối tượng đã được load, trước khi vòng lặp game bắt đầu chạy.   Vì vậy, nếu bạn muốn khởi tạo biến khi chắc chắn các đối tượng khác đã tồn tại, thì bạn nên dùng Start() thay vì Awake().",
+                "count": 1
+            },
+            {
+                "text": "Start()",
+                "count": 1
+            },
+            {
+                "text": "Awake(): Được gọi ngay khi GameObject được khởi tạo (khi scene load, hoặc khi object được bật lên). Được gọi trước cả Start().  Start(): Được gọi trước frame update đầu tiên, chỉ một lần. Chạy sau Awake() và sau khi tất cả các Awake() khác đã được gọi.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B. 3 times",
+                "count": 1
+            },
+            {
+                "text": "count = 5 (1st) count = 3 (2nd) count = 1 (3rd) => 3 times (B)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "In Unity, what are coroutines commonly used for? (Trong Unity, coroutine thường được dùng để làm gì?)    ​ (Xử lý các tác vụ như hoạt ảnh, độ trễ mà không chặn luồng chính)    ​ Trong Unity, Coroutine là một phương pháp giúp chạy các đoạn mã trong một khoảng thời gian, thay vì thực thi ngay lập tức và liên tục trong một frame. Coroutine rất hữu ích cho:    Tạm dừng (delay) một đoạn mã trong vài giây (yield return new WaitForSeconds(...)) Thực hiện chuỗi hành động tuần tự như hoạt ảnh, hiệu ứng... Không làm treo hoặc chặn luồng chính (main thread)",
+                "count": 1
+            },
+            {
+                "text": "Handling tasks such as animations, delays without blocking the main thread",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B C",
+                "count": 1
+            },
+            {
+                "text": "Câu hỏi này thuộc Unity's new Input System, và đúng là bạn có thể chọn 2 đáp án đúng — cụ thể là:    ​  ​ B. Implementing an OnSpace(InputAction.CallbackContext context) method and checking context.performed.​  Đây là cách chuẩn nhất khi bạn gán trực tiếp một InputAction (ví dụ \"Jump\") và viết một hàm xử lý được gọi tự động khi hành động diễn ra. Dùng context.performed để đảm bảo hành động đã được thực hiện thành công (không phải chỉ được kích hoạt).  D. Attaching an InputAction to the PlayerInput component and listening for the \"Space\" action.​  Đây là bước cần thiết để kết nối hành động (\"Space\") với hệ thống PlayerInput, tức là bạn gắn action map vào PlayerInput và lắng nghe hành động đó thông qua callback (hàm như B).   Thực tế, B và D kết hợp với nhau mới tạo thành quy trình hoàn chỉnh trong hệ thống Input mới.     Các đáp án sai:​  A. Cách này chỉ đúng với Input System cũ (legacy). C. SerializeField dùng để hiển thị biến private trong Inspector — không liên quan đến việc xử lý input.    Kết luận:​    Khi dùng Unity's new Input System, bạn cần:   Gắn InputAction vào PlayerInput (D) Viết callback method như OnSpace và xử lý context.performed (B) → Vì vậy, chọn cả B và D là chính xác.    Nhấn để mở rộng...",
+                "count": 1
+            },
+            {
+                "text": "B D",
+                "count": 1
+            },
+            {
+                "text": "bd",
+                "count": 15
+            },
+            {
+                "text": "Implementing an OnSpace Attaching an InputAction",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "What are sprites in Unity? (Sprite trong Unity là gì?)    ​ (Đối tượng 2D đơn giản với hình ảnh (texture) được gán lên)    ​ Sprite trong Unity là thành phần cơ bản trong game 2D, thường dùng để:    Hiển thị hình ảnh 2D (như nhân vật, vật phẩm, hiệu ứng…) Gắn hình ảnh (texture) lên đối tượng 2D Làm việc kết hợp với SpriteRenderer, Animator, Collider 2D, v.v.     Ví dụ: hình ảnh nhân vật Mario, viên đạn, trái tim máu… đều là sprite.  Nhấn để mở rộng...     Giải thích các lựa chọn sai:​  A. Sprite không phải là đối tượng 3D và không dùng cho mô phỏng vật lý 3D. C. Không phải công cụ tạo hiệu ứng ánh sáng — đó là chức năng của Light hoặc Shader/Materials. D. Không liên quan đến thiết bị nhập — Input System mới dùng để quản lý bàn phím, chuột, tay cầm...",
+                "count": 1
+            },
+            {
+                "text": "Simple 2D Object with graphical images",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "What is a prefab in Unity? (Prefab trong Unity là gì?)    ​ (Một bản thiết kế của GameObject có thể được nhân bản và tạo ra động)    ​ Prefab trong Unity là một mẫu (template) GameObject đã được cấu hình sẵn, bạn có thể:    Lưu trữ và tái sử dụng trong nhiều cảnh (scene) Tạo ra các bản sao (instances) trong lúc game chạy (runtime) Cập nhật prefab gốc, tất cả các instance sẽ được cập nhật theo  Ví dụ: bạn tạo một prefab \"Enemy\", sau đó có thể sinh ra 100 bản sao \"Enemy\" trong game bằng script → rất tiện lợi, tiết kiệm thời gian và tài nguyên.     Giải thích các lựa chọn sai:​  A. Không phải là texture — đó là hình ảnh, còn prefab là đối tượng hoàn chỉnh. C. Không liên quan đến xử lý va chạm — đó là nhiệm vụ của Collider. D. Script không phải là prefab — script có thể nằm trong prefab, nhưng bản thân nó không phải prefab.",
+                "count": 1
+            },
+            {
+                "text": "A blueprint of a GameObject that can be duplicated and dynamically generated",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "When is the Awake() method called in Unity? (Hàm Awake() được gọi khi nào trong Unity?)    ​ (Khi phiên bản của script được tải lên)    ​ Trong vòng đời của một MonoBehaviour trong Unity, phương thức Awake() được gọi:    Ngay khi GameObject chứa script đó được khởi tạo (kể cả khi đang không active) Trước Start() Chỉ được gọi một lần trong suốt vòng đời của đối tượng.   Mục đích chính là để khởi tạo các biến, tham chiếu, setup ban đầu mà không phụ thuộc vào việc đối tượng có đang active hay không.     Tại sao các đáp án khác sai:​  A. Once per frame, after Start(): Sai — Awake() chạy một lần duy nhất, và trước Start(). C. Continuously during gameplay: Sai — đó là Update(), không phải Awake(). D. Only when the game starts: Không chính xác — Awake() chạy khi script được nạp, không nhất thiết là lúc game bắt đầu (có thể xảy ra khi scene mới load hoặc GameObject mới được tạo ra).",
+                "count": 1
+            },
+            {
+                "text": "When the script instantce is being loaded",
+                "count": 1
+            }
+        ]
+    }
+]
