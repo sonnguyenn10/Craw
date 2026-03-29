@@ -7,8 +7,10 @@ const state = {
     isQuizMode: false,
     quizScore: 0,
     quizAnswered: false,
+    quizAnswered: false,
     isShuffled: false,
-    currentZoom: 1
+    currentZoom: 1,
+    currentPath: null
 };
 
 const DOMElements = {
@@ -34,7 +36,14 @@ const DOMElements = {
     zoomIn: document.getElementById('zoom-in'),
     zoomOut: document.getElementById('zoom-out'),
     zoomReset: document.getElementById('zoom-reset'),
-    zoomLevel: document.getElementById('zoom-level')
+    zoomLevel: document.getElementById('zoom-level'),
+    btnAskGemini: document.getElementById('btn-ask-gemini'),
+    btnGeminiSettings: document.getElementById('btn-gemini-settings'),
+    btnSaveGemini: document.getElementById('btn-save-gemini'),
+    geminiSetup: document.getElementById('gemini-setup'),
+    geminiApiKey: document.getElementById('gemini-api-key'),
+    geminiModel: document.getElementById('gemini-model'),
+    geminiResponse: document.getElementById('gemini-response')
 };
 
 async function initApp() {
@@ -119,6 +128,33 @@ function setupEventListeners() {
             }
         }
     });
+
+    // Gemini Setup
+    DOMElements.btnAskGemini.addEventListener('click', handleGeminiClick);
+    DOMElements.btnGeminiSettings.addEventListener('click', () => {
+        DOMElements.geminiSetup.classList.toggle('hidden');
+    });
+    
+    DOMElements.btnSaveGemini.addEventListener('click', () => {
+        const apiKey = DOMElements.geminiApiKey.value.trim();
+        const model = DOMElements.geminiModel.value;
+        if (apiKey) {
+            localStorage.setItem('gemini_api_key', apiKey);
+            localStorage.setItem('gemini_model', model);
+            DOMElements.geminiSetup.classList.add('hidden');
+            handleGeminiRequest(apiKey, model);
+        } else {
+            alert("Vui lòng nhập API Key!");
+        }
+    });
+    
+    // Load saved Gemini Settings
+    if (localStorage.getItem('gemini_api_key')) {
+        DOMElements.geminiApiKey.value = localStorage.getItem('gemini_api_key');
+    }
+    if (localStorage.getItem('gemini_model')) {
+        DOMElements.geminiModel.value = localStorage.getItem('gemini_model');
+    }
 }
 
 function toggleShuffle() {
@@ -155,6 +191,7 @@ async function loadSelectedCourse() {
     const { subject, thread, path } = JSON.parse(selected);
     state.currentCourse = thread;
     state.currentSubject = subject;
+    state.currentPath = path;
     
     try {
         const response = await fetch(`./${path}/data.json?t=` + new Date().getTime());
@@ -229,6 +266,15 @@ function renderCurrentItem() {
 
 function renderReviewMode(item) {
     DOMElements.commentsList.innerHTML = '';
+    DOMElements.geminiSetup.classList.add('hidden');
+    DOMElements.geminiResponse.classList.add('hidden');
+    DOMElements.geminiResponse.innerHTML = '';
+    
+    // Nếu có đáp án Gemini đã lưu từ trước
+    if (item.gemini_answer) {
+        DOMElements.geminiResponse.classList.remove('hidden');
+        DOMElements.geminiResponse.innerHTML = `<strong>🤖 Giải thích từ Gemini:</strong><br><br>${markedUp(item.gemini_answer)}`;
+    }
     
     // Add Best Answer to top if exists
     if (item.best_answer) {
@@ -262,6 +308,9 @@ function renderQuizMode(item) {
     DOMElements.quizFeedback.classList.add('hidden');
     DOMElements.quizFeedback.textContent = '';
     DOMElements.quizFeedback.className = 'hidden';
+    
+    DOMElements.geminiSetup.classList.add('hidden');
+    DOMElements.geminiResponse.classList.add('hidden');
 
     const buttons = DOMElements.optionsContainer.querySelectorAll('.opt-btn');
     buttons.forEach(btn => {
@@ -358,5 +407,72 @@ function applyZoom() {
     }
     if (DOMElements.zoomLevel) {
         DOMElements.zoomLevel.textContent = Math.round(state.currentZoom * 100) + '%';
+    }
+}
+
+// Gemini Functions
+function markedUp(text) {
+    return text.replace(/\n/g, '<br>')
+               .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+               .replace(/\*(.*?)\*/g, '<em>$1</em>')
+               .replace(/`(.*?)`/g, '<code style="background-color:#eee;padding:2px 4px;border-radius:3px;">$1</code>');
+}
+
+function handleGeminiClick() {
+    const apiKey = localStorage.getItem('gemini_api_key');
+    const model = localStorage.getItem('gemini_model') || 'gemini-2.0-flash';
+    
+    if (!apiKey) {
+        DOMElements.geminiSetup.classList.remove('hidden');
+        DOMElements.geminiResponse.classList.add('hidden');
+    } else {
+        handleGeminiRequest(apiKey, model);
+    }
+}
+
+async function handleGeminiRequest(apiKey, model) {
+    const item = state.currentImages[state.currentIndex];
+    if (!item) return;
+
+    // Nếu đã có đáp án thì không gọi lại
+    if (item.gemini_answer) {
+        return;
+    }
+
+    DOMElements.geminiResponse.classList.remove('hidden');
+    DOMElements.geminiResponse.innerHTML = '<span style="color:#8e44ad; font-weight:bold;">🤖 Trợ lý đang xem ảnh và suy nghĩ (Có thể mất đến 10 giây)...</span>';
+    DOMElements.btnAskGemini.disabled = true;
+
+    try {
+        const imagePath = `images/${state.currentSubject}/${state.currentCourse}/${item.image}`;
+        const courseJsonPath = `${state.currentPath}/data.json`;
+        
+        const response = await fetch('/api/gemini', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                api_key: apiKey,
+                model: model,
+                image_path: imagePath,
+                course_json_path: courseJsonPath,
+                item_id: item.id
+            })
+        });
+
+        const result = await response.json();
+        
+        if (response.ok && result.status === 'success') {
+            item.gemini_answer = result.answer; // Cập nhật state cục bộ
+            DOMElements.geminiResponse.innerHTML = `<strong>🤖 Giải thích từ Gemini:</strong><br><br>${markedUp(result.answer)}`;
+        } else {
+            throw new Error(result.message || 'Lỗi kết nối tới Server');
+        }
+    } catch (err) {
+        DOMElements.geminiResponse.innerHTML = `<span style="color:#c0392b;"><strong>Lỗi:</strong> ${err.message}</span>`;
+        if(err.message.includes('Thiếu API Key')) {
+             DOMElements.geminiSetup.classList.remove('hidden');
+        }
+    } finally {
+        DOMElements.btnAskGemini.disabled = false;
     }
 }

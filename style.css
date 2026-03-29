@@ -244,4 +244,105 @@ button:disabled { background-color: #bdc3c7; cursor: not-allowed; }
     color: #7f8c8d;
 }
 
+/* Gemini API Styles */
+.review-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #f1c40f;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.btn-ask-gemini {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    transition: transform 0.1s, box-shadow 0.1s;
+}
+
+.btn-ask-gemini:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+.btn-ask-gemini:active {
+    transform: translateY(0);
+}
+
+.btn-gemini-settings {
+    background: #ecf0f1;
+    color: #2c3e50;
+    border: none;
+    padding: 8px 10px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-right: 5px;
+    transition: background 0.1s;
+}
+
+.btn-gemini-settings:hover {
+    background: #bdc3c7;
+}
+
+.gemini-setup {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.gemini-setup input, .gemini-setup select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn-save {
+    background: #2ecc71;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn-save:hover { background: #27ae60; }
+
+.gemini-response {
+    background: #f4f6f7;
+    border-left: 4px solid #8e44ad;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #2c3e50;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.gemini-response p {
+    margin-top: 0;
+}
+
+.gemini-response ul, .gemini-response ol {
+    margin-bottom: 0;
+}
+
+.gemini-response strong {
+    color: #8e44ad;
+}
+
 .hidden { display: none !important; }

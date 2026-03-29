@@ -76,7 +76,27 @@
 
                 <!-- REVIEW PANEL -->
                 <div id="review-panel">
-                    <h3 class="panel-title">Bình luận / Gợi ý:</h3>
+                    <div class="review-header">
+                        <h3 class="panel-title" style="border:none; padding:0; margin:0;">Bình luận / Gợi ý:</h3>
+                        <div>
+                            <button id="btn-gemini-settings" class="btn-gemini-settings" title="Cài đặt API">⚙️</button>
+                            <button id="btn-ask-gemini" class="btn-ask-gemini">🤖 Hỏi Gemini</button>
+                        </div>
+                    </div>
+                    
+                    <div id="gemini-setup" class="gemini-setup hidden">
+                        <p style="margin-top:0; font-size:14px; color:#555;">Cần có API Key để sử dụng tính năng này.</p>
+                        <input type="password" id="gemini-api-key" placeholder="Nhập Gemini API Key của bạn...">
+                        <select id="gemini-model">
+                            <option value="gemini-2.0-flash">gemini-2.0-flash (Đề xuất)</option>
+                            <option value="gemini-1.5-pro">gemini-1.5-pro</option>
+                            <option value="gemini-1.5-flash">gemini-1.5-flash</option>
+                        </select>
+                        <button id="btn-save-gemini" class="btn-save">Lưu & Hỏi</button>
+                    </div>
+
+                    <div id="gemini-response" class="gemini-response hidden"></div>
+
                     <div id="comments-list">
                         <!-- Danh sách comments sẽ được điền bằng JS ở đây -->
                     </div>
