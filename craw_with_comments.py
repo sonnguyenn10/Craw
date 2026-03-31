@@ -11,8 +11,20 @@ HEADERS = {
 }
 
 def get_images_from_page(url, base_url, cookies):
+    print(f"[{url}] Đang tải trang...")
     res = requests.get(url, cookies=cookies, headers=HEADERS)
+    print(f"[{url}] Mã phản hồi: {res.status_code}")
+    
     soup = BeautifulSoup(res.text, "html.parser")
+    
+    # Check if Cloudflare blocked or Not logged in
+    title = soup.title.string.strip() if soup.title else ""
+    if "Just a moment" in title or "Cloudflare" in title:
+        print("CẢNH BÁO: Bị Cloudflare chặn! Bot không thể vào trang.")
+        
+    login_link = soup.select_one("a[href*='/login/']")
+    if login_link and "Đăng nhập" in login_link.text:
+         print("CẢNH BÁO: Cookies xf_user/xf_session đã hết hạn hoặc không hợp lệ. Trang đang hiển thị dưới quyền Khách (Guest). Khách không thể xem ảnh đính kèm!")
 
     items = {}
     files = {}

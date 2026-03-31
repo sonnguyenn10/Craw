@@ -1,0 +1,585 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            },
+            {
+                "text": "môn prn222 này có mỗi đề này thôi hả mn ?",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 2
+            },
+            {
+                "text": "D tap",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 2
+            },
+            {
+                "text": "SignalR was originally created by David Fowler and Damian Edwards. It started as an open-source project in 2011 and was later brought into the official ASP.NET project and developed by Microsoft.  #nguồn: google",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 2
+            },
+            {
+                "text": "D “Blazor” là từ ghép (portmanteau) từ Browser và Razor (Razor syntax/engine dùng để kết hợp C# với HTML).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "A",
+                "count": 2
+            },
+            {
+                "text": "D",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 3
+            },
+            {
+                "text": "câu này câu A, thầy Quang có nói rồi",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 2
+            },
+            {
+                "text": "c 3",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "B not sure",
+                "count": 1
+            },
+            {
+                "text": "mình search thì cũng kêu câu B nhé",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            },
+            {
+                "text": "https://learn.microsoft.com/ga-ie/dotNet/API/system.linq.parallelenumerable.asparallel?view=net-7.0&utm_source=chatgpt.com",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 2
+            },
+            {
+                "text": "A  note sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 3
+            }
+        ]
+    }
+]

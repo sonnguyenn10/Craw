@@ -28,7 +28,17 @@ class AdminHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
                     response = {"status": "error", "message": "Vui lòng nhập đầy đủ Link Thread và Cookies (xf_user, xf_session)!"}
                     self.wfile.write(json.dumps(response).encode('utf-8'))
                     return
+                    
+                # Chuẩn hóa thread_url nếu user nhập full link
+                if thread_url.startswith('http'):
+                    from urllib.parse import urlparse
+                    parsed = urlparse(thread_url)
+                    base_url = f"{parsed.scheme}://{parsed.netloc}"
+                    thread_url = parsed.path
                 
+                if not thread_url.startswith('/'):
+                    thread_url = '/' + thread_url
+                    
                 print(f"\n[API] Bắt đầu Crawl từ giao diện Web: {thread_url}")
                 result = run_crawler(base_url, thread_url, xf_user, xf_session)
                 
