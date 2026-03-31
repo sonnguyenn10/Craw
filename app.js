@@ -3,6 +3,7 @@ const state = {
     currentCourse: null,
     currentSubject: null,
     currentImages: [],
+    currentFiles: [],
     currentIndex: 0,
     isQuizMode: false,
     quizScore: 0,
@@ -43,7 +44,9 @@ const DOMElements = {
     geminiSetup: document.getElementById('gemini-setup'),
     geminiApiKey: document.getElementById('gemini-api-key'),
     geminiModel: document.getElementById('gemini-model'),
-    geminiResponse: document.getElementById('gemini-response')
+    geminiResponse: document.getElementById('gemini-response'),
+    filesManager: document.getElementById('files-manager'),
+    filesList: document.getElementById('files-list')
 };
 
 async function initApp() {
@@ -197,6 +200,17 @@ async function loadSelectedCourse() {
         const response = await fetch(`./${path}/data.json?t=` + new Date().getTime());
         state.currentImages = await response.json();
         
+        try {
+            const filesResponse = await fetch(`./${path}/files.json?t=` + new Date().getTime());
+            if (filesResponse.ok) {
+                state.currentFiles = await filesResponse.json();
+            } else {
+                state.currentFiles = [];
+            }
+        } catch (e) {
+            state.currentFiles = [];
+        }
+
         state.currentIndex = 0;
         state.quizScore = 0;
         state.isShuffled = false;
@@ -206,9 +220,37 @@ async function loadSelectedCourse() {
         DOMElements.btnShuffle.style.color = '';
         
         // Show UI elements
-        DOMElements.modeSelector.classList.remove('hidden');
-        DOMElements.navBar.classList.remove('hidden');
-        DOMElements.mainContent.classList.remove('hidden');
+        if (state.currentImages && state.currentImages.length > 0) {
+            DOMElements.modeSelector.classList.remove('hidden');
+            DOMElements.navBar.classList.remove('hidden');
+            DOMElements.mainContent.classList.remove('hidden');
+        } else {
+            // No images to show
+            DOMElements.modeSelector.classList.add('hidden');
+            DOMElements.navBar.classList.add('hidden');
+            DOMElements.mainContent.classList.add('hidden');
+            DOMElements.questionImage.src = '';
+            DOMElements.questionImage.alt = 'Chưa có hình ảnh câu hỏi cho đề này.';
+        }
+        
+        if (state.currentFiles && state.currentFiles.length > 0) {
+            DOMElements.filesManager.classList.remove('hidden');
+            DOMElements.filesList.innerHTML = '';
+            state.currentFiles.forEach(file => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.href = `./${path}/${file.url}`;
+                a.target = '_blank';
+                a.textContent = file.name;
+                a.style.color = '#3498db';
+                a.style.textDecoration = 'none';
+                a.style.fontWeight = 'bold';
+                li.appendChild(a);
+                DOMElements.filesList.appendChild(li);
+            });
+        } else {
+            DOMElements.filesManager.classList.add('hidden');
+        }
         
         setMode(false); // Default to Review mode
     } catch (error) {

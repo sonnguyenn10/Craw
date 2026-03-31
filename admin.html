@@ -242,7 +242,8 @@
 
                 if (response.ok && result.status === 'success') {
                     statusBox.className = 'status-success';
-                    statusBox.innerHTML = `<strong>Thành công!</strong> Đã tải ${result.images} ảnh. <br>Lưu tại: <code>${result.path}</code><br>Bạn có thể trở về trang Quiz và bấm TẢI ĐỀ LÊN.`;
+                    const filesStr = result.files ? `, ${result.files} file đính kèm` : '';
+                    statusBox.innerHTML = `<strong>Thành công!</strong> Đã tải ${result.images} ảnh${filesStr}. <br>Lưu tại: <code>${result.path}</code><br>Bạn có thể trở về trang Quiz và bấm TẢI ĐỀ LÊN.`;
                 } else {
                     throw new Error(result.message || 'Lỗi không xác định từ Server');
                 }
