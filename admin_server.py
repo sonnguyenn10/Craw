@@ -5,7 +5,7 @@ import os
 import requests
 from craw_with_comments import run_crawler
 
-PORT = 8000
+PORT = int(os.environ.get("PORT", 8000))
 
 class AdminHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
     
@@ -138,7 +138,7 @@ class AdminHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
 
 def main():
     server_address = ('', PORT)
-    httpd = http.server.HTTPServer(server_address, AdminHTTPRequestHandler)
+    httpd = http.server.ThreadingHTTPServer(server_address, AdminHTTPRequestHandler)
     print("====================================")
     print(f"🚀 ADMIN SERVER ĐANG CHẠY TẠI PORT {PORT}")
     print(f"👉 Link Hệ Thống Ôn Tập: http://localhost:{PORT}")
