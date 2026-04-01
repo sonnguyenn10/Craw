@@ -1,0 +1,85 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": null,
+        "comments": [
+            {
+                "text": "Customer Staff Inventory Order Flower",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": null,
+        "comments": [
+            {
+                "text": "Tuy anh em mình không quen nhau nhưng nguyện chít cùng ngày cùng phút",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": null,
+        "comments": [
+            {
+                "text": "STRATEGY",
+                "count": 1
+            },
+            {
+                "text": "Ghi rõ/giải thích đúng “Factory Method” (hoặc hợp lý: Observer, Singleton). Lý do chọn ngắn gọn.",
+                "count": 1
+            },
+            {
+                "text": "Pattern family: behavioral design pattern: observer  reason: ....",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": null,
+        "comments": []
+    }
+]

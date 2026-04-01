@@ -46,5 +46,29 @@
             "title": "pru212-su25-fe.4214",
             "path": "images/pru212/pru212-su25-fe.4214"
         }
+    },
+    "swd392": {
+        "swd392-pe-fa25.5339": {
+            "title": "swd392-pe-fa25.5339",
+            "path": "images/swd392/swd392-pe-fa25.5339"
+        },
+        "swd392-su25-pe-1-re.4603": {
+            "title": "swd392-su25-pe-1-re.4603",
+            "path": "images/swd392/swd392-su25-pe-1-re.4603"
+        },
+        "swd392-su25-pe-re.4604": {
+            "title": "swd392-su25-pe-re.4604",
+            "path": "images/swd392/swd392-su25-pe-re.4604"
+        }
+    },
+    "unknown": {
+        "swd392_su25_pe_1.4135": {
+            "title": "swd392_su25_pe_1.4135",
+            "path": "images/unknown/swd392_su25_pe_1.4135"
+        },
+        "swd392_su25_pe_2.4138": {
+            "title": "swd392_su25_pe_2.4138",
+            "path": "images/unknown/swd392_su25_pe_2.4138"
+        }
     }
 }

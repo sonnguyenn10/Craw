@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": null,
+        "comments": []
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "Observer Pattern. - One to many notification: It supports a one to many dependency. When the Course changes state, all registered dependents (Student on the waiting list) are immediately notifed. - Loose Coupling: The Course object does not need to know details of who the students are or how to contact the,. It only triggers a notification event. - Flexibility and Extensibility: New types of observers(EmailNotifier, SMSNotifier) can be added without changing the Course logic - The Course announce the availability without managaing or knowing its dependents -> This is excatly what Observer pattern archieves",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": null,
+        "comments": []
+    }
+]
