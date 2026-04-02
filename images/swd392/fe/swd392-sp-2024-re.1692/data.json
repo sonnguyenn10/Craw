@@ -1,0 +1,1170 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 17
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "DONE",
+                "count": 1
+            },
+            {
+                "text": "6",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 14
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 12
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 14
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "same name, different object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "instance -> one possible",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 11
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "extension -> conditional part",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "modifiability -> during and after initial development",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 12
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "strategy - D notation - B",
+                "count": 1
+            },
+            {
+                "text": "design method => systematic design notation => graphical design concept => fundamental idea design stategy =>overall plan structuring criteria => guidelines",
+                "count": 1
+            },
+            {
+                "text": "strategy -> overall plan",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "stereotype -> label",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 12
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "carried out during ANALYSIS  -> static and dynamic",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "notation -> graphical, textual",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "transition into -> only one transition out -> each",
+                "count": 1
+            },
+            {
+                "text": "into -> only one out-> each",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 15
+            },
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "State dependent control object -> An object that executes a state machine",
+                "count": 1
+            },
+            {
+                "text": "state-dependent control -> execute",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 13
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "soa-> multiple autonomous",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "input -> A output -> B",
+                "count": 1
+            },
+            {
+                "text": "input <-> event ouput <action>",
+                "count": 1
+            },
+            {
+                "text": "input message -> event out -> action",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "D",
+                "count": 13
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "construction -> design, coding, unit testing",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "synchronous -> waits asynchronous-> does not wait",
+                "count": 1
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "producer, synschronous -> wait",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "validation -> righ system verification -> build system right",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "broker -> interactions",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 14
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "Structural view -> Component and connect Dynamic view -> Obj and Message",
+                "count": 1
+            },
+            {
+                "text": "structural view -> components and connects",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "during application -> assigned to hardware nodes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "uml package -> grouping of model elements",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 12
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "even in state machine -> discrete signal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "active has thread of control, passive does not",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 12
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "Multi-tier -> client, service",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 11
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "StateChart -> C Interaction -> B",
+                "count": 1
+            },
+            {
+                "text": "interaction diagram depict -> objects and messages",
+                "count": 1
+            },
+            {
+                "text": "interaction diagram -> objects and messages",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 12
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "periodic -> timer event",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 12
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "client object executes state machine -> client has a state, service not",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "Distributed control -> control is divided",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "b",
+                "count": 7
+            },
+            {
+                "text": "A",
+                "count": 9
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "What is reusability?  (a) The extent to which software implementation is reusable  (b) The extent to which software is capable of being reused  (c) The extent to which SPL technology can be introduced  (d) The extent to which the software is common among a program family  Câu Trong đề với câu này khác mỗi câu B nhưng mấy huynh đài lại chọn A. Phân vân ghê",
+                "count": 1
+            },
+            {
+                "text": "noproblem2311 đã viết:    What is reusability?  (a) The extent to which software implementation is reusable  (b) The extent to which software is capable of being reused  (c) The extent to which SPL technology can be introduced  (d) The extent to which the software is common among a program family  Câu Trong đề với câu này khác mỗi câu B nhưng mấy huynh đài lại chọn A. Phân vân ghê  Nhấn để mở rộng...  Nhưng câu B là của scalability mà nhỉ",
+                "count": 1
+            },
+            {
+                "text": "A Reusability in software development refers to the degree to which existing software components or code can be used in different projects or parts of a system without needing to be rewritten from scratch. This is a crucial concept because it can lead to significant benefits such as reduced development time, lower costs, and improved code quality.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "public visibility -> + sign",
+                "count": 1
+            },
+            {
+                "text": "+ sign",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 11
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "kernel class -> class required by all members, default",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "khóoooooooooooo",
+                "count": 1
+            },
+            {
+                "text": "state-dependent interaction involve -> control",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 12
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "state -> regconized",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "product line -> common components , variable components",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "software architecture -> overall structure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "during dynamic interaction -> participate, sequence of interaction",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "C nhé là quá trình làm mấy cái model language, UML đồ lúc ae làm project swd ấy",
+                "count": 1
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "carried out, design modeling -> architecture",
+                "count": 1
+            },
+            {
+                "text": "design -> architectures analysis -> static and dynamic",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 10
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "cũng khóoooô",
+                "count": 1
+            },
+            {
+                "text": "control subsystem, required -> serveral internal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 12
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "interface -> specification",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "if scope of control -> as object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 9
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 11
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 10
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 11
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "img_50.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "img_51.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 9
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "img_52.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            },
+            {
+                "text": "sequential A concurrent B",
+                "count": 1
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "concurrent service -> multiple object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "img_53.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 11
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "img_54.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 11
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "img_55.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 10
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "kernel -> default",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "img_56.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "D",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "img_57.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 10
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "broadcast -> all",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "img_58.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 10
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "soa, not true -> fixed",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "img_59.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 11
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "spiral - > risk-driven",
+                "count": 1
+            }
+        ]
+    }
+]

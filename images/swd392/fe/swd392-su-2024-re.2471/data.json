@@ -1,0 +1,1266 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "(PIM) :B (PSM): C",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "DONE",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "Designing software applications before coding.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "Association -> A solid line joining two class boxes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "use case : A actor : B",
+                "count": 1
+            },
+            {
+                "text": "use case - oval  actor - stick figure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "Private ( - ): Chỉnh mình các đối tượng được tạo từ class này có thể sử dụng. Public ( + ): Mọi đối tượng đều có thể sử dụng. Protected ( # ): Chỉ các đối tượng được tạo từ class này và class kế thừa từ class này có thể sử dụng.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "validation B",
+                "count": 1
+            },
+            {
+                "text": "Validation -> Right System verification-> System right",
+                "count": 1
+            },
+            {
+                "text": "validation - right system verification - system right",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "evolutionary prototyping -> D the spiral model emphasize -> C",
+                "count": 1
+            },
+            {
+                "text": "spiral model emphasize -> C in the previous question-> B evolutionary prototyping -> D",
+                "count": 1
+            },
+            {
+                "text": "spiral - risk-driven",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "Giải thích các lựa chọn:​  A. Phần mềm được phát triển dưới thác nước →  Sai, mô tả theo nghĩa đen, không chính xác. B. Một mô hình quy trình mà mỗi giai đoạn hoàn tất trước khi bắt đầu giai đoạn tiếp theo →  Đúng định nghĩa mô hình Waterfall. C. Mô hình mà các giai đoạn chồng lấp lên nhau →  Sai, đây là đặc điểm của mô hình Spiral hoặc Iterative. D. Mô hình mà các giai đoạn là tuần hoàn →  Sai, mô tả mô hình Agile hoặc Incremental.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "Carried out during System testing -> Black box",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "analysis -> static, dynamic",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "đ",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "â",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "\"What is a business logic object?\"    ​ B. An object that defines business-specific application logic    ​  Business Logic Object:​ Là một đối tượng chứa logic nghiệp vụ (business logic) – tức là các quy tắc, điều kiện, và quy trình cụ thể của ứng dụng/doanh nghiệp.   Nó:    Không xử lý giao diện (UI) Không lưu trữ dữ liệu (DB) như Entity Mà xử lý logic giữa các bước nghiệp vụ, ví dụ:  Kiểm tra điều kiện mượn sách Tính phí phạt trễ Xác nhận trạng thái thành viên     Sai lầm của các lựa chọn khác:​  A. Chỉ mô tả mơ hồ (“dùng trong ứng dụng kinh doanh”) – quá chung C. “The internal logic of an object” – không chính xác, vì không nhấn mạnh business logic D. Nói về kiểm tra “logical request” – mơ hồ và sai định nghĩa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 14
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "An object that executes a state machinme",
+                "count": 1
+            },
+            {
+                "text": "D: An object that executes a state machinme",
+                "count": 1
+            },
+            {
+                "text": "@mệt ghê rứa bây mắc chi mệt",
+                "count": 1
+            },
+            {
+                "text": "state-dependent -> executes",
+                "count": 1
+            },
+            {
+                "text": "@Hieu2003 Không cmt nữa à b",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "D",
+                "count": 1
+            },
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "Could happen : A  Not happen : D",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "instance => ONE + generic  => ALL +",
+                "count": 1
+            },
+            {
+                "text": "c all possible",
+                "count": 1
+            },
+            {
+                "text": "generic -> all posible instance -> one",
+                "count": 1
+            },
+            {
+                "text": "C  instance form => depicts one posible  generic form => depicts all posible",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "A State dependent control object",
+                "count": 1
+            },
+            {
+                "text": "khóooooooooooooooooo",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "Trong một hệ thống mà một đối tượng client thực thi một state machine (máy trạng thái) và giao tiếp với một service, điều nào sau đây là đúng?     Đáp án đúng:​ A. The client has a state-dependent control object but the service does not. (Client có đối tượng điều khiển phụ thuộc vào trạng thái, nhưng service thì không.)    Giải thích bằng tiếng Việt:​  State-dependent control object: Là đối tượng điều khiển hành vi dựa vào trạng thái hiện tại (ví dụ: mỗi hành động đều phụ thuộc vào trạng thái trước đó). Trong ngữ cảnh câu hỏi:  Client có một state machine, tức là nó phải thay đổi hành vi dựa vào trạng thái → nghĩa là có state-dependent control object. Service chỉ nhận lệnh và thực thi → thường là stateless (không duy trì trạng thái giữa các lần gọi), trừ khi được thiết kế theo cách đặc biệt.    Phân tích các lựa chọn:​  A. Client có điều khiển phụ thuộc trạng thái, service thì không →  Đúng, phù hợp với mô hình phổ biến. B. Service có điều khiển phụ thuộc trạng thái, client thì không →  Sai vì đề bài nói client chạy state machine. C. Cả hai đều có điều khiển phụ thuộc trạng thái →  Thường chỉ client cần điều đó. D. Cả hai đều không có điều khiển phụ thuộc trạng thái →  Sai vì client có state machine.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "async => B sync => A",
+                "count": 1
+            },
+            {
+                "text": "async - not wait -> b sync - wait",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 1
+            },
+            {
+                "text": "asynchronous - not wait  synchronous - wait",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "A below",
+                "count": 1
+            },
+            {
+                "text": "Layer of Abstraction -> below it",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "scope of control -> state-dependent control object , same subsystem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 15
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "If the subsystem needs to coordinate the execution of other subsystems",
+                "count": 1
+            },
+            {
+                "text": "coordinate execution",
+                "count": 1
+            },
+            {
+                "text": "D  control subsystem => several internal objects  coordinator subsystem => other subsystems",
+                "count": 1
+            },
+            {
+                "text": "When is a coordinator subsystem required? A. If the subsystem needs to coordinate several internal objects B. If the subsystem needs to coordinate multiple I/O devices C. If the subsystem receives messages from multiple client subsystems D. If the subsystem needs to coordinate the execution of other subsystems D. If the subsystem needs to coordinate the execution of other subsystems  When is a control subsystem required? A. If the subsystem needs to control several internal objects B. If the subsystem needs to control multiple I/O devices C. If the subsystem needs to control multiple client subsystems D. If the subsystem needs to control the execution of other subsystems A. If the subsystem needs to control several internal objects",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "not likely, client subsystem -> service subsystem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "C. Inherited",
+                "count": 1
+            },
+            {
+                "text": "not allowed -> redefines attributes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "C",
+                "count": 1
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "passive",
+                "count": 1
+            },
+            {
+                "text": "B. A passive object that encapsulates data (Một đối tượng thụ động đóng gói dữ liệu)    Giải thích bằng tiếng Việt:​ Information hiding (ẩn thông tin) là một nguyên lý trong lập trình hướng đối tượng (OOP), trong đó các chi tiết triển khai nội bộ của một đối tượng được che giấu khỏi các đối tượng khác, chỉ cho phép truy cập thông qua giao diện (interface) công khai.    Passive object (đối tượng thụ động) là đối tượng chỉ chứa và bảo vệ dữ liệu, không tự khởi động hành vi. Nó chỉ phản ứng lại khi bị đối tượng khác gọi đến. Đối tượng này thường được dùng để đóng gói dữ liệu và cung cấp phương thức để truy xuất (getter/setter), đúng với khái niệm information hiding.   Phân tích các lựa chọn:​  A. Active object that encapsulates data →  Không chính xác: active object có thể tự thực thi hành vi → không phù hợp với mục tiêu \"ẩn thông tin\". B. Passive object that encapsulates data →  Chính xác: đây là đối tượng đúng nghĩa \"information hiding\". C. A class that encapsulates data →  Quá rộng. Một class có thể là blueprint cho cả active và passive objects. D. A task that encapsulates data →  Không đúng ngữ cảnh OOP.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "Trong mô hình kiến trúc nhiều lớp (Multi-tier Client/Service), điều nào sau đây là đúng về \"intermediate tier\" (lớp trung gian)?     Đáp án đúng:​ D. An intermediate tier is both a client tier and a service tier (Một lớp trung gian vừa là lớp client, vừa là lớp service)    Giải thích bằng tiếng Việt:​ Trong mô hình Client/Service nhiều lớp (Multi-tier Architecture), kiến trúc hệ thống được chia thành các tầng (tiers):    Client Tier (Presentation Layer): Tầng giao diện người dùng. Intermediate Tier (Logic/Control Layer): Tầng trung gian xử lý logic nghiệp vụ. Service/Data Tier (Data Layer): Tầng cung cấp dữ liệu và dịch vụ.   Vai trò của​  Đóng vai trò là client khi gọi đến tầng service (ví dụ: truy xuất cơ sở dữ liệu). Đồng thời là service khi nhận yêu cầu từ tầng client phía trên.  → Do đó, nó vừa là client đối với tầng dưới, vừa là service đối với tầng trên.    Phân tích các lựa chọn:​  A. Là client tier →  Sai: chỉ đúng một nửa. B. Là service tier →  Sai: cũng chỉ đúng một nửa. C. Là control tier và service tier →  Không chính xác hoàn toàn – không đề cập vai trò client. D. Là cả client tier và service tier →  Chính xác, đúng với bản chất tầng trung gian trong kiến trúc nhiều lớp.",
+                "count": 1
+            },
+            {
+                "text": "Client - service",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "an - same - different",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "multiple object to request",
+                "count": 1
+            },
+            {
+                "text": "concurrent -> mutiple pbjects",
+                "count": 1
+            },
+            {
+                "text": "B  concurrent(đồng thời) => mutiple object  sequential => one object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "D: agent request",
+                "count": 1
+            },
+            {
+                "text": "D request cuối",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "B dialog",
+                "count": 1
+            },
+            {
+                "text": "dialog",
+                "count": 1
+            },
+            {
+                "text": "b diaglog",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "\"Mô hình môi giới theo kiểu danh bạ vàng (Yellow Pages) hữu ích khi người yêu cầu dịch vụ:\"  ​ B. Knows the type of service required but not the specific service (Biết loại dịch vụ cần, nhưng không biết dịch vụ cụ thể nào cung cấp nó)    ​  Yellow Pages Brokering:​  Là một mô hình môi giới dịch vụ (service broker) giống như danh bạ \"Trang Vàng\" (Yellow Pages). Người dùng biết mình cần loại dịch vụ gì (ví dụ: “dịch vụ in ấn”), nhưng không biết cụ thể bên nào cung cấp.   Yellow Pages broker giúp:    Tra cứu dịch vụ theo loại (category-based search) Trả về danh sách các nhà cung cấp phù hợp    Vì sao các lựa chọn khác sai?​  A. Needs to discover the location of the service → Đây là nhiệm vụ của White Pages brokering, không phải Yellow Pages. C. Knows the specific service but not the type → Mâu thuẫn logic (nếu biết dịch vụ cụ thể thì tất nhiên biết loại). D. Needs to discover the broker → Không hợp lý, vì bạn cần tìm dịch vụ chứ không phải tìm \"người môi giới\".",
+                "count": 1
+            },
+            {
+                "text": "the type of service",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "after design & implement",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "What is a demand-driven task? (Nhiệm vụ được điều khiển theo nhu cầu là gì?)  Đáp án đúng: B​B. A task that is activated by an internal message or event from another task → Một nhiệm vụ được kích hoạt bởi thông điệp nội bộ hoặc sự kiện từ một nhiệm vụ khác  Giải thích chi tiết:​ Demand-driven task (nhiệm vụ điều khiển theo nhu cầu):​ Là nhiệm vụ chỉ được kích hoạt khi có nhu cầu thực sự từ bên trong hệ thống. Nó không chạy liên tục, và không phản ứng với sự kiện từ bên ngoài người dùng, mà chỉ thực hiện khi một nhiệm vụ khác yêu cầu. Loại này thường gặp trong các hệ thống có kiến trúc dựa trên thông điệp (message-driven architecture).  Ví dụ thực tế:​Trong một hệ thống xử lý đơn hàng:  Khi khách hàng đặt hàng → OrderService tạo đơn hàng Sau đó gửi một internal message tới InventoryService để kiểm tra kho InventoryService chỉ thực hiện khi có thông điệp nội bộ đó → Đây là một demand-driven task  Vì sao các đáp án khác sai?​ Lựa chọnLý do saiA. \"responds to each message it receives\"Mô tả này quá chung – tất cả các task đều có thể phản hồi messageC. \"activated by external event\"Đây là event-driven task, không phải demand-drivenD. \"activated by an input event\"Đây là input-driven task, thường do người dùng hoặc thiết bị ngoại vi tạo ra",
+                "count": 1
+            },
+            {
+                "text": "B  demand-driven(yêu cầu) => message or event from another task  event-driven(sự kiện) => generates interupt",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "timer event",
+                "count": 1
+            },
+            {
+                "text": "Periodic Task (nhiệm vụ định kỳ) là một loại nhiệm vụ (task) trong hệ thống được kích hoạt tự động theo một chu kỳ thời gian cố định.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 16
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "Centralized => sequencing  Distributed  => Control is divided Hierarchical => coordinating",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 1
+            },
+            {
+                "text": "Control viết hoa",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "patiular",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "reuse",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "system availability",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "img_50.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "nonfuntional",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "img_51.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "provide by the class",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "img_52.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "BBB",
+                "count": 1
+            },
+            {
+                "text": "likely to change",
+                "count": 1
+            },
+            {
+                "text": "Information hiding trong thiết kế phần mềm là gì?     Đáp án đúng:​ B. Hiding a design decision that is considered likely to change (Ẩn đi một quyết định thiết kế được cho là có khả năng thay đổi)    Giải thích bằng tiếng Việt:​ Information hiding là một nguyên lý cốt lõi trong thiết kế phần mềm (đặc biệt là lập trình hướng đối tượng), được giới thiệu bởi David Parnas. Mục tiêu chính là:    Ẩn giấu những chi tiết thiết kế nội bộ của module (chẳng hạn như thuật toán, cấu trúc dữ liệu, cách lưu trữ,…) Chỉ cung cấp một giao diện công khai để sử dụng module đó.   Việc này giúp giảm sự phụ thuộc giữa các phần của hệ thống. Khi một chi tiết thay đổi, những thành phần khác không bị ảnh hưởng nếu chúng chỉ giao tiếp thông qua giao diện công khai.    Phân tích các lựa chọn:​  A. Ẩn thông tin để không thể tìm thấy →  Sai, mục tiêu không phải là giấu hoàn toàn mà là giấu chi tiết dễ thay đổi. B. Ẩn quyết định thiết kế có khả năng thay đổi →  Chính xác, đây là định nghĩa chuẩn. C. Ẩn thông tin để bảo mật →  Không đúng trọng tâm. Information hiding không phải bảo mật (security). D. Đóng gói dữ liệu trong class →  Đóng gói (encapsulation) là kỹ thuật hỗ trợ, không phải bản chất của information hiding.",
+                "count": 1
+            },
+            {
+                "text": "Hiding a design decision that is considered likely to change",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "img_53.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "operate on data",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "img_54.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "img_55.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "C",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "img_56.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "classes",
+                "count": 1
+            },
+            {
+                "text": "relationship between two classes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "img_57.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "independent",
+                "count": 1
+            },
+            {
+                "text": "b independent",
+                "count": 1
+            },
+            {
+                "text": "\"If two actions are shown on a given state transition, which of the following is true?\" (Nếu hai hành động được thể hiện trên một chuyển trạng thái, điều nào sau đây là đúng?)    ​",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "img_58.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "interval of time",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "img_59.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "Transition out -> each of Transition into -> only one",
+                "count": 2
+            },
+            {
+                "text": "into - only  out - each",
+                "count": 1
+            }
+        ]
+    }
+]

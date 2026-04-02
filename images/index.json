@@ -87,6 +87,52 @@
                 "title": "swd392_su25_pe_2.4138",
                 "path": "images/swd392/pe/swd392_su25_pe_2.4138"
             }
+        },
+        "fe": {
+            "swd392-fa-2024-block-5-fe.3238": {
+                "title": "swd392-fa-2024-block-5-fe.3238",
+                "path": "images/swd392/fe/swd392-fa-2024-block-5-fe.3238"
+            },
+            "swd392-fa-2024-fe.3001": {
+                "title": "swd392-fa-2024-fe.3001",
+                "path": "images/swd392/fe/swd392-fa-2024-fe.3001"
+            },
+            "swd392-fa25-feb5.5759": {
+                "title": "swd392-fa25-feb5.5759",
+                "path": "images/swd392/fe/swd392-fa25-feb5.5759"
+            },
+            "swd392-fa25-final-exam.5334": {
+                "title": "swd392-fa25-final-exam.5334",
+                "path": "images/swd392/fe/swd392-fa25-final-exam.5334"
+            },
+            "swd392-sp-2024-fe.1619": {
+                "title": "swd392-sp-2024-fe.1619",
+                "path": "images/swd392/fe/swd392-sp-2024-fe.1619"
+            },
+            "swd392-sp-2024-re.1692": {
+                "title": "swd392-sp-2024-re.1692",
+                "path": "images/swd392/fe/swd392-sp-2024-re.1692"
+            },
+            "swd392-sp-2025-fe.3635": {
+                "title": "swd392-sp-2025-fe.3635",
+                "path": "images/swd392/fe/swd392-sp-2025-fe.3635"
+            },
+            "swd392-su-2024-fe.2316": {
+                "title": "swd392-su-2024-fe.2316",
+                "path": "images/swd392/fe/swd392-su-2024-fe.2316"
+            },
+            "swd392-su-2024-re.2471": {
+                "title": "swd392-su-2024-re.2471",
+                "path": "images/swd392/fe/swd392-su-2024-re.2471"
+            },
+            "swd392-su25-re.4610": {
+                "title": "swd392-su25-re.4610",
+                "path": "images/swd392/fe/swd392-su25-re.4610"
+            },
+            "swd392_su25_final-exam.4148": {
+                "title": "swd392_su25_final-exam.4148",
+                "path": "images/swd392/fe/swd392_su25_final-exam.4148"
+            }
         }
     }
 }

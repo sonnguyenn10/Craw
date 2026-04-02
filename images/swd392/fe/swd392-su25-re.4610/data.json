@@ -1,0 +1,1042 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "Nãy vô 10 câu đầu xịt keo",
+                "count": 1
+            },
+            {
+                "text": "A mechanism for sharing and reusing code between classes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "PIM -> commited",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "psm -> map",
+                "count": 1
+            },
+            {
+                "text": "PIM-> before commitment PSM -> mapped",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "composite structure -> to model",
+                "count": 1
+            },
+            {
+                "text": "Biểu đồ Cấu trúc Hợp thành (Composite Structure Diagram) là một trong những biểu đồ cấu trúc của UML. Nó được sử dụng để hiển thị cấu trúc nội bộ của một Bộ phân loại (Classifier), thường là một Lớp (Class) hoặc Thành phần (Component).  Cấu trúc Nội bộ: Nó mô tả cách một thực thể phức tạp được tạo thành từ các bộ phận (parts) nhỏ hơn (các đối tượng hoặc vai trò), các cổng (ports) để giao tiếp với bên ngoài, và các kết nối (connectors) giữa các bộ phận này. Khối Xây dựng: Nó thể hiện một mẫu thiết kế quan trọng: Thành phần Hợp thành (Composition), nơi một đối tượng lớn chứa đựng các đối tượng nhỏ hơn.",
+                "count": 1
+            },
+            {
+                "text": "Lựa chọnBiểu đồ Tương ứngMục đíchA. To represent the static structure of a system's classes and their relationships.Biểu đồ Lớp (Class Diagram)Mô hình hóa cấu trúc tĩnh cấp cao.B. To illustrate the interactions and collaborations between objects in a system.Biểu đồ Tương tác (Interaction Diagram) (Ví dụ: Biểu đồ Trình tự)Mô hình hóa hành vi động giữa nhiều đối tượng.C. To model the organization and behavior of objects within a single classifier.Biểu đồ Cấu trúc Hợp thànhMô hình hóa cấu trúc nội bộ của một thực thể duy nhất.D. To depict the flow of control and the partitioning of a system into states and transitions.Biểu đồ Máy trạng thái (State Machine Diagram)Mô hình hóa hành vi phụ thuộc trạng thái.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "validation/verification right system/system right  validation trước verification -> right đứng trước -> B",
+                "count": 2
+            },
+            {
+                "text": "validation -> right system verification -> system right",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 16
+            },
+            {
+                "text": "Coding vs Debugging là sai -> A",
+                "count": 1
+            },
+            {
+                "text": "done",
+                "count": 1
+            },
+            {
+                "text": "analysis -> design",
+                "count": 1
+            },
+            {
+                "text": "usdp -> analysis , design",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "Monolithic là FE vs BE dính hết vào nhau, code nhanh nhưng rác  -> A - tách FE BE triển khai riêng",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "hmmm b",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 19
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "phần extension của usecase thì -> conditional part",
+                "count": 1
+            },
+            {
+                "text": "extension use cases -> conditional part",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 16
+            },
+            {
+                "text": "Composition (composite): strong Aggression: weak  -> D Phần này đa phần chỉ hay bị nhầm ở chỗ whole/part với gene/special",
+                "count": 1
+            },
+            {
+                "text": "composition -> strong form aggregation -> weak form",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "C sủi",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "bb",
+                "count": 1
+            },
+            {
+                "text": "entity class -> stores data",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 15
+            },
+            {
+                "text": "passtive",
+                "count": 1
+            },
+            {
+                "text": "B, phai co passive phai co passive",
+                "count": 1
+            },
+            {
+                "text": "A. An active object that encapsulates data: Là một đối tượng có khả năng xử lý đồng thời, thường được gọi là Task hoặc Process. B. A passive object that encapsulates data: Chính xác. Đây là đối tượng cung cấp dịch vụ dữ liệu đơn giản, tuân thủ nguyên tắc ẩn thông tin bằng cách đóng gói dữ liệu và cung cấp các thao tác qua giao diện. C. A class that encapsulates data: Sai. Đây là định nghĩa của lớp (class) nói chung. \"Object\" (đối tượng) là thể hiện (instance) của lớp. D. A task that encapsulates data: Sai. Task (tác vụ) là một đối tượng chủ động (active object). Đáp án đúng là B.",
+                "count": 1
+            },
+            {
+                "text": "information hiding object -> passive object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "generic -> all c",
+                "count": 1
+            },
+            {
+                "text": "instance - depicts one generic - depicts all",
+                "count": 1
+            },
+            {
+                "text": "instance -> depicts one generic -> depicts all",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "finite state machines -> captures system",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "aa",
+                "count": 1
+            },
+            {
+                "text": "A",
+                "count": 13
+            },
+            {
+                "text": "into -> only one",
+                "count": 1
+            },
+            {
+                "text": "into a -> only one",
+                "count": 1
+            },
+            {
+                "text": "into -> only one  out -> each of",
+                "count": 1
+            },
+            {
+                "text": "into - only one out - each of",
+                "count": 1
+            },
+            {
+                "text": "into -> onluone out -> each of",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 14
+            },
+            {
+                "text": "out of -> each",
+                "count": 1
+            },
+            {
+                "text": "B. out -> each",
+                "count": 1
+            },
+            {
+                "text": "out -> each of into -> only one",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            },
+            {
+                "text": "output -> action input -> event",
+                "count": 1
+            },
+            {
+                "text": "input là event / output là action",
+                "count": 1
+            },
+            {
+                "text": "input message -> event  out ...               -> action",
+                "count": 1
+            },
+            {
+                "text": "output -> action  input -> event B",
+                "count": 1
+            },
+            {
+                "text": "input message -> event output -> action",
+                "count": 1
+            },
+            {
+                "text": "B output -> action input -> event",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "Mô hình Tương tác Động (Dynamic Interaction Model): Các biểu đồ như Biểu đồ Trình tự (Sequence Diagram) và Biểu đồ Giao tiếp (Communication Diagram). Chúng mô tả cách các đối tượng trao đổi tin nhắn (tương tác) để thực hiện một chức năng. Phụ thuộc Trạng thái (State-Dependent): Điều này có nghĩa là hành vi của các đối tượng tham gia (các tin nhắn được gửi, các thao tác được gọi) thay đổi tùy thuộc vào trạng thái hiện tại của một hoặc nhiều đối tượng chính (thường là Đối tượng Điều khiển).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "software architecture -> overall",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "hmm b",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "Trong kiến trúc phần mềm, đặc biệt là kiến trúc nhiều tầng (Multi-tier Architecture), Hệ thống con Dịch vụ (Service Subsystem) hay Tầng Logic Ứng dụng/Nghiệp vụ (Business Logic Tier) là nơi diễn ra các hoạt động cốt lõi của ứng dụng. Hệ thống con này chịu trách nhiệm:  Điều phối (Coordination): Quản lý luồng công việc của một Use Case hoặc quy trình nghiệp vụ. Thực thi Logic Nghiệp vụ (Business Logic Execution): Thực hiện các quy tắc và tính toán cốt lõi của doanh nghiệp.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 19
+            },
+            {
+                "text": "complex user interaction -> involves multiple",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "external object, interface -> one sub system",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "Lớp Thực thể là một trong ba khuôn mẫu lớp chính trong mô hình Boundary-Control-Entity (BCE) và là xương sống dữ liệu của hệ thống.  Trách nhiệm chính: Đại diện cho các thực thể nghiệp vụ quan trọng (ví dụ: Khách hàng, Sản phẩm, Đơn hàng) và chịu trách nhiệm lưu trữ và quản lý dữ liệu lâu dài của chúng. Trừu tượng hóa Dữ liệu: Lớp Thực thể thực hiện việc trừu tượng hóa dữ liệu (data abstraction), nghĩa là nó cung cấp một giao diện sạch sẽ để truy cập và thao tác với dữ liệu, ẩn giấu các chi tiết về cách dữ liệu đó được lưu trữ thực tế (ví dụ: trong cơ sở dữ liệu quan hệ, tệp JSON, v.v.).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "d. key characteristic of state machine -> it does not provide ,...",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "b. encapsulates the state-chart",
+                "count": 1
+            },
+            {
+                "text": "key characteristic of state-machine -> encapsulates statechart",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 17
+            },
+            {
+                "text": "same name - diff obj",
+                "count": 1
+            },
+            {
+                "text": "Đa hình (Polymorphism): Nghĩa đen là \"nhiều hình thức\". Nó cho phép một giao diện duy nhất được sử dụng cho nhiều loại hành động khác nhau. Trong OOP, điều này có nghĩa là các đối tượng thuộc các lớp khác nhau (thường có cùng lớp cơ sở/giao diện) có thể phản hồi khác nhau với cùng một thông điệp (tên phương thức). Liên kết động (Dynamic Binding): Là quá trình hệ thống quyết định phiên bản phương thức cụ thể nào sẽ được gọi tại thời điểm chạy (runtime), dựa trên kiểu dữ liệu thực tế của đối tượng.",
+                "count": 1
+            },
+            {
+                "text": "poly, dynamic -> same name, different object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "Kiến trúc hướng Dịch vụ (SOA), và mô hình tiến hóa của nó là Microservices, được tạo ra để giải quyết các vấn đề về tính linh hoạt (flexibility), khả năng mở rộng (scalability) và khả năng tái sử dụng (reusability) trong các hệ thống lớn.  Ghép nối Lỏng lẻo (Loose Coupling): Đây là nguyên tắc cốt lõi của SOA. Nó đảm bảo rằng các dịch vụ chỉ biết về nhau thông qua giao diện công khai (public interface) của chúng và không phụ thuộc vào chi tiết triển khai nội bộ của nhau (chẳng hạn như ngôn ngữ lập trình, hệ điều hành). Khi các dịch vụ được ghép nối lỏng lẻo, bạn có thể thay đổi, cập nhật hoặc thay thế một dịch vụ mà không ảnh hưởng đến các dịch vụ khác sử dụng nó. Điều này làm tăng tính linh hoạt và khả năng bảo trì.  Ghép nối Chặt chẽ (Tight Coupling) (B): Ngược lại, ghép nối chặt chẽ sẽ khiến hệ thống cứng nhắc và khó thay đổi. Mặc dù có thể mang lại hiệu suất tốt hơn trong một số trường hợp nội bộ, nó là điều mà kiến trúc SOA tìm cách tránh ở cấp độ dịch vụ.  Cơ sở Dữ liệu Tập trung (Centralized Database) (C): Trong SOA hiện đại, các dịch vụ thường được khuyến nghị sử dụng cơ sở dữ liệu độc lập (decentralized database) để tăng tính tự chủ và giảm sự phụ thuộc giữa các dịch vụ.  Giảm sử dụng API (D): Sai. API (Application Programming Interface) là phương tiện giao tiếp chính giữa các dịch vụ. SOA thúc đẩy việc sử dụng các API rõ ràng, được định nghĩa tốt và dựa trên các giao thức chuẩn.",
+                "count": 1
+            },
+            {
+                "text": "SOA -> loose coupling",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 13
+            },
+            {
+                "text": "A hay D nhỉ",
+                "count": 1
+            },
+            {
+                "text": "trong giáo trình mục 16.5 nói là d",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 1
+            },
+            {
+                "text": "Theo sách là D",
+                "count": 1
+            },
+            {
+                "text": "agent reqss",
+                "count": 1
+            },
+            {
+                "text": "Mẫu Đàm phán (Negotiation Pattern) trong kiến trúc hướng dịch vụ hoặc các hệ thống tác tử (agent-based systems). Mẫu Đàm phán mô tả một giao tiếp phức tạp, đa bước, trong đó các bên (Client Agent và Service Agent) không chỉ đơn thuần là gửi yêu cầu và nhận phản hồi, mà còn tham gia vào quá trình trao đổi đề xuất (proposals) và thỏa thuận (agreement) trước khi thực hiện dịch vụ. Trình tự điển hình của đàm phán:  Đề xuất/Yêu cầu (Proposal/Request): Client hoặc Server khởi xướng bằng cách đề xuất một dịch vụ hoặc yêu cầu một dịch vụ. Mặc cả/Phản đề xuất (Bargaining/Counter-proposal): Các bên trao đổi các đề xuất/phản đề xuất để thống nhất các điều khoản (ví dụ: giá cả, chất lượng, thời gian). Thỏa thuận (Agreement): Sau khi đạt được thỏa thuận, dịch vụ mới được thực hiện.",
+                "count": 1
+            },
+            {
+                "text": "Lựa chọnA. The client agent can propose a service. (Tác tử khách có thể đề xuất một dịch vụ.)Đúng. Khách hàng có thể khởi xướng quá trình bằng cách đề xuất các điều khoản.B. The service agent can offer a service in response to a client agent proposal. (Tác tử dịch vụ có thể đề nghị dịch vụ để phản hồi đề xuất của tác tử khách.)Đúng. Tác tử dịch vụ có thể đưa ra đề nghị hoặc phản đề nghị (offer/counter-offer) trong quá trình đàm phán.C. The client agent can request a service. (Tác tử khách có thể yêu cầu một dịch vụ.)Đúng. Yêu cầu là bước khởi đầu cơ bản, dẫn đến quá trình đàm phán về chi tiết.D. The service agent can offer a service in response to a client agent request. (Tác tử dịch vụ có thể đề nghị dịch vụ để phản hồi yêu cầu của tác tử khách.)KHÔNG ĐÚNG. Trong ngữ cảnh mẫu Đàm phán, thuật ngữ \"offer\" (đề nghị) thường được sử dụng như một phản ứng đối với một đề xuất (proposal) hoặc là một bước trong quá trình thỏa thuận. Nếu tác tử khách chỉ \"request\" (yêu cầu) một dịch vụ mà không có đề xuất chi tiết, tác tử dịch vụ thường sẽ \"perform\" (thực hiện) dịch vụ (nếu có thể) hoặc \"reject\" (từ chối), chứ không phải là \"offer\" (đề nghị) dịch vụ, vì việc đề nghị (offer) ngụ ý rằng dịch vụ đó đã là đối tượng của đàm phán.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "nhìn đề đoán chữ =)",
+                "count": 1
+            },
+            {
+                "text": "SOA là một mô hình kiến trúc tập trung vào việc tổ chức ứng dụng dưới dạng một tập hợp các dịch vụ có khả năng kết hợp và tái sử dụng. Để đạt được điều này, các dịch vụ phải có các đặc tính sau:  Tự chủ (Autonomous): Đây là nguyên tắc cốt lõi. Mỗi dịch vụ phải tự chứa đựng logic và tài nguyên của riêng nó (bao gồm cả dữ liệu) và có thể được phát triển, triển khai, quản lý và nâng cấp độc lập với các dịch vụ khác. Ghép nối lỏng lẻo (Loosely Coupled): Tính tự chủ dẫn đến việc các dịch vụ chỉ tương tác qua giao diện công khai và ít phụ thuộc vào chi tiết nội bộ của nhau. Tái sử dụng (Reusable): Các dịch vụ được thiết kế để phục vụ nhiều người tiêu dùng (clients) và có thể được sử dụng lại trong nhiều ứng dụng khác nhau.",
+                "count": 1
+            },
+            {
+                "text": "Lựa chọnNội dungPhân tíchA. Services are dependent on each other (Các dịch vụ phụ thuộc vào nhau)Sai. Phụ thuộc là điều mà SOA tìm cách giảm thiểu.SaiB. Services are autonomous (Các dịch vụ là tự chủ)Chính xác. Tính tự chủ là nền tảng cho sự linh hoạt và khả năng mở rộng của SOA.ĐúngC. Services are not reusable (Các dịch vụ không thể tái sử dụng)Sai. Khả năng tái sử dụng là một lợi ích chính của SOA.SaiD. Services are tightly integrated (Các dịch vụ được tích hợp chặt chẽ)Sai. SOA thúc đẩy việc tích hợp lỏng lẻo (loose coupling).Sai",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "img_50.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 15
+            },
+            {
+                "text": "provide -> fullfill  request -> inside",
+                "count": 1
+            },
+            {
+                "text": "Phân tích Giao diện Cung cấp (Provided Interface)​Trong mô hình thành phần UML:  Giao diện Cung cấp (Provided Interface):  Đây là giao diện mà thành phần cung cấp cho thế giới bên ngoài. Nó xác định các dịch vụ hoặc chức năng mà thành phần đó có thể thực hiện (implement) và cam kết đáp ứng. Các thành phần khác (Client Components) sử dụng giao diện này để gọi các thao tác. [imath]\\rightarrow[/imath] Do đó, Giao diện Cung cấp bao gồm các thao tác mà thành phần đó phải thực hiện (fulfill).  Giao diện Yêu cầu (Required Interface):  Đây là giao diện mà thành phần cần từ môi trường bên ngoài để thực hiện công việc của nó. Giao diện Yêu cầu bao gồm các thao tác mà thành phần đó cần sử dụng (consume).",
+                "count": 1
+            },
+            {
+                "text": "provided - fulfill required - inside",
+                "count": 1
+            },
+            {
+                "text": "provided -> fullfill required -> inside",
+                "count": 1
+            },
+            {
+                "text": "A provide -> fullfill request -> inside",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "img_51.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 16
+            },
+            {
+                "text": "active có luồng, pass không có luồng",
+                "count": 1
+            },
+            {
+                "text": "Sự khác biệt chính giữa đối tượng chủ động và bị động nằm ở khả năng kiểm soát luồng thực thi (flow of control) của chính chúng:  Đối tượng Chủ động (Active Object): Có một luồng kiểm soát (thread of control) riêng (thường được gọi là Task hoặc Process). Chúng có thể khởi tạo hành động một cách độc lập (ví dụ: chạy vòng lặp, chờ sự kiện). Chúng thường đại diện cho các tác vụ xử lý chính hoặc các tiến trình đồng thời.  Đối tượng Bị động (Passive Object): Không có luồng kiểm soát riêng. Chúng chỉ thực hiện hành động khi một Đối tượng Chủ động khác gọi các thao tác (operations/methods) của chúng. Chúng thường dùng để đóng gói dữ liệu (như Lớp Thực thể) hoặc cung cấp các dịch vụ tiện ích đơn giản.",
+                "count": 1
+            },
+            {
+                "text": "active has a thread, passive does not",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "img_52.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "bb",
+                "count": 1
+            },
+            {
+                "text": "periodic -> timer event",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "img_53.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 15
+            },
+            {
+                "text": "distributed -> devided",
+                "count": 1
+            },
+            {
+                "text": "đáp án C là Hierarchical Control Architectural Pattern còn A là Disributed Control Architectural Pattern",
+                "count": 1
+            },
+            {
+                "text": "Mô hình Điều khiển Phân tán đối lập với mô hình Điều khiển Tập trung (như Hierarchical Control, đã được giải thích ở câu trước).  Điều khiển Tập trung: Một thành phần chính (Master Controller) chịu trách nhiệm về luồng điều khiển tổng thể. Điều khiển Phân tán: Sự kiểm soát không tập trung ở một nơi duy nhất. Trách nhiệm điều khiển được chia sẻ và phân tán cho nhiều thành phần điều khiển khác nhau. Mỗi thành phần điều khiển chịu trách nhiệm về một phần nhỏ của chức năng tổng thể. Các thành phần này thường giao tiếp với nhau bằng cách sử dụng tin nhắn để phối hợp công việc.",
+                "count": 1
+            },
+            {
+                "text": "Lựa chọnNội dungA. Control is divided among various control components. (Sự điều khiển được chia nhỏ giữa các thành phần điều khiển khác nhau.)Chính xác. Đây là đặc điểm định nghĩa của mô hình Phân tán.B. It responds to multiple requests from client subsystems. (Nó phản hồi nhiều yêu cầu từ các hệ thống con máy khách.)Sai. Đây là trách nhiệm chung của bất kỳ hệ thống server nào, không phải là đặc điểm kiến trúc duy nhất của điều khiển phân tán.C. It provides overall control by coordinating several control components. (Nó cung cấp sự điều khiển tổng thể bằng cách phối hợp một số thành phần điều khiển.)Sai. Đây là định nghĩa của mô hình Điều khiển Phân cấp (Hierarchical Control), nơi một thành phần cao hơn phối hợp.D. It provides distributed control over various I/O objects. (Nó cung cấp điều khiển phân tán cho các đối tượng I/O khác nhau.)Sai. Mặc dù có thể áp dụng, nhưng nó quá cụ thể. Sự điều khiển phân tán là một nguyên tắc tổng quát hơn.",
+                "count": 1
+            },
+            {
+                "text": "distributed -> divided",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "img_54.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "Khái niệm Điểm Biến thể Use Case (Use Case Variation Point), thường được sử dụng trong ngữ cảnh của Kỹ thuật Dòng sản phẩm Phần mềm (SPL) hoặc mô hình hóa yêu cầu phức tạp. Trong mô hình hóa yêu cầu, đặc biệt là đối với các hệ thống có nhiều biến thể (như trong SPL), Điểm Biến thể (Variation Point) là một khái niệm quan trọng.  Điểm Biến thể (Variation Point): Là một vị trí hoặc một khía cạnh được xác định rõ ràng trong mô hình (Use Case, kiến trúc, mã nguồn) nơi mà hệ thống có thể thay đổi hoặc tùy chỉnh để tạo ra các sản phẩm khác nhau. Điểm Cố định (Fixed Point/Commonality): Là những phần không đổi giữa tất cả các sản phẩm. Trong ngữ cảnh của Use Case:  Một Điểm Biến thể Use Case là một bước hoặc một phần của luồng sự kiện chính nơi mà logic có thể thay đổi để phù hợp với các sản phẩm khác nhau. Ví dụ: Trong Use Case \"Thanh toán\", điểm biến thể có thể là bước \"Tính phí giao hàng\" (vì quy tắc tính phí có thể khác nhau tùy theo khu vực).",
+                "count": 1
+            },
+            {
+                "text": "A. A variable use case: Sai. Điểm biến thể là một vị trí trong use case, không phải toàn bộ use case đó. B. A location in the use case at which change can occur: Chính xác. Đây là định nghĩa tổng quát và chính xác nhất, mô tả một nơi được phép tùy chỉnh trong luồng logic. C. An alternative use case: Sai. Một use case thay thế (alternative use case) mô tả một đường đi logic khác (ví dụ: xử lý lỗi), nhưng không nhất thiết là một điểm nơi sự thay đổi (tùy chỉnh) xảy ra giữa các sản phẩm. D. A location in the use case where an alternative path can start: Sai. Đây là định nghĩa của một điểm rẽ nhánh (branching point) trong luồng sự kiện, không phải là nơi xảy ra sự khác biệt giữa các sản phẩm (variations).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "img_55.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "spl -> selected or not selected",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "img_56.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "SPL = Software Productline",
+                "count": 1
+            },
+            {
+                "text": "Kiến trúc Dòng sản phẩm Phần mềm (SPL Architecture) là một tài sản cốt lõi (core asset) và là yếu tố quan trọng nhất để đạt được khả năng tái sử dụng (reusability) cao trong SPL.  Mục đích: Kiến trúc SPL không chỉ mô tả cấu trúc của một sản phẩm duy nhất mà là cấu trúc chung, thống nhất cho toàn bộ gia đình (family) các sản phẩm. Nội dung: Nó mô tả các thành phần chung (common) và các thành phần biến thể (variant) của dòng sản phẩm, và quan trọng nhất là cách các thành phần này được tổ chức và kết nối với nhau để có thể tạo ra mọi sản phẩm có thể có trong dòng sản phẩm. Vai trò: Kiến trúc SPL đóng vai trò là khuôn mẫu cho mọi sản phẩm con. Bằng cách định nghĩa trước các điểm biến thể (variation points) và các thành phần cốt lõi, nó đảm bảo rằng mọi sản phẩm mới đều tuân theo một khuôn khổ nhất quán và có thể được lắp ráp từ các thành phần có sẵn.",
+                "count": 1
+            },
+            {
+                "text": "spl -> software product line",
+                "count": 1
+            },
+            {
+                "text": "C SPL = Software Productline",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "img_57.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "quality attribute -> non functional",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "img_58.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "Thuộc tínhĐịnh nghĩaLiên quan đến Hiệu suất?A. System response time (Thời gian phản hồi)Thời gian hệ thống cần để phản hồi một yêu cầu.Có. Là thước đo chính của hiệu suất.B. System throughput (Thông lượng hệ thống)Số lượng giao dịch hoặc đơn vị công việc mà hệ thống có thể xử lý trong một khoảng thời gian (ví dụ: giao dịch/giây).Có. Là thước đo chính của hiệu suất.C. System availability (Tính sẵn sàng)Tỷ lệ thời gian hệ thống hoạt động bình thường và sẵn sàng sử dụng (thường đo bằng %).KHÔNG. Đây là thuộc tính của Độ tin cậy (Reliability) hoặc Khả năng chịu lỗi (Fault Tolerance).D. System capacity (Dung lượng/Sức chứa)Khối lượng công việc tối đa mà hệ thống có thể xử lý mà vẫn duy trì mức hiệu suất chấp nhận được.Có. Là một giới hạn của hiệu suất.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "img_59.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            }
+        ]
+    }
+]

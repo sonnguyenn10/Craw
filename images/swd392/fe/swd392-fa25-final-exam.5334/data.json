@@ -1,0 +1,1038 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "Answer:A. A class can contain implementations of methods, while an interface cannot    Explanation​   Option A (Correct): This highlights the fundamental distinction. A class is a blueprint for creating objects and defines how methods work (method implementation/body). An interface, traditionally, acts as a contract that defines what a class must do but leaves the specific implementation details up to the class that implements it.  Note: While modern versions of languages like Java (8+) allow for \"default methods\" in interfaces, the primary conceptual difference remains that classes are for implementation and state, while interfaces are for defining types and contracts.  Option B (Incorrect): This is the reverse of the truth. Classes can be instantiated (you can create objects from them using new), whereas interfaces cannot be instantiated directly. Option C (Incorrect): Classes can certainly be extended (inheritance) to create subclasses. Interfaces can also extend other interfaces, so the claim that classes \"cannot be extended\" is false. Option D (Incorrect): This is also the reverse of the truth. It claims classes only have declarations and interfaces have implementations, which is the opposite of their standard definitions.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 10
+            },
+            {
+                "text": "Câu hỏi yêu cầu xác định loại biểu đồ UML nào thường được sử dụng để thể hiện hành vi động của một hệ thống, bao gồm trình tự tương tác giữa các đối tượng hoặc thành phần. 1. Phân tích các lựa chọn​ Lựa chọnTên tiếng ViệtMục đích chínhHành vi Động & Trình tự Tương tác?A. Class diagramBiểu đồ LớpMô tả cấu trúc tĩnh của hệ thống: các lớp, thuộc tính, phương thức và mối quan hệ giữa chúng.Không. Chỉ thể hiện cấu trúc.B. Use case diagramBiểu đồ Use CaseMô tả các chức năng (Use Case) của hệ thống và sự tương tác giữa các tác nhân (Actor) với các chức năng đó, thể hiện yêu cầu chức năng cấp cao.Không. Chỉ thể hiện yêu cầu và phạm vi.C. Sequence diagramBiểu đồ Trình tựMô tả hành vi động của hệ thống bằng cách hiển thị trình tự thời gian của các tin nhắn (messages) được trao đổi giữa các đối tượng (objects) để thực hiện một kịch bản hoặc một Use Case cụ thể.Có. Chính xác là mục đích của nó.D. State diagramBiểu đồ Trạng tháiMô tả hành vi động của một đối tượng cụ thể bằng cách hiển thị các trạng thái mà nó có thể có và các chuyển đổi (transitions) giữa các trạng thái đó.Có (thể hiện hành vi động), nhưng Không (chủ yếu tập trung vào tương tác giữa nhiều đối tượng).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 10
+            },
+            {
+                "text": "Cấu trúc hóa phần mềm (Software Structuring): Là quá trình chia một hệ thống phần mềm lớn thành các phần nhỏ, có tổ chức, dễ quản lý hơn, thường được gọi là các thành phần (components) hoặc module. Ví dụ về Tiêu chí cấu trúc hóa​  Các tiêu chí (hướng dẫn) quan trọng nhất khi cấu trúc hóa phần mềm thành các thành phần bao gồm:  Tính gắn kết (Cohesion): Thành phần phải thực hiện một nhiệm vụ duy nhất, được xác định rõ ràng. (Mục tiêu: Gắn kết cao - High Cohesion). Tính ghép nối (Coupling): Sự phụ thuộc giữa các thành phần khác nhau nên được giữ ở mức tối thiểu. (Mục tiêu: Ghép nối lỏng lẻo - Low Coupling).  Đây chính là các hướng dẫn (guidelines) giúp quyết định cách tổ chức hệ thống một cách tối ưu.  Đáp án đúng là C. Guidelines used to help in structuring a software system into its components.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 8
+            },
+            {
+                "text": "Trong Ngôn ngữ Mô hình Hợp nhất (UML), một Gói (Package) là một cơ chế tổ chức dùng để gom nhóm các phần tử mô hình có liên quan lại với nhau.   Các phần tử mô hình (model elements) bao gồm: lớp (classes), giao diện (interfaces), thành phần (components), use case, các gói khác (sub-packages), và nhiều loại phần tử mô hình UML khác. Mục đích chính của Package là để quản lý sự phức tạp của các mô hình lớn bằng cách tạo ra một không gian tên (namespace) riêng biệt. Điều này giúp các mô hình dễ hiểu, dễ quản lý và tổ chức hơn.",
+                "count": 1
+            },
+            {
+                "text": "uml packages -> dùng để gom nhóm các phần tử mô hình",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 9
+            },
+            {
+                "text": "uml -> illustrate",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "1. Các mức độ hiển thị trong UML​Trong UML, có bốn mức độ hiển thị chính cho các thành phần của một lớp:  Ký hiệuMức độ hiển thịÝ nghĩa+ (dấu cộng)Public (Công khai)Thành phần hiển thị với tất cả các lớp khác.# (dấu thăng)Protected (Được bảo vệ)Thành phần hiển thị trong nội bộ lớp đó và tất cả các lớp con (subclasses/derived classes).~ (dấu ngã)Package/InternalThành phần hiển thị trong nội bộ gói (package) mà lớp đó thuộc về.- (dấu trừ)Private (Riêng tư)Thành phần hiển thị chỉ trong nội bộ lớp đó mà thôi. 2. Phân tích lựa chọn​Theo bảng trên và nguyên tắc cơ bản của Lập trình Hướng đối tượng (OOP):  A. The element is visible to all classes. (Hiển thị với tất cả các lớp) [imath]\\rightarrow[/imath] Đây là Public (+). B. The element is visible only from within the class that defines it. (Chỉ hiển thị từ bên trong lớp định nghĩa nó) [imath]\\rightarrow[/imath] Chính xác là Private (-). C. The element is visible within the class and all subclasses. (Hiển thị trong lớp và tất cả các lớp con) [imath]\\rightarrow[/imath] Đây là Protected (#). D. The element is visible from outside the class only. (Chỉ hiển thị từ bên ngoài lớp) [imath]\\rightarrow[/imath] Hoàn toàn sai (nếu một thành phần là Private thì không thể truy cập từ bên ngoài). 3. Kết luận​Mức độ hiển thị Private (-) đảm bảo nguyên tắc Đóng gói (Encapsulation), có nghĩa là thành phần đó chỉ có thể được truy cập và sửa đổi bởi các phương thức nằm bên trong chính lớp đó.",
+                "count": 1
+            },
+            {
+                "text": "denoted by -> only from",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            },
+            {
+                "text": "C D là black box testing",
+                "count": 1
+            },
+            {
+                "text": "white box => system internals blackbox => software internals",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "Mục đích chính của Ẩn thông tin là:   Bảo vệ khỏi sự thay đổi: Che giấu các quyết định thiết kế (design decisions) về cấu trúc bên trong của một module hoặc thành phần mà có khả năng sẽ thay đổi trong tương lai. Giảm thiểu sự phụ thuộc: Đảm bảo rằng sự thay đổi bên trong một module sẽ không ảnh hưởng đến các module khác sử dụng nó. Các module khác chỉ giao tiếp thông qua một giao diện công khai (public interface) đã được xác định rõ ràng.",
+                "count": 1
+            },
+            {
+                "text": "info hiding in software design -> considered likely to change",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 10
+            },
+            {
+                "text": "Mẫu thiết kế (Design Pattern) là một giải pháp đã được kiểm chứng, đã được sử dụng rộng rãi, và có tính tái sử dụng cho một vấn đề thiết kế phổ biến xảy ra trong các ngữ cảnh khác nhau.  Chúng không phải là đoạn mã hoặc thư viện có sẵn mà là các khuôn mẫu khái niệm (conceptual templates) mô tả cách các lớp và đối tượng tương tác với nhau để giải quyết một thách thức cụ thể.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            },
+            {
+                "text": "Kiểm thử hệ thống diễn ra sau khi tất cả các thành phần đã được tích hợp. Ở cấp độ này, người kiểm thử không còn quan tâm đến cấu trúc mã nguồn bên trong mà tập trung vào việc xác minh rằng chức năng bên ngoài của hệ thống hoạt động đúng theo đặc tả yêu cầu.   White box testing (A): Tập trung vào cấu trúc bên trong (mã nguồn), được thực hiện ở cấp độ Đơn vị (Unit). [imath]\\rightarrow[/imath] Sai. Black box testing (B): Tập trung vào đầu vào/đầu ra và chức năng bên ngoài, mà không cần kiến thức về cấu trúc nội bộ. Đây là cách tiếp cận điển hình cho Kiểm thử Hệ thống. Unit testing (C) & Integration testing (D): Là các mức độ kiểm thử khác nhau, thực hiện trước Kiểm thử Hệ thống. [imath]\\rightarrow[/imath] Sai.",
+                "count": 1
+            },
+            {
+                "text": "system testing -> black box testing",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 8
+            },
+            {
+                "text": "COMET (Concurrent Object Modeling and Architectural Design Method).COMET là một phương pháp luận được thiết kế để phát triển các hệ thống thời gian thực, phân tán và hướng đối tượng. Nó đặc biệt được tạo ra để cầu nối khoảng cách giữa phân tích hướng đối tượng (OO Analysis) và thiết kế kiến trúc cấp hệ thống (System-Level Architectural Design).",
+                "count": 1
+            },
+            {
+                "text": "comet -> object - oriented",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 7
+            },
+            {
+                "text": "COMET (Concurrent Object Modeling and Architectural Design Method): Một phương pháp luận thiết kế kiến trúc và mô hình đối tượng đồng thời. USDP (Unified Software Development Process) / UP (Unified Process): Một phương pháp luận phát triển hướng đối tượng, lặp đi lặp lại và tăng dần, nổi tiếng với việc sử dụng UML rộng rãi.",
+                "count": 1
+            },
+            {
+                "text": "Khi so sánh với USDP, COMET:   Không phải là giống hệt (A): Chúng có cấu trúc giai đoạn khác nhau và trọng tâm kỹ thuật khác nhau (COMET nhấn mạnh hơn vào các thành phần đồng thời). Không phớt lờ (B): COMET được phát triển trong bối cảnh các phương pháp luận hướng đối tượng như UP đang phổ biến, do đó nó phải xem xét và đặt mình trong mối quan hệ với các phương pháp này. Không đánh giá lỗi thời (D): USDP/UP vẫn là một khuôn khổ có ảnh hưởng lớn. Có sự tương đồng: Cả hai đều là các phương pháp luận hướng đối tượng, lặp lại và sử dụng UML. Có sự khác biệt: COMET bổ sung các bước cụ thể để chuyển từ mô hình phân tích sang thiết kế kiến trúc thành phần cho các hệ thống đồng thời/thời gian thực, một lĩnh vực mà USDP không tập trung sâu bằng. Vì vậy, cách tiếp cận chính xác và mang tính học thuật là nhận ra cả những điểm chung lẫn những điểm riêng biệt để làm nổi bật những đóng góp độc đáo của COMET.",
+                "count": 1
+            },
+            {
+                "text": "comet compares uml -> highlights key",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 9
+            },
+            {
+                "text": "A. Vì NFR không phải là một chức năng (hành động) mà là một thuộc tính chất lượng ảnh hưởng đến cách chức năng đó được thực hiện, nên nó không thể được mô tả trực tiếp trong luồng sự kiện chính của Use Case (tiền điều kiện hoặc hậu điều kiện thường là các trạng thái chức năng).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            },
+            {
+                "text": "Lựa chọnNội dungPhân tíchA. By giving the use case package containing those use cases nonfunctional requirements. (Bằng cách gán các yêu cầu phi chức năng cho gói use case chứa các use case đó.)Sai. Yêu cầu phi chức năng thường được áp dụng cho toàn bộ hệ thống hoặc các Use Case riêng lẻ (như đã giải thích ở câu trước), không phải là vai trò chính của Package.B. By permitting several base use cases to be extended by a single extension use case. (Bằng cách cho phép một use case mở rộng duy nhất mở rộng nhiều use case cơ sở.)Sai. Đây là vai trò của mối quan hệ <<extend>>, không phải là vai trò của Package.C. By assembling similar use cases and articulating important specifications. (Bằng cách tập hợp các use case tương tự và làm rõ các đặc tả quan trọng.)Chính xác. Việc tập hợp các Use Case có liên quan (ví dụ: tất cả Use Case thanh toán) vào một gói riêng biệt giúp: (1) Cấu trúc hệ thống; (2) Giảm sự lộn xộn trên biểu đồ Use Case cấp cao; (3) Giúp quản lý yêu cầu và thay đổi dễ dàng hơn, từ đó giải quyết được thách thức về mở rộng quy mô.D. By offering a means of encapsulating intricate or unconventional routes into a solitary use case. (Bằng cách cung cấp phương tiện để đóng gói các tuyến đường phức tạp hoặc không theo quy ước vào một use case duy nhất.)Sai. Đây là vai trò của mối quan hệ <<include>> (bao gồm), giúp trích xuất logic chung hoặc phức tạp thành một Use Case con riêng biệt.z",
+                "count": 1
+            },
+            {
+                "text": "scaling up hige system -> assembling",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 8
+            },
+            {
+                "text": "Lựa chọnNội dungPhân tíchA. To depict the sequence of activities executed by all the use cases in the system (Mô tả trình tự hoạt động được thực hiện bởi TẤT CẢ các use case trong hệ thống.)Sai. Biểu đồ hoạt động thường được tạo ra cho từng use case riêng lẻ hoặc một quy trình nghiệp vụ cụ thể.B. To depict the sequence of external activities that the use case interacts with (Mô tả trình tự hoạt động bên ngoài mà use case tương tác.)Sai. Nó mô tả các hoạt động bên trong quá trình thực hiện use case.C. To depict the sequence of active objects in a use case (Mô tả trình tự các đối tượng hoạt động trong một use case.)Sai. Đây là vai trò của Biểu đồ Trình tự (Sequence Diagram), tập trung vào việc trao đổi tin nhắn giữa các đối tượng.D. To depict the activities in the main and alternative sequences of a use case (Mô tả các hoạt động trong luồng chính và luồng thay thế của một use case.)Chính xác. Nó minh họa chi tiết tất cả các đường đi logic của một Use Case cụ thể, bao gồm cả luồng chính và các luồng thay thế/ngoại lệ.",
+                "count": 1
+            },
+            {
+                "text": "activity diagram -> main and alternative",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            },
+            {
+                "text": "C   Lựa chọnNội dungPhân tíchA. A relationship between two classes (Một mối quan hệ giữa hai lớp)Sai. Đây là định nghĩa của Mối liên kết (Association).B. A parameter of an operation or method (Một tham số của một thao tác hoặc phương thức)Sai. Tham số được truyền vào một phương thức để phương thức đó thực hiện công việc.C. A data value held by an object in a class (Một giá trị dữ liệu được giữ bởi một đối tượng trong một lớp)Chính xác. Thuộc tính chính là nơi lưu trữ giá trị dữ liệu (ví dụ: tên, tuổi, màu sắc) cho một đối tượng cụ thể.D. The return value from an operation (Giá trị trả về từ một thao tác)Sai. Đây là kết quả đầu ra của một Phương thức (Operation).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "Lựa chọnNội dungPhân tíchA. A class on an entity/relationship diagram (Một lớp trên biểu đồ thực thể/mối quan hệ)Sai. Biểu đồ E-R là một mô hình dữ liệu, không phải mô hình hướng đối tượng (OOP).B. A class that stores data (Một lớp lưu trữ dữ liệu)Chính xác. Lớp Thực thể chịu trách nhiệm duy trì thông tin và trạng thái trong thời gian dài (persistent data). Ví dụ: lớp Customer (Khách hàng), lớp Product (Sản phẩm).C. A class that interfaces to an external entity (Một lớp giao tiếp với một thực thể bên ngoài)Sai. Đây là định nghĩa của Lớp Biên giới/Giao diện (Boundary Class).D. An external class (Một lớp bên ngoài)Sai. Lớp thực thể là một phần bên trong hệ thống.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 9
+            },
+            {
+                "text": "Trong mô hình hóa hướng đối tượng (OOP), các lớp/đối tượng thường được phân thành ba loại chính để quản lý luồng thông tin:   Đối tượng Biên giới/Giao diện (Boundary Object) (Lựa chọn D): Chịu trách nhiệm về giao tiếp với thế giới bên ngoài. Chúng là \"biên giới\" giữa hệ thống và các tác nhân (người dùng hoặc hệ thống bên ngoài). Chúng nhận đầu vào và trình bày đầu ra. Đối tượng Điều khiển (Control Object): Quản lý luồng công việc, logic nghiệp vụ, và điều phối tương tác giữa các đối tượng Biên giới và Thực thể. Đối tượng Thực thể (Entity Object) (Lựa chọn C): Lưu trữ và quản lý dữ liệu nghiệp vụ lâu dài (persistent data).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 10
+            },
+            {
+                "text": "generic -> depicts all possible instance -> depicts one possible",
+                "count": 1
+            },
+            {
+                "text": "generic -> all possible instance -> one passible",
+                "count": 1
+            },
+            {
+                "text": "B. Depicts one possible sequence of interactions among objects",
+                "count": 1
+            },
+            {
+                "text": "The correct answer is C. Depicts all possible interactions among objects. Explanation: According to the text, there are two forms of an interaction diagram: the generic form and the instance form. The generic form describes all possible interactions in which the objects might participate, and it can include loops, branches, and conditions. In contrast, the instance form is used to describe a specific scenario in detail by depicting only one possible sequence of interactions among object instances.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 7
+            },
+            {
+                "text": "Lựa chọnNội dungThuật ngữ chính xácA. An occurrence at a point in time (Một sự việc xảy ra tại một thời điểm)Sự kiện (Event)B. A cause of a state transition (Nguyên nhân của một sự chuyển đổi trạng thái)Sự kiện (Event)C. An interval between two successive events (Một khoảng thời gian giữa hai sự kiện liên tiếp)Trạng thái (State) (hoặc thời gian tồn tại trong trạng thái)D. A computation that executes as a result of a state transition (Một phép tính được thực thi do kết quả của một sự chuyển đổi trạng thái)Hành động (Action)",
+                "count": 1
+            },
+            {
+                "text": "action in a state machine -> computation, result",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            },
+            {
+                "text": "D",
+                "count": 2
+            },
+            {
+                "text": "Theo quy tắc của UML về tính đồng thời (Concurrency) và thứ tự thực thi của các hành động được liệt kê trên cùng một chuyển đổi:   Tính Đồng thời (Concurrency): Các hành động được liệt kê trên cùng một chuyển đổi được coi là không có thứ tự hoặc thực thi đồng thời (concurrently). UML không quy định thứ tự chúng phải được thực hiện (trừ khi có ràng buộc rõ ràng bằng ngôn ngữ mô hình hóa). Tính Độc lập (Independence): Do các hành động này được mô hình hóa là tức thời và không có thứ tự bắt buộc, chúng phải độc lập với nhau về mặt logic, đặc biệt là không có sự phụ thuộc về dữ liệu. Nếu chúng phụ thuộc vào nhau, chúng cần được mô hình hóa dưới dạng một Hoạt động (Activity) phức tạp hơn hoặc được chia thành các chuyển đổi trạng thái tuần tự.",
+                "count": 1
+            },
+            {
+                "text": "chọn B nhé (independent)",
+                "count": 1
+            },
+            {
+                "text": "uml -> independent với nhau",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 8
+            },
+            {
+                "text": "modeling data flows , real time architectures -> activity diagram",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 8
+            },
+            {
+                "text": "boundary object -> receive inputs",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 8
+            },
+            {
+                "text": "Câu hỏi đặt ra là: \"Trong kiến trúc phần mềm, sự khác biệt chính giữa mô hình kiến trúc monolithic và microservices là gì?\" 1. Khái niệm cốt lõi​ Kiến trúc Monolithic (Nguyên khối): Toàn bộ ứng dụng được xây dựng như một khối đơn lẻ, không thể tách rời. Tất cả logic nghiệp vụ, giao diện người dùng và lớp truy cập dữ liệu được đóng gói trong một đơn vị triển khai duy nhất. Kiến trúc Microservices (Vi dịch vụ): Một ứng dụng được xây dựng dưới dạng một tập hợp các dịch vụ nhỏ, độc lập, mỗi dịch vụ thực hiện một chức năng nghiệp vụ cụ thể. Mỗi dịch vụ có thể được phát triển, triển khai và quản lý một cách riêng biệt.",
+                "count": 1
+            },
+            {
+                "text": "chọn D   Lựa chọnNội dungPhân tíchA. Monolithic applications are more scalable than microservices.Sai. Microservices được thiết kế để dễ dàng mở rộng quy mô hơn (đặc biệt là mở rộng theo chiều ngang) bằng cách nhân bản các dịch vụ cụ thể đang quá tải. Monolithic khó mở rộng vì bạn phải nhân bản toàn bộ ứng dụng, kể cả những phần không cần thiết.B. Microservices are easier to develop but harder to maintain than monolithic applications.Sai. Microservices khó phát triển hơn (do phải quản lý mạng, phân tán dữ liệu, giao tiếp giữa các dịch vụ) nhưng lại dễ bảo trì hơn ở cấp độ từng dịch vụ (vì mỗi dịch vụ nhỏ, cô lập, có thể được nâng cấp độc lập).C. Monolithic applications are composed of independent, loosely coupled components, while microservices are tightly integrated.Sai. Mối quan hệ là ngược lại. Monolithic thường tích hợp chặt chẽ (tightly integrated), còn Microservices được thiết kế để có tính ghép nối lỏng lẻo (loosely coupled).D. Microservices break down a large system into smaller, independently deployable services.Chính xác. Đây là định nghĩa cơ bản và là sự khác biệt then chốt giữa hai mô hình: Microservices tập trung vào việc phân tách và triển khai độc lập.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            },
+            {
+                "text": "chọn B  Sự kiện (Event): Là yếu tố kích hoạt việc xem xét chuyển đổi. (Lựa chọn C) Điều kiện Bảo vệ (Guard Condition): Là một biểu thức Boolean phải được đánh giá là Đúng (True) tại thời điểm sự kiện xảy ra để cho phép chuyển đổi thực sự diễn ra. Nếu Điều kiện Bảo vệ là Sai (False), chuyển đổi sẽ không xảy ra, ngay cả khi sự kiện đã được kích hoạt. Hành động (Action): Là phép tính hoặc thao tác được thực hiện như một kết quả của sự chuyển đổi thành công. (Lựa chọn A mô tả một loại hành động khác: Hành động vào Trạng thái).",
+                "count": 1
+            },
+            {
+                "text": "guard transition -> condition",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            },
+            {
+                "text": "Để đảm bảo tính nhất quán giữa hai biểu đồ khi một đối tượng đang tương tác và hành vi của nó phụ thuộc vào trạng thái:   Các tin nhắn (messages) được gửi giữa các đối tượng trong Biểu đồ Giao tiếp phải tương ứng với các sự kiện (events) kích hoạt các chuyển đổi trạng thái trong Biểu đồ Máy trạng thái của đối tượng nhận tin nhắn đó. Vì các tin nhắn trong Biểu đồ Giao tiếp được đánh số để thể hiện trình tự thực thi, và các sự kiện/hành động trong Biểu đồ Máy trạng thái cũng xảy ra theo một trình tự thời gian, việc sử dụng cùng một hệ thống đánh số giúp theo dõi luồng kiểm soát qua lại giữa hai biểu đồ.",
+                "count": 1
+            },
+            {
+                "text": "ensure consistency -> numbering",
+                "count": 1
+            },
+            {
+                "text": "C: Numbering messages and events in the same sequence across both diagrams.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            },
+            {
+                "text": "Lựa chọnNội dungQuan điểm Kiến trúc tương ứngA. A static view in terms of components and connectors (Một quan điểm tĩnh theo các thành phần và bộ kết nối)Quan điểm Thực thi (Implementation/Component View)B. A view of the physical configuration in terms of nodes and interconnections (Một quan điểm về cấu hình vật lý theo các nút và các kết nối)Quan điểm Triển khai (Deployment View)C. A view in terms of a module hierarchy (Một quan điểm theo một hệ thống cấp bậc module)Quan điểm Cấu trúc (Static View/Module View)D. A dynamic interaction view in terms of objects and messages (Một quan điểm tương tác động theo các đối tượng và tin nhắn)Quan điểm Quá trình/Động (Process/Dynamic View)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 6
+            },
+            {
+                "text": "A. Các yếu tố quan trọng nhất để cải thiện hiệu suất là:  Tính không đồng bộ (Asynchrony): Cho phép các thành phần gửi tin nhắn và tiếp tục xử lý công việc khác mà không cần chờ phản hồi ngay lập tức. Điều này giúp hệ thống tận dụng tối đa thời gian chờ và tránh bị chặn. Truyền dữ liệu hiệu quả (Efficient Data Exchange): Sử dụng các giao thức hoặc định dạng dữ liệu nhẹ, tối ưu hóa băng thông mạng.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 7
+            },
+            {
+                "text": "A. True Câu khẳng định: \"Biểu đồ giao tiếp tích hợp là sự tổng hợp của tất cả các biểu đồ giao tiếp được phát triển để hỗ trợ các use case. Biểu đồ giao tiếp tích hợp, trên thực tế, là sự hợp nhất của các biểu đồ giao tiếp, và việc phát triển nó sẽ được mô tả tiếp theo.\"   Mục đích: Khi mô hình hóa một hệ thống lớn, các nhà phân tích thường tạo ra một Biểu đồ Giao tiếp (Communication Diagram, trước đây là Collaboration Diagram) riêng biệt cho mỗi Use Case hoặc kịch bản chính để minh họa cách các đối tượng tương tác. Tính Tích hợp: Sau khi tất cả các Biểu đồ Giao tiếp riêng lẻ đã được tạo, bước tiếp theo trong quá trình thiết kế chi tiết (ví dụ: trong khuôn khổ của phương pháp luận như COMET) là hợp nhất (merge) chúng lại. Tác dụng của việc hợp nhất:  Việc hợp nhất tạo ra một Biểu đồ Giao tiếp Tích hợp duy nhất. Biểu đồ này hiển thị tất cả các mối liên kết (associations) cần thiết giữa các đối tượng để hỗ trợ tất cả các Use Case đã được mô hình hóa. Nó giúp củng cố thiết kế tĩnh (các mối quan hệ liên kết trong Biểu đồ Lớp) và đảm bảo rằng tất cả các kết nối cần thiết cho hành vi động đã được xác định.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 9
+            },
+            {
+                "text": "Mô hình Phân tích: Tập trung vào \"CÁI GÌ\" hệ thống phải làm (yêu cầu chức năng và nghiệp vụ), bỏ qua các chi tiết triển khai. Mục tiêu là sự chính xác nghiệp vụ. Mô hình Thiết kế: Tập trung vào \"LÀM THẾ NÀO\" hệ thống được xây dựng (cấu trúc, công nghệ, tối ưu hóa). Mục tiêu là sự khả thi kỹ thuật và hiệu suất. Khi chuyển sang thiết kế, nhà phát triển phải giải quyết các vấn đề cấu trúc và kiến trúc để làm cho hệ thống trở nên khả thi về mặt kỹ thuật, dễ quản lý, và hiệu quả. Phân tích (Analysis) cho ta các lớp và các tương tác cơ bản. Thiết kế (Design) đòi hỏi phải tổ chức các lớp này vào các đơn vị vật lý lớn hơn như các Module, Component, hoặc Subsystem (Hệ thống con).",
+                "count": 1
+            },
+            {
+                "text": "B. Deciding on the precise semantics of message communication Explanation: According to the text, in the transition from the analysis model to the design model, one of the most important decisions relates to determining the type of message communication needed between subsystems. Once the subsystem structure is determined, the designer must make a decision about the precise semantics of message communication, such as whether the communication will be synchronous or asynchronous. While defining the exact name and parameters of each message is a related secondary decision made during this stage, deciding on the precise semantics of the communication itself is highlighted as the crucial primary step",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            },
+            {
+                "text": "Trong giai đoạn thiết kế hướng đối tượng, đặc biệt là khi làm việc với các hệ thống lớn, người ta thường xây dựng các Biểu đồ Giao tiếp (Communication Diagrams) riêng lẻ để mô tả các tương tác cụ thể cho từng Use Case hoặc kịch bản. Mỗi biểu đồ riêng lẻ này chỉ cho thấy các đối tượng và các mối liên kết (links) cần thiết để thực hiện một Use Case. Để có được một cái nhìn toàn diện về tất cả các mối liên kết (associations) cần thiết giữa các lớp/đối tượng trong hệ thống, các nhà thiết kế sẽ tổng hợp (synthesize) tất cả các biểu đồ giao tiếp riêng lẻ lại với nhau. Kết quả của quá trình hợp nhất này là Biểu đồ Giao tiếp Tích hợp.",
+                "count": 1
+            },
+            {
+                "text": "B. A synthesis of all the communication diagrams developed to support the use cases (Một sự tổng hợp của tất cả các biểu đồ giao tiếp được phát triển để hỗ trợ các use case) -> Chính xác. Đây là định nghĩa tiêu chuẩn. Nó tổng hợp tất cả các tương tác và mối liên kết đã được xác định qua từng Use Case.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "C",
+                "count": 2
+            },
+            {
+                "text": "b",
+                "count": 9
+            },
+            {
+                "text": "C mới đúng chứ nhỉ, nhiều client 1 server và nhiều services",
+                "count": 1
+            },
+            {
+                "text": "Client-server architecture is a fundamental concept in system design where a network involves multiple clients and a server. Clients are devices or programs that request services or resources, while the server is a powerful machine providing these resources or services. => B",
+                "count": 1
+            },
+            {
+                "text": "15.2 CLIENT/SERVICE SOFTWARE ARCHITECTURAL STRUCTURE PATTERNS (Software Modeling and Design)    The Multiple Client/Single Service architectural pattern consists of several clients that request a service and a service that fulfills client requests. The simplest and most common client/server architecture has one service and many clients, and for this reason the Multiple Client/Single Service architectural pattern is also known as the Client/Server or Client/Service pattern. The Multiple Client/Single Service architectural pattern can be depicted on a deployment diagram, as in Figure 15.1, which shows multiple clients connected to a service that executes on a server node via a local area network.  ->B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 8
+            },
+            {
+                "text": "cứ liên quan đến data -> entity class nhé",
+                "count": 1
+            },
+            {
+                "text": "Entity Class (Lớp Thực thể) (B): Chịu trách nhiệm về lưu trữ và quản lý dữ liệu nghiệp vụ lâu dài (persistent data). Chúng đóng gói dữ liệu và logic liên quan đến dữ liệu đó, và thường tương tác trực tiếp với cơ sở dữ liệu (như một lớp truy cập dữ liệu hoặc đối tượng ánh xạ).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 9
+            },
+            {
+                "text": "c",
+                "count": 1
+            },
+            {
+                "text": "B. 1-1 thì khóa ngoại đặt ở bảng nào cx đc",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 7
+            },
+            {
+                "text": "Khi áp dụng cho cơ sở dữ liệu (Database):   Một Database Wrapper Class (Lớp Bao bọc CSDL) có nhiệm vụ ẩn giấu cách thức thực tế mà dữ liệu được lưu trữ, truy cập, hoặc thao tác. Nó ẩn giấu các chi tiết cấp thấp như loại cơ sở dữ liệu (SQL Server, MySQL, NoSQL), các API cụ thể được sử dụng (JDBC, ODBC), và cách thức tạo kết nối, thực thi các truy vấn thô, và xử lý các ngoại lệ. Phần còn lại của ứng dụng (logic nghiệp vụ) chỉ giao tiếp với các phương thức đơn giản và rõ ràng của lớp Wrapper này (ví dụ: saveUser(user), findProductById(id)).",
+                "count": 1
+            },
+            {
+                "text": "chọn C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 8
+            },
+            {
+                "text": "\"Trong mô hình kiến trúc nhiều tầng Client/Service, điều nào sau đây là đúng về một tầng trung gian?\" Trong kiến trúc nhiều tầng (ví dụ: mô hình 3-tầng phổ biến), một ứng dụng được chia thành các tầng logic và vật lý:  Tầng Client/Presentation (Khách/Trình bày): Tầng giao diện người dùng, chịu trách nhiệm gửi yêu cầu. Tầng Service/Application/Business Logic (Dịch vụ/Logic Ứng dụng): Tầng xử lý chính, chứa logic nghiệp vụ. Tầng này nhận yêu cầu từ tầng Client và gửi yêu cầu tới tầng dữ liệu (Database). Tầng Data (Dữ liệu): Tầng lưu trữ và quản lý dữ liệu.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            },
+            {
+                "text": "Trong điện toán, một giao dịch (transaction) là một chuỗi các thao tác được coi là một đơn vị logic đơn lẻ. Các giao dịch lý tưởng tuân theo các thuộc tính ACID:  Atomicity (Tính nguyên tố): Toàn bộ giao dịch phải được thực hiện thành công, hoặc không có gì cả. Consistency (Tính nhất quán): Giao dịch phải đưa hệ thống từ trạng thái nhất quán này sang trạng thái nhất quán khác. Isolation (Tính cô lập): Các giao dịch đồng thời không được can thiệp vào nhau. Durability (Tính bền vững): Sau khi giao dịch đã commit, các thay đổi sẽ được duy trì vĩnh viễn. Giao dịch Nguyên tố và Giao dịch Hợp chất​ Giao dịch Nguyên tố (Atomic Transaction): Là một giao dịch cơ bản, không thể chia nhỏ hơn nữa về mặt logic và tuân thủ nguyên tắc Tính nguyên tố (Atomicity). Giao dịch Hợp chất (Compound Transaction): Là một giao dịch lớn, phức tạp, bao gồm một chuỗi hoặc một tập hợp các giao dịch nguyên tố nhỏ hơn.",
+                "count": 1
+            },
+            {
+                "text": "C. The compound transaction is decomposed into atomic transactions.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 9
+            },
+            {
+                "text": "Kiến trúc hướng Dịch vụ (Service-Oriented Architecture - SOA). Trong SOA, các dịch vụ là các thành phần độc lập. Để một Client (máy khách) hoặc một Dịch vụ (Service) khác có thể sử dụng một dịch vụ nào đó, nó cần phải biết dịch vụ đó đang ở đâu (địa chỉ mạng) và cách thức giao tiếp với nó (giao diện). Quá trình tìm kiếm thông tin này được gọi là Khám phá Dịch vụ (Service Discovery).",
+                "count": 1
+            },
+            {
+                "text": "A. Service Registration Pattern (Mẫu Đăng ký Dịch vụ): Đăng ký thông tin về dịch vụ (địa chỉ, giao diện) vào một nơi lưu trữ trung tâm (Service Registry). Đây là tiền đề của việc khám phá.Có, nhưng không phải là quá trình khám phá.  B. Broker Forwarding Pattern (Mẫu Chuyển tiếp Broker): Sử dụng một Broker (bộ trung gian) để chuyển tiếp yêu cầu từ client đến server mà client không cần biết địa chỉ cụ thể.Liên quan đến giao tiếp và định tuyến, không phải khám phá. C. Service Discovery Pattern (Mẫu Khám phá Dịch vụ): Là quá trình Client truy vấn Service Registry để tìm kiếm và nhận lại địa chỉ mạng của một dịch vụ mong muốn trước khi gọi dịch vụ đó.Chính xác. Đây là mẫu trực tiếp nhất.  D. Two-Phase Commit Protocol Pattern (Mẫu Giao thức Cam kết Hai Pha): Một giao thức được sử dụng để đảm bảo tính nguyên tố (Atomicity) cho một giao dịch phân tán, không liên quan đến việc tìm kiếm dịch vụ.Không liên quan.",
+                "count": 1
+            },
+            {
+                "text": "C. Service Discovery Pattern.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 7
+            },
+            {
+                "text": "Lựa chọnNội dungPhân tích trong ngữ cảnh SOAA. A client communicates with a specific service provided on a fixed server configuration. (Máy khách giao tiếp với một dịch vụ cụ thể được cung cấp trên một cấu hình máy chủ cố định.)Sai. Trong SOA/Microservices hiện đại, các dịch vụ phải độc lập với vị trí và có khả năng mở rộng quy mô. Chúng thường được triển khai trên các môi trường đám mây hoặc các cụm (clusters) máy chủ linh hoạt, không phải trên một cấu hình máy chủ cố định.KHÔNG ĐÚNGB. A client discovers and links to a service. (Máy khách khám phá và liên kết tới một dịch vụ.)Đúng. Các dịch vụ cần phải được khám phá (discovered) (thường qua Service Registry) do vị trí của chúng là động (dynamic).ĐÚNGC. Multiple clients communicate with a service. (Nhiều máy khách giao tiếp với một dịch vụ.)Đúng. Đây là mục đích cơ bản của dịch vụ: cung cấp chức năng cho nhiều người tiêu dùng (clients).ĐÚNGD. Standard protocols are provided to allow clients to communicate with services. (Các giao thức chuẩn được cung cấp để cho phép máy khách giao tiếp với các dịch vụ.)Đúng. SOA nhấn mạnh việc sử dụng các giao thức chuẩn, không phụ thuộc vào nền tảng (như SOAP, REST/HTTP) để đảm bảo khả năng tương tác.ĐÚNG",
+                "count": 1
+            },
+            {
+                "text": "A. A client communicates with a specific service provided on a fixed server configuration.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 9
+            },
+            {
+                "text": "C. broadcast kiểu đi thăm dò nên nó sẽ gửi all đó",
+                "count": 1
+            },
+            {
+                "text": "Kiểu Truyền thôngĐịnh nghĩaPhân tích các Lựa chọnUnicast (Đơn tuyến)Tin nhắn được gửi từ một điểm đến một điểm đích duy nhất.Tương ứng với B. A message sent to a specific recipient.Multicast (Đa tuyến)Tin nhắn được gửi từ một điểm đến một nhóm các điểm đích cụ thể (những người đăng ký vào một nhóm).Tương ứng với A. A message sent to several recipients hoặc D. A message sent to recipients who are members of a group.Broadcast (Phát sóng)Tin nhắn được gửi từ một điểm đến tất cả các điểm đích có thể tiếp cận được trong mạng hoặc một phân đoạn mạng.Tương ứng với C. A message sent to all recipients.AnycastTin nhắn được gửi đến một điểm đích trong một nhóm nhiều điểm đích (điểm đích gần nhất/tốt nhất).Không có trong các lựa chọn.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 9
+            },
+            {
+                "text": "Tính tự chủ cục bộ (Localized Autonomy) trong thiết kế dựa trên thành phần (Component-Based Design). 1. Khái niệm Tính tự chủ cục bộ​ Tính tự chủ cục bộ (Localized Autonomy) có nghĩa là mỗi thành phần (component) trong hệ thống được thiết kế để hoạt động và quản lý trạng thái của chính nó một cách độc lập với các thành phần khác. Nó thường đi kèm với nguyên tắc ghép nối lỏng lẻo (loose coupling) và phân tán (distribution). 2. Phân tích Lợi thế chính​Lợi ích lớn nhất của việc thiết lập tính tự chủ cho mỗi thành phần là liên quan đến khả năng chịu lỗi (fault tolerance) và độ tin cậy (reliability) của toàn bộ hệ thống.  Khi một thành phần hoàn toàn tự chủ, sự cố hoặc lỗi trong thành phần đó sẽ được cô lập (isolated). Điều này ngăn chặn sự cố lan rộng ra toàn bộ hệ thống. Các thành phần khỏe mạnh khác có thể tiếp tục hoạt động, xử lý các yêu cầu không phụ thuộc vào thành phần bị lỗi.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "img_50.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 8
+            },
+            {
+                "text": "Trong kỹ thuật phần mềm, một Thành phần (Component) là một đơn vị:  Độc lập và có thể thay thế được: Nó có thể được phát triển, triển khai và nâng cấp một cách độc lập với các thành phần khác. Được đóng gói: Nó ẩn giấu chi tiết triển khai bên trong và chỉ phơi bày chức năng thông qua các giao diện (interfaces) đã được xác định rõ ràng. Có khả năng tái sử dụng (Reusable): Đây là mục tiêu cốt lõi của CBSA. Thành phần được thiết kế để có thể được sử dụng lại trong nhiều ứng dụng khác nhau. Đơn vị Triển khai: Thành phần thường là một đơn vị có thể được biên dịch và triển khai (deployment) riêng biệt.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "img_51.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 7
+            },
+            {
+                "text": "1. Khái niệm Hệ thống Thời gian thực (RTS)​Hệ thống Thời gian thực là các hệ thống điện toán mà tính đúng đắn của kết quả không chỉ phụ thuộc vào tính logic của đầu ra mà còn phụ thuộc vào thời điểm mà kết quả đó được tạo ra.  Nói cách khác, đầu ra phải được sản xuất trong một giới hạn thời gian cụ thể (timing constraint). Nếu không đáp ứng được giới hạn thời gian này, kết quả sẽ vô dụng hoặc thậm chí gây ra thảm họa (ví dụ: hệ thống điều khiển phanh ô tô, hệ thống điều khiển lò phản ứng hạt nhân).",
+                "count": 1
+            },
+            {
+                "text": "Lựa chọnNội dungPhân tíchA. Their primary focus on aesthetic user interface design (Trọng tâm chính của chúng là thiết kế giao diện người dùng đẹp mắt)Sai. Trọng tâm của RTS là thời gian và độ tin cậy, không phải giao diện.SaiB. Their reliance on batch processing for data management (Sự phụ thuộc của chúng vào xử lý hàng loạt để quản lý dữ liệu)Sai. RTS thường sử dụng xử lý giao dịch hoặc sự kiện nhanh chóng, ngược lại với xử lý hàng loạt (batch processing) chậm chạp.SaiC. Their need to meet specific timing constraints for system functionality (Nhu cầu đáp ứng các ràng buộc thời gian cụ thể cho chức năng hệ thống)Chính xác. Đây là đặc điểm định nghĩa của Hệ thống Thời gian thực.ĐúngD. Their use of a single-threaded execution model to simplify processing (Việc chúng sử dụng mô hình thực thi đơn luồng để đơn giản hóa xử lý)Sai. Hầu hết RTS là các hệ thống đồng thời (concurrent) hoặc đa luồng (multi-threaded) để quản lý nhiều tác vụ và sự kiện phức tạp.Sai",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "img_52.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            },
+            {
+                "text": "Trong kỹ thuật phần mềm, đặc biệt là trong các hệ thống cần sự kiểm soát thời gian nghiêm ngặt, các tác vụ được phân loại dựa trên cách chúng được kích hoạt:  Tác vụ Định kỳ (Periodic Task): Là một tác vụ được kích hoạt lặp đi lặp lại một cách đều đặn, sau những khoảng thời gian cố định. Ví dụ: Một tác vụ kiểm tra nhiệt độ cảm biến cứ sau 100 mili giây. Sự kiện kích hoạt lặp lại này được tạo ra bởi một Bộ đếm thời gian (Timer).  Tác vụ Bất định kỳ (Aperiodic Task): Là tác vụ được kích hoạt bởi một sự kiện xảy ra ngẫu nhiên hoặc không theo chu kỳ cố định (ví dụ: nhấn nút, nhận gói tin mạng).",
+                "count": 1
+            },
+            {
+                "text": "Lựa chọnNội dungPhân tíchA. A task that responds to each message it receives (Một tác vụ phản hồi mỗi tin nhắn nó nhận được)Sai. Đây là tính chất của tác vụ hướng tin nhắn (message-driven task).SaiB. A task that is sent by a timer event (Một tác vụ được gửi bởi một sự kiện hẹn giờ)Chính xác. Sự kiện hẹn giờ (timer event) là cơ chế tạo ra tính chu kỳ, kích hoạt tác vụ thực thi đúng theo khoảng thời gian định trước.ĐúngC. A task that is sent by an external event (Một tác vụ được gửi bởi một sự kiện bên ngoài)Sai. Đây là một đặc điểm của tác vụ bất định kỳ (Aperiodic Task).SaiD. A task that is sent by an input event (Một tác vụ được gửi bởi một sự kiện đầu vào)Sai. Đây là một dạng cụ thể của tác vụ bất định kỳ.Sai",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "img_53.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 7
+            },
+            {
+                "text": "Mô hình kiến trúc Điều khiển Phân cấp (Hierarchical Control Architectural Pattern).  Mô hình Điều khiển Phân cấp (còn gọi là kiến trúc Phân cấp - Hierarchical Architecture) được sử dụng để tổ chức các thành phần điều khiển (control components) trong hệ thống, đặc biệt là các hệ thống lớn hoặc hệ thống thời gian thực phức tạp, nơi cần phải quản lý nhiều tác vụ đồng thời và phối hợp chúng.  Mô hình này tổ chức các thành phần điều khiển thành một cấu trúc cây (tree structure) hoặc phân cấp (hierarchy).  Một thành phần điều khiển cấp cao (cấp cha) sẽ cung cấp quyền kiểm soát tổng thể và điều phối các thành phần điều khiển cấp thấp hơn (cấp con). Các thành phần cấp thấp chịu trách nhiệm về các tác vụ cụ thể và phức tạp hơn.",
+                "count": 1
+            },
+            {
+                "text": "C. It provides overall control by coordinating several control components. (Nó cung cấp sự điều khiển tổng thể bằng cách phối hợp một số thành phần điều khiển.) -> Chính xác: Đây là định nghĩa cốt lõi: thành phần điều khiển cấp cao nhất điều phối các thành phần điều khiển cấp dưới để đạt được mục tiêu tổng thể.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "img_54.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "C",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "img_55.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "C",
+                "count": 4
+            },
+            {
+                "text": "B",
+                "count": 7
+            },
+            {
+                "text": "kernel -> somw default class",
+                "count": 1
+            },
+            {
+                "text": "B. some default classes",
+                "count": 1
+            },
+            {
+                "text": "1. Phân tích Khái niệm Hệ thống Lõi​Trong SPL, các thành phần phần mềm được phân loại dựa trên tính chung (commonality) và tính biến thể (variability) của chúng:  Lớp Lõi (Kernel Classes / Common Classes): Là các lớp chứa các chức năng bắt buộc và chung cho tất cả các sản phẩm trong dòng sản phẩm. Chúng hình thành cốt lõi (kernel) của kiến trúc SPL.  Lớp Tùy chọn (Optional Classes): Là các lớp chứa các chức năng tùy chọn có thể được thêm vào một sản phẩm cụ thể để tạo ra sự khác biệt.  Lớp Biến thể (Variant Classes): Là các lớp cung cấp các chức năng khác nhau để thực hiện cùng một tính năng chung (ví dụ: các thuật toán khác nhau cho cùng một chức năng).  2. Định nghĩa Hệ thống Lõi (Kernel System)​Hệ thống Lõi (Kernel System) là một khái niệm trừu tượng đại diện cho phiên bản đơn giản nhất và tối thiểu nhất của một sản phẩm có thể được tạo ra từ Dòng sản phẩm phần mềm. Hệ thống Lõi được xây dựng bằng cách chỉ bao gồm:  Tất cả các Lớp Lõi (Kernel Classes). Không bao gồm bất kỳ lớp tùy chọn hay biến thể nào (ngoại trừ các lớp mặc định/default nếu có). Nếu một sản phẩm chỉ bao gồm các lớp lõi, nó vẫn là một thành viên hợp lệ của SPL.",
+                "count": 1
+            },
+            {
+                "text": "11.5 – Product-Line Application Engineering A kernel system is the minimal member of the product line, consisting of the common classes and any optional classes needed to form a complete system. Class Variation Modeling Kernel classes appear in all products. Variant classes appear only in selected products. 11.6 – Product-Line Architecture The kernel product architecture is derived using only the common assets and the optional components required for a minimal configuration. nếu theo quyển Gomaa (Software Modeling and Design) thì là đáp án C",
+                "count": 1
+            },
+            {
+                "text": "B. A member of the SPL composed of kernel classes and possibly some default classes Explanation: The book defines a kernel system as \"a minimal member of the software product line, composed of the kernel classes and any required default classes\". Section 19.3.2 further explains that while in some product lines the kernel system consists only of kernel objects, in other product lines \"some default objects may be needed in addition to the kernel objects\". This is also explicitly confirmed in the \"Answers to Exercises\" section for Chapter 19, where the correct choice for this exact question is listed as option (b)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "img_56.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 8
+            },
+            {
+                "text": "Kỹ thuật Dòng sản phẩm Phần mềm (Software Product Line - SPL Engineering). Hai quy trình chính trong mô hình quy trình phần mềm cho Kỹ thuật Dòng sản phẩm Phần mềm (SPL) là Kỹ thuật SPL (SPL Engineering) và Kỹ thuật Ứng dụng Phần mềm (Software Application Engineering).",
+                "count": 1
+            },
+            {
+                "text": "A. SPL Engineering and Software Application Engineering Explanation: According to the book's description of the evolutionary software process model for Software Product Line (SPL) engineering, the process takes a SPL perspective and consists of two main processes,:  SPL Engineering (also referred to as domain engineering): In this process, the product line multiple-view model, software architecture, and reusable components are developed and stored in a product line repository. Software Application Engineering: In this process, an individual software application (a family member) is derived from the SPL model. The architecture is adapted and tailored based on the specific features selected by the user to configure the executable application",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "img_57.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "img_58.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 7
+            },
+            {
+                "text": "B. tested before deployment",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "img_59.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 8
+            }
+        ]
+    }
+]

@@ -1,0 +1,1370 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. Guidelines used to help in structuring a software system into its components.",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 14
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "CC",
+                "count": 1
+            },
+            {
+                "text": "DONE",
+                "count": 1
+            },
+            {
+                "text": "criteria - into ít components",
+                "count": 1
+            },
+            {
+                "text": "@antifan đồng cỏ làm",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. A fundamental idea that can be applied to designing a system.",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 15
+            },
+            {
+                "text": "C, checked",
+                "count": 1
+            },
+            {
+                "text": "a-design notation, d-design method",
+                "count": 1
+            },
+            {
+                "text": "architecture - The overall notation - A graphical concept - A fundamental strategy - An overall plan criteria - Guidelines method - A systematic",
+                "count": 1
+            },
+            {
+                "text": "concept - a fundamental",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A. A systematic approach for producing a design.",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 15
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "d-design notation, a-design method, b-structuring criteria, c-design stategy",
+                "count": 1
+            },
+            {
+                "text": "design method -> systematic design notation -> graphical design concept -> fundamental idea design stategy -> overall plan structuring criteria -> guidelines",
+                "count": 1
+            },
+            {
+                "text": "design method - a systematic",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. A stick figure",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "actor -> stick figure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. A box with one, two, or three compartments",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "one two three",
+                "count": 1
+            },
+            {
+                "text": "\"How is a class depicted on a class diagram?\" (Một lớp được thể hiện như thế nào trong sơ đồ lớp?)  Đáp án đúng: C​C. A box with one, two, or three compartments (Một hình hộp với một, hai hoặc ba ngăn (compartment))  Giải thích chi tiết:​Trong UML Class Diagram, một lớp (class) được biểu diễn bằng hình chữ nhật chia làm tối đa 3 phần (compartments):  CompartmentNội dung Phần trên cùngTên lớp (class name) Phần giữaCác thuộc tính (attributes) Phần cuốiCác phương thức (operations)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. The physical configuration of the system in terms of physical nodes and physical connections between the nodes",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "deployment -> physical nodes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. Testing with knowledge of the system internals",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D. Testing without knowledge of the software internals",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. A phased approach to developing software",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "phased",
+                "count": 1
+            },
+            {
+                "text": "life cycle - A phased",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. Detailed design, coding, and unit testing of the classes in a subset of the system",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "detail,design,codeing,and unit testing",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D. Developing software architectures",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 16
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "during design -> D during analysis -> C",
+                "count": 1
+            },
+            {
+                "text": "design modeling -  developing software architectures",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. Integration testing of the classes in each software increment",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "incremental - integration",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. A sequence of interactions between the user and the objects in the system",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 8
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 6
+            },
+            {
+                "text": "Bờ",
+                "count": 1
+            },
+            {
+                "text": "C chuẩn 100% theo câu hỏi trong sách trang 92 nhé",
+                "count": 1
+            },
+            {
+                "text": "thôi theo B",
+                "count": 1
+            },
+            {
+                "text": "C nhe ae, theo sach",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. An actor that participates in the use case",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 15
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. A sequence that is different from the main sequence",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. An object that is awakened by an external timer",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "awakened by an external time",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. By determining the software classes that communicate with the external classes",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. An object that communicates with an external object",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "boundary object -> C entity class -> B",
+                "count": 1
+            },
+            {
+                "text": "boundary object - an object that communicates",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. Software objects and the sequence of their interactions",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 15
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D. An instance of an actor can provide input to or receive output from a boundary object.",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 17
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A. Determine objects that participate in each use case and the sequence of interactions among them.",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 15
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "a participate in each UC",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. An action on the internal state machine",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "Input event output action",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A. One state with a different transition out of it for each incoming message",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 16
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "incoming mesage",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A. By sending messages to each other",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 14
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. An operation",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "an operator",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A. The structure of the major subsystems of a system",
+                "count": 1
+            },
+            {
+                "text": "A",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "D",
+                "count": 2
+            },
+            {
+                "text": "â",
+                "count": 1
+            },
+            {
+                "text": "tìm đoạn này trong sách là D, nhưng đáp án trong sách lại ra A",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D. A view in terms of objects and messages",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 17
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "dynamic view - objects and messages deployment view - nodes and interconnections structural view - components and connectors",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. A synthesis of all the communication diagrams developed to support the use cases",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. In different subsystems",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "control subsystem -> A coordinator subsystem -> D",
+                "count": 1
+            },
+            {
+                "text": "D",
+                "count": 1
+            },
+            {
+                "text": "control subsystem - A coordinator subsystem - D",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D. Subroutine",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 16
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D. A dialog box",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 16
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. Specifies the externally visible operations of a class",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A. One object that responds to requests from clients",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 16
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "sequential service -> A concurrent service -> B",
+                "count": 1
+            },
+            {
+                "text": "sequen -- one cacur -- muti",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. The aggregate and part classes are designed as relational tables.",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D. A hardware/software system that provides one or more services for multiple clients",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 16
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. Fixed",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. The compound transaction is decomposed into atomic transactions.",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A. So that service requesters can discover it",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 16
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 16
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "Broadcast message -> C Communicate characteristics -> D",
+                "count": 2
+            },
+            {
+                "text": "src bảo B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. The operations inside a component",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 11
+            },
+            {
+                "text": "B for sure",
+                "count": 2
+            },
+            {
+                "text": "provided -> A required -> B",
+                "count": 1
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 1
+            },
+            {
+                "text": "component's provided - fulfill component's required - inside a component",
+                "count": 1
+            },
+            {
+                "text": "C nhé :v sách sai",
+                "count": 1
+            },
+            {
+                "text": "component interface -> external component require interface -> inside component provided interface -> fullfil",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A. An outer provided port to an inner provided port",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 16
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "delegation connector - provide/provide connector - required/provide",
+                "count": 1
+            },
+            {
+                "text": "provide",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D. An active object has a thread of control; a passive object does not have a thread of control.",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 16
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. A task that receives inputs from an external device when it generates interrupts",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. A task that interacts with a user sequentially",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "có user phải kèm sequentially",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. A class that is required by all members of the SPL",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. A member of the SPL composed of kernel classes and possibly some default classes",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "b default classes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. The overall structure of the software productline",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. Single point of failure",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "availability = single point of failure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. The extent to which software is capable of being modified during and after initial development",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "img_50.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. The extent to which software is capable of being changed after deployment",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "img_51.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. The operation's name, parameters, and return value",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "img_52.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. A collection of objects with the same characteristics",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "img_53.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. A mechanism for sharing and reusing code between classes",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "img_54.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. An inheritance relationship",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "img_55.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D. A strong form of a whole/part relationship",
+                "count": 1
+            },
+            {
+                "text": "d",
+                "count": 17
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "a composition hierachy -> D aggregation hierachy -> C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "img_56.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. The boundary between the system and the external environment",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "img_57.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B. An action that is performed when the state is left",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 15
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "entry -> entered  exit -> left",
+                "count": 1
+            },
+            {
+                "text": "exit -> left entry -> entered",
+                "count": 1
+            },
+            {
+                "text": "exit -> is left",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "img_58.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A. An action that is performed when the state is entered",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "img_59.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C. A conditional state transition",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    }
+]

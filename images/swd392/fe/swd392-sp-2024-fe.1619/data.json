@@ -1,0 +1,1302 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "Done",
+                "count": 2
+            },
+            {
+                "text": "7",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "concurent service ->  multiple oject",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "component interface -> externally visible",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "data abstraction -> encapsulating data",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "actor -> external entity",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "a vì sai chính tả chữ particular nhé",
+                "count": 1
+            },
+            {
+                "text": "spl feature group -> a group of feature",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "not likely to be in the same subsystem -> state dependent, coordinator",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "c",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "A riu",
+                "count": 1
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 15
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "negotiation -> response, client agent request",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 16
+            },
+            {
+                "text": "out -> each  into -> only one",
+                "count": 1
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "out : each into: only",
+                "count": 1
+            },
+            {
+                "text": "out each into only",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "notation -> graphical, textual",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "primary actor -> starts the use case",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 14
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "client tier, service tier",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 15
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "action in state machine -> computation executes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 15
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 16
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "soa, not true -> fixed",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 15
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 15
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "c",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "not true, component -> an operation",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 15
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "unified modeling language -> standardized",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 14
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 14
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "secure team -> system scalability",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 15
+            },
+            {
+                "text": "b",
+                "count": 1
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "is an actor -> stick figure is a use case -> An oval",
+                "count": 1
+            },
+            {
+                "text": "actor -> stick figure usecase -> oval",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 14
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 4
+            },
+            {
+                "text": "A sach nhe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            },
+            {
+                "text": "intance form  -> one possible generic form -> all possible",
+                "count": 1
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "instance form : one possible generic form : all possible",
+                "count": 1
+            },
+            {
+                "text": "instance form, interaction -> one possible generic form -> all possible",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "B-Only one",
+                "count": 1
+            },
+            {
+                "text": "into : only one  out : each",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            },
+            {
+                "text": "validation? -> right system verification? -> system right",
+                "count": 1
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "validation - right system  verification - system right",
+                "count": 1
+            },
+            {
+                "text": "validation : build the right system verification : build the system right",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 13
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "D - All members",
+                "count": 1
+            },
+            {
+                "text": "kernel : default, required by all member",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 13
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "D- A solid line",
+                "count": 1
+            },
+            {
+                "text": "association : solid line",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 12
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "D - A boundary",
+                "count": 1
+            },
+            {
+                "text": "first object receive input : boundary object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            },
+            {
+                "text": "Centralized Control -> C Distributed Control -> D Hierarchical Control -> B",
+                "count": 1
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "C- Centralized- control and sequencing",
+                "count": 1
+            },
+            {
+                "text": "Hierarchical -> several Centralixed -> sequencing Distributed -> divided",
+                "count": 1
+            },
+            {
+                "text": "Centralized Control -> provides the overall control",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 14
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "interface -> one subsystem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "B- to label a class",
+                "count": 1
+            },
+            {
+                "text": "stereotype -> label a class",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 15
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "B - calling object invokes",
+                "count": 1
+            },
+            {
+                "text": "call/return -> invoke",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 14
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "validation : build the right system verification : build the system right",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 14
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "integrated communication diagram _> synthesis",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 14
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "entity class -> stores data",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "A- The overall structure of the software",
+                "count": 1
+            },
+            {
+                "text": "sol -> overall structure of software productline",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 14
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "D - Requirement - Actors & Usecase",
+                "count": 1
+            },
+            {
+                "text": "requirements modeling -> actors and use cases",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "b",
+                "count": 1
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "A - Designing software application before codeing",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "A - A data item held by a class",
+                "count": 1
+            },
+            {
+                "text": "attribute : data item held by class",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "A Transaction - Indivisible",
+                "count": 1
+            },
+            {
+                "text": "A for sure Vũ ơi",
+                "count": 1
+            },
+            {
+                "text": "transaction -> indivisible",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 13
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "D- an internal message or event from another task",
+                "count": 1
+            },
+            {
+                "text": "demand-driven task -> activated by internal message",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 14
+            },
+            {
+                "text": "input -> event output -> action",
+                "count": 1
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "B - output message from a state - An action",
+                "count": 1
+            },
+            {
+                "text": "output message -> action",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "C - Not allows (Subclass redefines attributes )",
+                "count": 1
+            },
+            {
+                "text": "not allowed inheritance -> redefines atributes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "C - capable of being modified during and after initial",
+                "count": 1
+            },
+            {
+                "text": "modifiablity -> during and after initial development",
+                "count": 1
+            },
+            {
+                "text": "modifiability -> during and after",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 14
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "A- blow it",
+                "count": 1
+            },
+            {
+                "text": "layers of abstraction -> below it",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "A - A group of related use case",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "img_50.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 12
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "A - Interaction diagram - user interaction object",
+                "count": 1
+            },
+            {
+                "text": "Could happen ... interaction diagram => A Not happen ... => D",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "img_51.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "a",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 14
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "C -Association - Between two classes",
+                "count": 1
+            },
+            {
+                "text": "association -> between two class",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "img_52.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "a",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "BBBBBBBB",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "img_53.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 12
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "A - State dependent- An event on the internal",
+                "count": 1
+            },
+            {
+                "text": "An input - A An output - B",
+                "count": 1
+            },
+            {
+                "text": "input : event output : action",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "img_54.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            },
+            {
+                "text": "C for sure",
+                "count": 1
+            },
+            {
+                "text": "C -Component's provided interface must fulfill",
+                "count": 1
+            },
+            {
+                "text": "must fullfill",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "img_55.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 11
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "B - Abstract class - creating subclasses",
+                "count": 1
+            },
+            {
+                "text": "abstract class -> creating subclasses",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "img_56.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 12
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "D - after design and implementation",
+                "count": 1
+            },
+            {
+                "text": "most compete -> after deisgn and implementation",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "img_57.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 13
+            },
+            {
+                "text": "A for sure",
+                "count": 1
+            },
+            {
+                "text": "A - External class",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "img_58.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 15
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "img_59.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "b",
+                "count": 1
+            },
+            {
+                "text": "D",
+                "count": 15
+            },
+            {
+                "text": "design modeling? -> D analysis modeling? -> C",
+                "count": 1
+            },
+            {
+                "text": "design modeling? -> D analysis modeling? -> B",
+                "count": 1
+            },
+            {
+                "text": "D for sure",
+                "count": 1
+            },
+            {
+                "text": "Analysis - Static and dynamic models  Design modeling -  Developing software architectures",
+                "count": 1
+            }
+        ]
+    }
+]

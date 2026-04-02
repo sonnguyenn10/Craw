@@ -1,0 +1,1187 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "DONE",
+                "count": 1
+            },
+            {
+                "text": "B (sgk) A software design notation is a means of describing a software design either graphically or textually, or both.",
+                "count": 1
+            },
+            {
+                "text": "B done",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "PIM là before commitment, PSM laf architecture mapped to a specific platform",
+                "count": 1
+            },
+            {
+                "text": "C (exercise 1.10)",
+                "count": 1
+            },
+            {
+                "text": "PSM - mapped PIM - commitment",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C. Overall structure",
+                "count": 1
+            },
+            {
+                "text": "c  overall structure of the system,",
+                "count": 1
+            },
+            {
+                "text": "C The software architecture separates the overall structure of the system, in terms of subsystems and their interfaces, from the internal details of the individual subsystems.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "sequence and communication",
+                "count": 1
+            },
+            {
+                "text": "tuần tự với communication",
+                "count": 1
+            },
+            {
+                "text": "để thấy được flow của nghiệp vụ",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "C A deployment diagram shows the physical configuration of the system in terms of physical nodes and physical connections between the nodes, such as network connections.",
+                "count": 1
+            },
+            {
+                "text": "nodes and nodes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 17
+            },
+            {
+                "text": "C. Object and message",
+                "count": 1
+            },
+            {
+                "text": "Objects and message",
+                "count": 1
+            },
+            {
+                "text": "C An interaction diagram is developed to depict the objects that participate in the use case and the sequence of messages passed between them.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 15
+            },
+            {
+                "text": "validation ==> right system verification ==> system right",
+                "count": 1
+            },
+            {
+                "text": "validation: building the right system verification: building ths system right",
+                "count": 1
+            },
+            {
+                "text": "Validation đảm bảo rằng bạn đang phát triển đúng sản phẩm theo yêu cầu của khách hàng. - building the right system Verification đảm bảo rằng sản phẩm đó được xây dựng đúng theo đặc tả kỹ thuật. - building the system right",
+                "count": 1
+            },
+            {
+                "text": "mùi swr",
+                "count": 1
+            },
+            {
+                "text": "validation đúng theo KH verfication  đúng sản phẩm",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "White box - testing with knowledge Black box - testing without knowledge",
+                "count": 1
+            },
+            {
+                "text": "C. White box: Testing with knowledge of the system internals",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 15
+            },
+            {
+                "text": "D. Incremental development",
+                "count": 1
+            },
+            {
+                "text": "Evolutionary: Incremental development",
+                "count": 1
+            },
+            {
+                "text": "D The evolutionary prototyping approach is a form of incremental development in which the prototype evolves through several intermediate operational systems (into the delivered system.",
+                "count": 1
+            },
+            {
+                "text": "Đáp ánPhương phápMô hình phù hợpAPhased devWaterfall, V-ModelBThrowaway prototypingRapid Prototyping ModelCRisk-driven devSpiral ModelD Incremental devEvolutionary Prototyping, Agile",
+                "count": 1
+            },
+            {
+                "text": "​ (Phát triển theo kiểu tăng dần.)    ​ ​  Phương pháp xây dựng phần mềm từng bước một, bắt đầu từ một phiên bản sơ khai, sau đó liên tục cải tiến và mở rộng dựa trên phản hồi thực tế từ người dùng. Mỗi phiên bản mới (increment) bổ sung chức năng mới hoặc cải thiện chức năng cũ.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "Requirements Modeling --> use case Analysis Modeling --> static and dynamic models of the system Design Modeling --> Software Architecture",
+                "count": 1
+            },
+            {
+                "text": "design modeling - software architectures",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "analysis modeling - static and dynamic models",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "C",
+                "count": 4
+            },
+            {
+                "text": "Theo sách và cả theo slide thì câu này B nhé ko phải C. Sách của Gomma trang 74 mục 6.2",
+                "count": 1
+            },
+            {
+                "text": "B.  A use case defines a sequence of interactions between the actor and the system.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "\"How can a nonfunctional requirement be described in a use case model?\" (Làm thế nào để mô tả yêu cầu phi chức năng trong mô hình Use Case?)  Đáp án đúng: A. In a separate section of the use case description​(Trong một phần riêng biệt của phần mô tả Use Case)  Giải thích chi tiết:​ Nonfunctional Requirements (Yêu cầu phi chức năng) là gì?​ Là các yêu cầu không liên quan đến chức năng cụ thể, mà liên quan đến: Hiệu năng (performance) Độ tin cậy (reliability) Bảo mật (security) Tính khả dụng (usability) Tính bảo trì, mở rộng, v.v.   Use Case Model là gì?​ Là mô hình mô tả các tương tác giữa người dùng (actor) và hệ thống, tập trung vào chức năng mà hệ thống phải thực hiện.  Vậy mô tả yêu cầu phi chức năng ở đâu?​ Không nên trộn lẫn vào precondition hoặc postcondition (vốn mô tả điều kiện logic trước và sau khi thực hiện hành động). Cách tốt nhất là: ghi riêng một mục \"nonfunctional requirements\" trong phần mô tả của use case.  Phân tích các lựa chọn:​ Lựa chọnNhận xétA.  In a separate section of the use case descriptionĐúng – là cách chuẩn để ghi nhận các yêu cầu phi chức năng trong mô hình Use Case.B. As a use case preconditionSai – precondition là điều kiện logic cần thỏa trước khi use case thực hiện, không phải nơi mô tả phi chức năng.C. As a use case postconditionSai – postcondition mô tả kết quả đầu ra của use case, cũng không phải chỗ phù hợp.D. In a separate documentCó thể chấp nhận được về mặt kỹ thuật, nhưng không nằm trong use case model như câu hỏi yêu cầu.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 14
+            },
+            {
+                "text": "single instance",
+                "count": 1
+            },
+            {
+                "text": "D The multiplicity of an association specifies how many instances of one class may relate to a single instance of another class.",
+                "count": 1
+            },
+            {
+                "text": "\"What is meant by the multiplicity of an association?\" (Tính đa trị (multiplicity) của một association có nghĩa là gì?)    ​ (Bao nhiêu thể hiện (instance) của một lớp liên kết với bao nhiêu thể hiện của lớp khác)     Giải thích chi tiết: Đáp án đúng: C. How many instances of one class relate to how many instances of another class​  Là số lượng đối tượng (instance) của một lớp có thể liên kết (associate) với một đối tượng của lớp khác thông qua mối quan hệ (association).",
+                "count": 1
+            },
+            {
+                "text": "Lựa chọnNhận xétA. The number of associations in a classSai – Đây là số lượng quan hệ một lớp có, không phải đa trị.B. The number of associations between two classesSai – Có thể có 1 hoặc nhiều mối quan hệ giữa 2 lớp, nhưng \"multiplicity\" là nói đến số lượng instance, không phải quan hệ. C. How many instances of one class relate to how many instances of another classĐúng – Đây là định nghĩa chính xác của \"multiplicity\".D. How many instances of one class relate to a single instance of another classKhông đầy đủ – chỉ là một trường hợp đặc biệt của multiplicity (ví dụ: * → 1).",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 1
+            },
+            {
+                "text": "d. single instance of anorther class",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "C The composition relationship  is a stronger form of whole/part relationship than the aggregation relationship (shown by a hollow diamond).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "A This classification process is analogous to classifying books in a library,",
+                "count": 1
+            },
+            {
+                "text": "\"What is the classification process for application classes analogous to?\" (Quá trình phân loại các lớp ứng dụng tương tự như điều gì?)  Đáp án đúng: A. Categorizing books in a library​(Phân loại sách trong thư viện)  Giải thích chi tiết:​ Application class (lớp ứng dụng) là gì?​ Là các lớp trong phần mềm đại diện cho các thực thể nghiệp vụ (business entities), hành vi, giao diện, hoặc logic xử lý. Ví dụ: Student, Teacher, Invoice, PaymentService,...  Classification Process (Quá trình phân loại) là gì?​ Trong phân tích và thiết kế hướng đối tượng, ta nhóm các đối tượng giống nhau vào cùng một lớp, dựa vào các đặc điểm chung (thuộc tính, hành vi,...). Điều này tương tự như việc phân loại sách trong thư viện theo chủ đề, tác giả, thể loại,...  Phân tích các lựa chọn:​ Lựa chọnNhận xét A. Categorizing books in a libraryĐúng – giống với việc nhóm đối tượng vào các lớp trong phần mềm.B. Deciding how many copies of a book are neededSai – liên quan đến số lượng instance, không phải việc phân loại lớp.C. Finding the classrooms in a schoolSai – đây là tìm các thực thể vật lý, không phải phân loại logic ứng dụng.D. Identifying what labs the school hasSai – giống với việc liệt kê tài nguyên hơn là phân loại.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "C A coordinator object is an overall decision-making object that determines the over all sequencing for a collection of related objects.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 18
+            },
+            {
+                "text": "sends message to printer object",
+                "count": 1
+            },
+            {
+                "text": "printer object",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 19
+            },
+            {
+                "text": "D (exercise 9.2 sgk)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 18
+            },
+            {
+                "text": "d",
+                "count": 1
+            },
+            {
+                "text": "s",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 18
+            },
+            {
+                "text": "exit -> left entry -> entered",
+                "count": 1
+            },
+            {
+                "text": "B exit -> left entry -> entered",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "\"What is a condition used for in a state machine?\" (Điều kiện được dùng để làm gì trong máy trạng thái?)    Đáp án đúng: C. A conditional state transition​ (Một sự chuyển trạng thái có điều kiện)    ​ ​  Là một mô hình được dùng để mô tả hành vi của một hệ thống thông qua các trạng thái (states) và chuyển tiếp trạng thái (transitions).   ​  Là một biểu thức logic (được gọi là guard condition) được kiểm tra khi xảy ra chuyển tiếp giữa các trạng thái. Nếu điều kiện đúng (true) → chuyển tiếp được thực hiện. Nếu điều kiện sai (false) → chuyển tiếp bị bỏ qua hoặc hệ thống giữ nguyên trạng thái hiện tại.   Trạng thái: LoggedOut Sự kiện: LoginButtonPressed Điều kiện: Username != \"\" AND Password != \"\" Hành động: Transition to LoggedIn  Đáp ánNhận xétA. A conditional actionSai – điều kiện không kiểm soát hành động, mà điều khiển việc chuyển trạng thái.B. A conditional stateSai – trạng thái không có điều kiện; điều kiện áp dụng cho chuyển tiếp. C. A conditional state transitionĐúng – đây là nơi mà điều kiện (condition) được sử dụng để quyết định có chuyển trạng thái không.D. A conditional eventSai – sự kiện là trigger, nhưng điều kiện không gắn với sự kiện mà gắn với việc chuyển tiếp.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 19
+            },
+            {
+                "text": "Câu hỏi:​ \"What is an action in a state machine?\" (Hành động trong sate machine là gì ?)    ​ (Một phép tính hoặc xử lý được thực thi như là kết quả của một chuyển tiếp trạng thái)    ​ ​  Event (sự kiện): là điều kiện kích hoạt quá trình chuyển trạng thái. Transition (chuyển trạng thái): là quá trình di chuyển từ một trạng thái này sang trạng thái khác. Action (hành động): là một đoạn xử lý (computation/process) được thực hiện khi quá trình chuyển trạng thái xảy ra.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "Câu hỏi:​\"How would two state-dependent control objects communicate with each other?\" (Hai đối tượng điều khiển phụ thuộc trạng thái giao tiếp với nhau bằng cách nào?)  Đáp án đúng: A. By sending messages to each other​(Bằng cách gửi thông điệp cho nhau)  Giải thích chi tiết:​ State-dependent control objects là gì?​ Là các đối tượng điều khiển mà hành vi của chúng phụ thuộc vào trạng thái nội tại. Ví dụ: Một đối tượng chỉ phản hồi hoặc xử lý nếu đang ở trạng thái phù hợp.  Cách các đối tượng giao tiếp trong mô hình hướng đối tượng:​ Các đối tượng thường giao tiếp bằng cách gửi thông điệp (messages), đặc biệt khi dùng các mô hình như UML. Giao tiếp này có thể: Gửi sự kiện Gọi phương thức Kích hoạt hành động  ➡ Đây là cách đúng và phổ biến để hai đối tượng phối hợp với nhau, kể cả khi chúng phụ thuộc vào trạng thái.  Phân tích các lựa chọn:​ Đáp ánNhận xét A. By sending messages to each otherĐúng – là cách chuẩn và đúng kỹ thuật để hai đối tượng (dù phụ thuộc trạng thái) giao tiếp.B. By transitioning to the same stateSai – hai đối tượng không cần phải cùng trạng thái để giao tiếp.C. Through an entity objectSai – entity là lớp dữ liệu, không dùng để giao tiếp giữa control object.D. Through a proxy objectSai – proxy dùng để truy cập gián tiếp chứ không phải để truyền thông tin giữa các control object.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 19
+            },
+            {
+                "text": "\"Which kind of object executes a state machine?\" (Loại đối tượng nào thực thi một máy trạng thái?)    ​ (Một đối tượng điều khiển phụ thuộc vào trạng thái)    ​ ​  Là một mô hình hành vi mô tả các trạng thái mà một đối tượng có thể có, cũng như các sự kiện và điều kiện gây ra chuyển trạng thái. Nó được thực thi bởi các đối tượng mà hành vi của chúng phụ thuộc vào trạng thái nội tại.   ​  Là đối tượng có hành vi thay đổi tùy theo trạng thái hiện tại. Nó thường chứa máy trạng thái nội bộ (internal state machine) để xử lý sự kiện, kích hoạt hành động và chuyển trạng thái phù hợp.  Đáp ánNhận xétA. Any software objectSai – không phải đối tượng nào cũng có state machine.B. An entity objectSai – entity thường chỉ dùng để lưu trữ dữ liệu, không điều khiển hành vi. C. A state-dependent control objectĐúng – loại đối tượng này là chủ thể thực thi máy trạng thái.D. A state chartSai – state chart chỉ là biểu diễn đồ họa của state machine, không phải \"đối tượng thực thi\".",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "a",
+                "count": 2
+            },
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "B Ref: Chapter 11 - 4b (p538)",
+                "count": 1
+            },
+            {
+                "text": "B for sure",
+                "count": 1
+            },
+            {
+                "text": "Input là A Output là B",
+                "count": 1
+            },
+            {
+                "text": "event vào (input) dependent control obj rồi tiếp nhận xong ra (output) action",
+                "count": 1
+            },
+            {
+                "text": "An action",
+                "count": 1
+            },
+            {
+                "text": "\"An output message from a state-dependent control object corresponds to:\" (Một thông điệp đầu ra từ đối tượng điều khiển phụ thuộc trạng thái tương ứng với điều gì trong máy trạng thái nội bộ?)    ​ (Một hành động trong máy trạng thái nội bộ)    ​ ​  Là đối tượng điều khiển mà hành vi của nó phụ thuộc vào trạng thái hiện tại. Nó sử dụng state machine nội bộ để phản ứng với sự kiện và thực hiện hành động.   ​  Khi một state machine thực hiện một hành động (action) trong quá trình chuyển trạng thái, nó có thể tạo ra thông điệp gửi đi – chính là output message.  ➡ Do đó, một output message chính là kết quả của một hành động bên trong state machine.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "a",
+                "count": 2
+            },
+            {
+                "text": "b",
+                "count": 15
+            },
+            {
+                "text": "B Ref: Chapter 12: 8B (p538)",
+                "count": 1
+            },
+            {
+                "text": "B invokes an operation",
+                "count": 1
+            },
+            {
+                "text": "B In this pattern, a calling operation in the calling object invokes a called operation in the called object is passed from the calling operation to the called operation at the time of operation invocation.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "\"Which of the following statements is NOT true for a component?\" (Câu nào sau đây không đúng với một thành phần (component)?)    Lựa chọnĐúng/SaiGiải thíchA. A composite object composed of other objects ĐúngComponent có thể là một đối tượng tổng hợp (composite) chứa các đối tượng khác.B. An operation Sai (NOT true)Component không phải là \"operation\" – operation chỉ là một hành vi hoặc phương thức nhỏ. Component là một cấu trúc lớn hơn, chứa operation chứ không phải là operation.C. A simple object ĐúngComponent có thể là một đối tượng đơn giản nếu được thiết kế như vậy.D. Provides an interface ĐúngComponent phải cung cấp giao diện để các phần khác có thể sử dụng nó.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "a. below",
+                "count": 1
+            },
+            {
+                "text": "below it",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng: A. Each layer uses services in the layer immediately below it.​(Mỗi lớp sử dụng các dịch vụ của lớp ngay bên dưới nó.)  Giải thích chi tiết:​ Layers of Abstraction (Kiến trúc phân lớp) là gì?​ Là mẫu kiến trúc phần mềm trong đó hệ thống được chia thành các lớp (layers) có mức độ trừu tượng khác nhau. Mỗi lớp chỉ phụ thuộc vào lớp bên dưới và cung cấp dịch vụ cho lớp bên trên.  Ví dụ phổ biến (3 tầng):​ LớpChức năngPresentation LayerGiao diện người dùngBusiness Logic LayerXử lý logic nghiệp vụData Access LayerGiao tiếp với cơ sở dữ liệu  Ở đây:  Presentation dùng dịch vụ của Business Business dùng dịch vụ của Data Access  Phân tích từng lựa chọn:​ Đáp ánNhận xét A. Each layer uses services in the layer immediately below it.Đúng – phản ánh đúng nguyên tắc của kiến trúc phân lớp.B. Each layer uses services in the layer immediately above it.Sai – ngược lại với cấu trúc đúng. Lớp dưới không gọi lớp trên.C. Each layer uses services in the layers immediately above it and below it.Sai – không nên phụ thuộc cả hai chiều vì sẽ làm kiến trúc phức tạp và rối rắm.D. Each layer is independent of the other layers.Sai – nếu hoàn toàn độc lập thì sẽ không có mối liên hệ nào, không phải là một hệ thống tầng lớp thực sự.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 15
+            },
+            {
+                "text": "A synthesis of all the communication diagrams developed to support the use cases",
+                "count": 1
+            },
+            {
+                "text": "B. A synthesis",
+                "count": 1
+            },
+            {
+                "text": "B dễ ợt",
+                "count": 1
+            },
+            {
+                "text": "Tôi bị ngu",
+                "count": 1
+            },
+            {
+                "text": "\"What is an integrated communication diagram?\" (Integrated communication diagram là gì?)    ​ (Một sự tổng hợp của tất cả các sơ đồ giao tiếp được xây dựng để hỗ trợ các use case) ​ ​  Là một loại Interaction Diagram trong UML, mô tả cách các đối tượng tương tác với nhau thông qua thông điệp (messages) để thực hiện một chức năng cụ thể (thường là một use case). Nó tập trung vào cấu trúc các đối tượng và thứ tự giao tiếp giữa chúng.   ​  Là sự kết hợp tổng hợp từ nhiều communication diagrams khác nhau, tương ứng với nhiều use cases. Dùng để thống nhất tất cả các tương tác nhằm có cái nhìn tổng thể về hệ thống.  Đáp ánNhận xétA. A communication diagram formed by combining objectsSai – định nghĩa quá chung chung, không nêu rõ mục tiêu \"tích hợp các use case\". B. A synthesis of all the communication diagrams developed to support the use casesĐúng – đây là định nghĩa chính xác về \"integrated communication diagram\".C. A communication diagram depicting the objects that realize a use caseSai – mô tả đúng cho một sơ đồ giao tiếp cụ thể cho từng use case, không phải tổng hợp.D. A communication diagram that integrates the entity objects from the static modelSai – không liên quan đến entity từ mô hình tĩnh, mà là từ tương tác động.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 19
+            },
+            {
+                "text": "A control subsystem -> internal",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 17
+            },
+            {
+                "text": "a. one subsystem",
+                "count": 1
+            },
+            {
+                "text": "a. one subsystem (giam do phuc tap)",
+                "count": 1
+            },
+            {
+                "text": "\"How should an external object be designed to interface to the system?\" (Một đối tượng bên ngoài nên được thiết kế như thế nào để giao tiếp với hệ thống?)  Đáp án đúng: A. It should interface to one subsystem​(Nó nên giao tiếp với một hệ thống con duy nhất)  Giải thích chi tiết:​ External object (đối tượng bên ngoài) là gì?​ Là các thực thể nằm ngoài hệ thống (ví dụ: người dùng, hệ thống khác, cảm biến...) cần tương tác với hệ thống thông qua giao diện (interface).  Nguyên tắc thiết kế đúng:​ Để đảm bảo tính đóng gói (encapsulation) và giảm phụ thuộc (low coupling), một đối tượng bên ngoài chỉ nên tương tác với một subsystem duy nhất. Subsystem đó thường là giao diện (interface layer) hoặc boundary subsystem, chịu trách nhiệm kết nối thế giới ngoài với hệ thống nội bộ.  Phân tích các lựa chọn:​ Đáp ánNhận xét A. It should interface to one subsystemĐúng nhất – đảm bảo kiến trúc rõ ràng, dễ bảo trì, giảm ràng buộc.B. Interface to several subsystemsSai – gây ra phụ thuộc chéo, làm hệ thống khó mở rộng và kiểm soát.C. Interface to every subsystemSai nghiêm trọng – phá vỡ tính phân tầng, gây hỗn loạn trong quản lý.D. Interface to none of the subsystemsSai – nếu không giao tiếp với subsystem nào thì không thể tích hợp với hệ thống.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 18
+            },
+            {
+                "text": "polymorphism -> same operation name not concept -> Subroutine....",
+                "count": 1
+            },
+            {
+                "text": "D. Same operation name",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "d. subroutine",
+                "count": 1
+            },
+            {
+                "text": "\"Which of the following is NOT an object-oriented concept?\" (Khái niệm nào sau đây không phải là khái niệm hướng đối tượng?)    ​ (Thủ tục con / hàm con)    ​  Các khái niệm​  A. Information hiding:  Đúng – Là nguyên tắc đóng gói (encapsulation), che giấu chi tiết cài đặt. B. Class:  Đúng – Là khái niệm cốt lõi trong OOP, đại diện cho một loại đối tượng. C. Subclass:  Đúng – Là kế thừa (inheritance), cho phép lớp con mở rộng lớp cha.   ​  Là một khái niệm thuộc lập trình thủ tục (procedural programming). Đơn giản là hàm hoặc thủ tục độc lập, không gắn liền với đối tượng hay lớp. Không đại diện cho thuộc tính hoặc hành vi của một đối tượng.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "d. dialog box (thuoc graphical user interface)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "Câu hỏi:​\"The basic client/single service architectural pattern states that:\" (Mẫu kiến trúc client/service cơ bản với một service định nghĩa điều gì?)  Đáp án đúng: B. Multiple clients request services, and a service fulfills client requests.​(Nhiều client yêu cầu dịch vụ, và một service xử lý các yêu cầu đó.)  Giải thích chi tiết:​ Client/Single Service Architectural Pattern là gì?​ Là mẫu kiến trúc nơi: Nhiều client (người dùng, hệ thống, ứng dụng) gửi yêu cầu (request) đến Một service duy nhất (centralized service) thực hiện hoặc đáp ứng những yêu cầu đó.   Đặc điểm:​ Tập trung logic xử lý tại một điểm. Các client không cần biết nội dung thực hiện bên trong, chỉ cần gọi service. Phổ biến trong: Web service API server Centralized business logic components   Phân tích các lựa chọn:​ Đáp ánNhận xétA. Multiple clients, multiple services Sai – mô tả kiến trúc microservices hoặc multi-service, không phải single service. B. Multiple clients, a service Đúng – mô tả chuẩn mẫu Client/Single Service.C. One client, one service Sai – giới hạn quá mức, không phản ánh bản chất “nhiều client” dùng chung một service.D. One client, multiple services Sai – mô tả kiến trúc phân tán hoặc hướng service phức tạp.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "part - aggregate",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "aggregate",
+                "count": 1
+            },
+            {
+                "text": "C aggregate",
+                "count": 1
+            },
+            {
+                "text": "Câu hỏi:​\"When mapping a generalization/specialization relationship to a relational database, which of the following is NOT possible?\" (Khi ánh xạ mối quan hệ tổng quát/hóa chuyên biệt vào cơ sở dữ liệu quan hệ, điều nào sau đây là không thể?)  Đáp án đúng: C. The aggregate and part classes are designed as relational tables.​(Các lớp tổng hợp và thành phần được thiết kế dưới dạng bảng quan hệ.) —  Không đúng với ngữ cảnh của câu hỏi  Giải thích chi tiết:​ Generalization/Specialization là gì?​ Là mối quan hệ phân cấp kế thừatrong mô hình hướng đối tượng: Superclass (lớp cha): định nghĩa thuộc tính và hành vi chung Subclass (lớp con): kế thừa và có thể mở rộng từ lớp cha   Khi ánh xạ vào cơ sở dữ liệu quan hệ, có 3 cách chính:​ Chiến lượcMô tả1. One Table per Class HierarchyDùng một bảng duy nhất cho cả superclass và subclasses (có thêm cột loại – type)2. One Table per SubclassChỉ tạo bảng cho subclasses, mỗi bảng chứa dữ liệu riêng và khóa chính là khóa ngoại của superclass3. One Table per ClassMỗi lớp (superclass + subclasses) có bảng riêng biệt, nối qua foreign key     Đáp ánNhận xétA. Superclass + subclasses as tables Hợp lệB. Only subclasses as tables Hợp lệ (strategy 2)C. Aggregate and part classes as tables Sai – không thuộc khái niệm kế thừaD. Only superclass as table Hợp lệ (strategy 1 – table per hierarchy)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "know the type",
+                "count": 1
+            },
+            {
+                "text": "b. know the type of service required",
+                "count": 1
+            },
+            {
+                "text": "\"Yellow pages brokering is useful when a service requester:\" (Môi giới kiểu 'Yellow Pages' hữu ích khi người yêu cầu dịch vụ:)  Đáp án đúng: B. Knows the type of service required but not the specific service​(Biết loại dịch vụ cần nhưng không biết dịch vụ cụ thể)  Giải thích chi tiết:​ Yellow Pages Brokering là gì?​ Là một hình thức dịch vụ tra cứu (service discovery). Tương tự như danh bạ điện thoại Vàng (Yellow Pages) – bạn biết loại dịch vụ mình cần (ví dụ: thợ sửa ống nước), nhưng không biết cụ thể ai cung cấp. Dịch vụ môi giới sẽ giúp bạn tìm danh sách các nhà cung cấp phù hợp với loại dịch vụ đó.  Ứng dụng thực tế:​ Trong kiến trúc SOA (Service-Oriented Architecture) hoặc Web Services, yellow pages brokering: Cho phép người dùng tìm theo loại dịch vụ Không cần biết trước dịch vụ cụ thể nào, chỉ cần biết danh mục (ví dụ: “hóa đơn điện nước”, “xác thực tài khoản”,...).   Phân tích các lựa chọn:​ Đáp ánNhận xétA. Discover the locationSai – đây là white pages brokering, khi biết tên dịch vụ và cần biết nơi triển khai. B. Knows the type but not the specific serviceĐúng – chính là định nghĩa của yellow pages brokering.C. Knows the specific service but not the typeKhông hợp lý – nếu đã biết cụ thể, không cần tra cứu theo danh mục.D. Needs to discover the brokerKhông đúng – môi giới là trung gian đã có sẵn, không phải đối tượng để tra cứu.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "b. autonomous",
+                "count": 1
+            },
+            {
+                "text": "b. autonomous services",
+                "count": 1
+            },
+            {
+                "text": "\"What is a service-oriented architecture (SOA)?\" (Kiến trúc hướng dịch vụ (SOA) là gì?)    ​Đáp án đúng: B. A distributed software architecture consisting of multiple autonomous services (Một kiến trúc phần mềm phân tán bao gồm nhiều dịch vụ độc lập)    ​ ​  Mẫu kiến trúc phân tán, nơi các chức năng của hệ thống được đóng gói dưới dạng các dịch vụ riêng biệt, có thể tái sử dụng và độc lập với nhau. Mỗi dịch vụ:  Có thể triển khai và duy trì riêng. Giao tiếp với nhau qua giao thức chuẩn (thường là HTTP, SOAP, REST). Không phụ thuộc chặt chẽ vào nhau (loosely coupled).",
+                "count": 1
+            },
+            {
+                "text": "autonomous services",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "c. không cố định, được thiết kế để có thể cập nhật, thay đổi và mở rộng",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "A message sent to all recipients",
+                "count": 1
+            },
+            {
+                "text": "broadcast -> all notification -> members",
+                "count": 1
+            },
+            {
+                "text": "sent to all recipients",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "C. required to provided",
+                "count": 1
+            },
+            {
+                "text": "the required port to the provided port",
+                "count": 1
+            },
+            {
+                "text": "có cầu thì có cung require -> provide",
+                "count": 1
+            },
+            {
+                "text": "delegation connector - provide/provide connector - required/provide",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "img_50.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "hardware nodes",
+                "count": 2
+            },
+            {
+                "text": "deploy -> nodes",
+                "count": 1
+            },
+            {
+                "text": "During application deployment: (Trong quá trình triển khai ứng dụng, điều gì xảy ra?)  Đáp án đúng: C. Component instances are assigned to hardware nodes.​(Các instance (thể hiện) của component được gán vào các node phần cứng.)  Giải thích chi tiết:​ Triển khai (Deployment) là gì?​ Là giai đoạn trong vòng đời phần mềm khi ứng dụng hoặc các thành phần phần mềm được phân phối và cài đặt trên môi trường thực thi (runtime environment). Triển khai không phải là chạy ứng dụng, mà là chuẩn bị ứng dụng để có thể chạy: gán tài nguyên, phân phối lên server/hardware node.  Các bước chính của triển khai ứng dụng thường bao gồm:​ Tạo ra các instance của component (instantiation) → chuẩn bị mô hình. Gán các instance này vào các phần cứng cụ thể (node, server) →  đây là trọng tâm của \"deployment\". Cấu hình môi trường. Sau đó mới đến bước thực thi (execution).  Phân tích các lựa chọn:​ Đáp ánĐúng/SaiLý doA. The application is executed SaiĐây là bước sau triển khai, thuộc runtime/execution.B. Component instances are executed SaiTương tự A, việc thực thi là sau khi triển khai xong. C. Component instances are assigned to hardware nodes ĐúngĐây chính là việc chính yếu trong deployment.D. Component instances are instantiated Gần đúng nhưng chưa đủViệc khởi tạo là chuẩn bị model, chứ chưa phải giai đoạn deployment thực sự.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "img_51.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "b. statechart",
+                "count": 1
+            },
+            {
+                "text": "statechart",
+                "count": 1
+            },
+            {
+                "text": "control task -> statechart",
+                "count": 1
+            },
+            {
+                "text": "What is a control task? (Nhiệm vụ điều khiển là gì?)  Đáp án đúng: A. A task that controls other tasks​(Một nhiệm vụ điều khiển các nhiệm vụ khác)  Giải thích chi tiết:​ Control Task (Nhiệm vụ điều khiển) là gì?​ Trong thiết kế hệ thống điều khiển hoặc mô hình phần mềm hướng sự kiện, một control task là một đơn vị thực thi có trách nhiệm: Quản lý luồng điều khiển của hệ thống. Khởi động, dừng, hoặc điều phối các task khác. Theo dõi trạng thái hoặc chuyển tiếp trạng thái trong hệ thống.   Phân tích các lựa chọn:​ Đáp ánĐúng/SaiGiải thích A. A task that controls other tasks Chính xácĐây là định nghĩa chuẩn của control task — nó quản lý các task khác.B. A task that executes a statechart SaiViệc thực thi statechart là chức năng hẹp hơn và chưa đủ để định nghĩa control task.C. A task that executes on demand SaiĐây là loại nhiệm vụ theo sự kiện (event-driven) chứ không phải control task.D. A task that controls I/O devices SaiĐây thường là I/O task, không phải control task – không kiểm soát logic hay flow.",
+                "count": 1
+            },
+            {
+                "text": "A",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "img_52.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "Hierarchical - coordinating",
+                "count": 1
+            },
+            {
+                "text": "Hierarchical Control: coordinating several control components  Distributed Control: divided among various control components  Centralized Control: It provided the overall control and sequencing of the system",
+                "count": 1
+            },
+            {
+                "text": "Which of the following is true for a Hierarchical Control architectural pattern? (Phát biểu nào sau đây là đúng với mô hình kiến trúc điều khiển phân cấp?)  Đáp án đúng: C. It provides overall control by coordinating several control components.​(Nó cung cấp điều khiển tổng thể bằng cách phối hợp nhiều thành phần điều khiển.)  Giải thích chi tiết:​ Hierarchical Control Architectural Pattern là gì?​ Là một mô hình điều khiển trong đó nhiều thành phần điều khiển (control components) được tổ chức theo cấp bậc (hierarchy). Một control component cấp cao hơn sẽ phối hợp hoặc ra lệnh cho các component cấp thấp hơn. Mục tiêu là điều phối toàn cục mà vẫn giữ được phân chia trách nhiệm theo tầng.  Phân tích các lựa chọn:​ Đáp ánĐúng/SaiGiải thíchA. Control is divided among various control components SaiĐây là một mô tả quá chung chung, không nhấn mạnh tính phân cấp hoặc phối hợp.B. It provides overall control over several client subsystems SaiDễ gây hiểu nhầm với client-server pattern chứ không nói lên bản chất phối hợp trong điều khiển phân cấp. C. It provides overall control by coordinating several control components ĐúngMô tả chính xác cách thức hoạt động của mô hình điều khiển phân cấp.D. It provides overall control over various I/O objects SaiĐây giống như đặc điểm của device-level control, không phản ánh tính chất phân cấp.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "img_53.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "b. timer event",
+                "count": 1
+            },
+            {
+                "text": "periodic task: timer event",
+                "count": 1
+            },
+            {
+                "text": "Câu hỏi:​What is a periodic task? (Nhiệm vụ định kỳ là gì?)  Đáp án đúng: B. A task that is activated by a timer event.​(Một nhiệm vụ được kích hoạt bởi một sự kiện đếm thời gian.)  Giải thích chi tiết:​ Periodic Task (Nhiệm vụ định kỳ) là:​ Một loại tác vụ tự động chạy lặp lại sau một khoảng thời gian cố định. Nó được kích hoạt bởi sự kiện thời gian (timer event). Rất phổ biến trong các hệ thống nhúng, điều khiển thời gian thực, hệ thống giám sát, v.v.  Phân tích các đáp án:​ Đáp ánĐúng/SaiGiải thíchA. A task that responds to each message it receives SaiĐây là mô tả của event-driven task – không phải là định kỳ. B. A task that is activated by a timer event ĐúngChính xác, periodic task phụ thuộc vào bộ định thời (timer) để kích hoạt đều đặn.C. A task that is activated by an external event SaiĐây là event-triggered task, ví dụ như cảm biến bị kích hoạt.D. A task that is activated by an input event SaiCũng là kiểu event-driven, không phải định kỳ.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "img_54.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "c. overall",
+                "count": 1
+            },
+            {
+                "text": "The overall structure of the SPL",
+                "count": 1
+            },
+            {
+                "text": "What does the SPL software architecture describe? (Kiến trúc phần mềm SPL mô tả điều gì?)  Đáp án đúng: C. The overall structure of the software product line​(Cấu trúc tổng thể của dòng sản phẩm phần mềm)  Giải thích chi tiết:​ SPL = Software Product Line​Là một tập hợp các sản phẩm phần mềm có liên quan, chia sẻ các tính năng chung, nhưng cũng cho phép cấu hình riêng biệt để phục vụ các nhu cầu khác nhau.  SPL Software Architecture mô tả:​ Cấu trúc tổng thể của toàn bộ dòng sản phẩm phần mềm. Cách các thành phần (components) được chia sẻ hoặc tùy biến trong các sản phẩm. Các quan hệ giữa các modules, tính năng, cấu hình,...  Phân tích đáp án:​ Đáp ánĐúng/SaiGiải thíchA. The software inside a family of buildings SaiKhông liên quan đến dòng sản phẩm phần mềm.B. The structure of a client/server product family SaiĐây là chỉ một kiểu sản phẩm, không phải SPL. C. The overall structure of the software product line ĐúngMô tả chính xác về kiến trúc SPL.D. The software product line classes and their relationships SaiChỉ nói đến lớp và mối quan hệ, thiếu tính tổng thể.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "img_55.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "C all member",
+                "count": 1
+            },
+            {
+                "text": "required by all members of the SPL",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "img_57.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "Câu hỏi:​What is modifiability? (Tính dễ thay đổi là gì?)  Đáp án đúng: C. The extent to which software is capable of being modified during and after initial development​(Mức độ mà phần mềm có thể được sửa đổi trong và sau quá trình phát triển ban đầu)  Giải thích chi tiết:​ Modifiability (Tính dễ thay đổi) là:​Một thuộc tính chất lượng (quality attribute) trong software architecture, đo lường khả năng:  Dễ dàng thay đổi phần mềm để đáp ứng các yêu cầu mới, sửa lỗi, hoặc cải thiện hiệu suất. Bao gồm cả trong khi phát triển và sau khi triển khai.  Phân tích các đáp án:​ Đáp ánĐúng/SaiGiải thíchA. After deployment SaiChỉ xét sau khi triển khai, bỏ qua giai đoạn phát triển.B. After initial development SaiKhông bao gồm trong quá trình phát triển, thiếu phạm vi. C. During and after initial development ĐúngBao quát toàn bộ vòng đời phần mềm, từ phát triển đến vận hành.D. Before deployment SaiQuá hẹp, bỏ qua giai đoạn hậu triển khai.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "img_58.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "scalability",
+                "count": 1
+            },
+            {
+                "text": "System scalability",
+                "count": 1
+            },
+            {
+                "text": "Which of the following is NOT addressed by a secure system? (Điều nào sau đây KHÔNG được xử lý bởi một hệ thống bảo mật?)  Đáp án đúng: C. System scalability​(Khả năng mở rộng hệ thống)  Giải thích chi tiết:​Một hệ thống bảo mật (secure system) chủ yếu tập trung vào các yếu tố bảo mật, bao gồm:  Confidentiality – Bảo mật thông tin Integrity – Toàn vẹn dữ liệu Availability – Khả năng truy cập Authentication – Xác thực người dùng Authorization – Phân quyền truy cập Resilience to attacks – Ngăn chặn các cuộc tấn công (penetration, DoS...)  Phân tích các đáp án:​ Đáp ánGiải thíchCó thuộc phạm vi \"secure system\"?A. System penetrationLà một kiểu tấn công → hệ thống bảo mật phải ngăn chặn CóB. Denial of service (DoS)Tấn công gây gián đoạn dịch vụ → cần xử lý trong bảo mật Có C. System scalabilityKhả năng mở rộng quy mô (hiệu năng, kiến trúc) → là vấn đề kỹ thuật/hệ thống, không liên quan đến bảo mật KhôngD. System authorizationQuản lý quyền truy cập người dùng → là một phần cốt lõi của bảo mật Có",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "img_59.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 15
+            },
+            {
+                "text": "Can be traced back to products of previous phases",
+                "count": 1
+            },
+            {
+                "text": "b",
+                "count": 2
+            },
+            {
+                "text": "Traceability is the extent to which a product: (Khả năng truy vết là mức độ mà một sản phẩm có thể...)  Đáp án đúng: B. Traced back to the requirements​(Có thể được truy vết ngược về yêu cầu)  Giải thích chi tiết:​Traceability (Khả năng truy vết) trong kỹ thuật phần mềm là khả năng theo dõi và liên kết giữa các yêu cầu (requirements) với:  Thiết kế (design) Cài đặt (implementation) Kiểm thử (testing) Và bảo trì (maintenance) Tức là bạn có thể truy vết ngược (backward traceability) từ một thành phần phần mềm hiện tại về yêu cầu ban đầu, hoặc truy vết tiến (forward traceability) từ yêu cầu đến phần được triển khai.  Phân tích các lựa chọn:​ Đáp ánGiải thíchPhù hợp?A. Can be traced back to products of previous phasesGần đúng, nhưng \"products\" chung chung (không chỉ rõ là yêu cầu) Không chính xác bằng B. Traced back to the requirementsChính xác nhất: traceability chủ yếu liên quan đến việc liên kết với yêu cầu gốc ĐúngC. Traced forward to implementationĐúng một phần (forward traceability), nhưng không bao quát bằng B Không đầy đủD. Deployed to a hardware configurationLiên quan đến triển khai, không phải traceability S",
+                "count": 1
+            },
+            {
+                "text": "Câu này B",
+                "count": 1
+            }
+        ]
+    }
+]

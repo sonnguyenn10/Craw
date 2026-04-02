@@ -1,0 +1,1252 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "1. What is the primary purpose of software modeling in the software development process? C. To document, analyze, and design software systems.",
+                "count": 1
+            },
+            {
+                "text": "done",
+                "count": 1
+            },
+            {
+                "text": "vai l l kia lam 6 lan de nay ?",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "thờ heo?",
+                "count": 1
+            },
+            {
+                "text": "B (Waterfall -> Requirements,..)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "wwhite -> with da den -> without",
+                "count": 1
+            },
+            {
+                "text": "white -> with da den -> without",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "B (Use case -> the interactions)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "Stick figure (hình người que)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "Đáp án đúng là: C. Guidelines used to help in structuring a software system into its components. Giải thích:​Software structuring criteria (tiêu chí cấu trúc phần mềm) là các nguyên tắc hoặc hướng dẫn được dùng để chia một hệ thống phần mềm thành các thành phần (components). Mục tiêu của việc này là giúp hệ thống dễ hiểu, dễ phát triển, bảo trì và mở rộng.  Chúng không phải là ý tưởng trừu tượng (A), không phải là quy trình thiết kế cụ thể (B), cũng không phải là kế hoạch tổng thể (D), mà là những hướng dẫn giúp tổ chức phần mềm theo cách có cấu trúc – ví dụ như theo chức năng, theo tầng (layer), theo miền nghiệp vụ (domain), v.v. Tóm lại:​ Câu A – sai vì quá chung chung, không nhấn mạnh vào việc chia hệ thống. Câu B – sai vì nói về quy trình thiết kế, không phải tiêu chí cấu trúc. Câu C – đúng vì phản ánh đúng bản chất là các hướng dẫn để chia phần mềm thành các phần nhỏ hơn. Câu D – sai vì nói về kế hoạch phát triển, không liên quan trực tiếp đến việc cấu trúc hệ thống.",
+                "count": 1
+            },
+            {
+                "text": "Criteria ->Guidelines (tiêu chí -> guidelines) C",
+                "count": 1
+            },
+            {
+                "text": "design concept => a fundamental idea.... design method => a systematic approach.. criteria => guildelines stategy => overall plan notation => graphical and textual",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "Đáp án đúng là: C. A box with one, two, or three compartments  Giải thích:​Trong Class Diagram (sơ đồ lớp) của UML, một lớp (class) được biểu diễn bằng một hình chữ nhật (box) chia làm tối đa 3 ngăn (compartments):  Ngăn đầu tiên (bắt buộc): Tên lớp (Class name) Ngăn thứ hai (tùy chọn): Các thuộc tính (Attributes) Ngăn thứ ba (tùy chọn): Các phương thức (Operations/Methods)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            },
+            {
+                "text": "first step in software design  -> Requirement Analysis",
+                "count": 1
+            },
+            {
+                "text": "Minthep đã viết:    B  Nhấn để mở rộng...  angry t boong m gio )",
+                "count": 1
+            },
+            {
+                "text": "Misa đã viết:    angry t boong m gio )  Nhấn để mở rộng...  gà vai",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "Interface of class -> The specification",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 19
+            },
+            {
+                "text": "Information hiding -> Private",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "A    4.2.1 Information Hiding in Object-Oriented Design Information hiding is a basic concept of object-oriented design. Information hiding is used in designing the object, in particular when deciding what information should be visible and what information should be hidden. Those parts of an object that need not be visible to other objects are hidden; therefore, if the internals of the object change, only this object is affected. The term encapsulation is also used to describe information hiding by an object.  Nhấn để mở rộng...",
+                "count": 1
+            },
+            {
+                "text": "chat thì ra B",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là: B. Information hiding is a subset of encapsulation, focusing on hiding internal details. Giải thích:​Trong kỹ thuật phần mềm (software engineering), Encapsulation (đóng gói) và Information hiding (che giấu thông tin) là hai khái niệm liên quan chặt chẽ, nhưng không hoàn toàn giống nhau.  Encapsulation (Đóng gói) là gì?​ Là việc đóng gói dữ liệu và các phương thức xử lý dữ liệu vào trong một thực thể (như class). Nó hạn chế quyền truy cập trực tiếp đến một số phần tử nội bộ của đối tượng. Ví dụ: Dùng từ khóa private, protected để giới hạn quyền truy cập.  Information hiding (Che giấu thông tin) là gì?​ Là nguyên tắc chỉ cho phép truy cập những gì cần thiết, và ẩn đi các chi tiết triển khai nội bộ. Mục tiêu là để giảm sự phụ thuộc giữa các thành phần trong phần mềm → giúp hệ thống dễ bảo trì và mở rộng.      Tóm lại:  Encapsulation là cơ chế kỹ thuật (technical mechanism) Information hiding là mục tiêu thiết kế (design principle) → Information hiding là một phần (subset) của encapsulation, vì việc đóng gói hỗ trợ việc che giấu thông tin.   Nhấn để mở rộng...  Giải thích các đáp án:​ A. \"Cùng một khái niệm\" →  Sai, vì chúng không giống hệt nhau. B.  Đúng – vì information hiding là một phần của encapsulation, nhấn mạnh vào việc ẩn chi tiết nội bộ. C. \"Encapsulation là một phần của information hiding\" →  Sai chiều quan hệ. D. \"Không liên quan\" →  Sai hoàn toàn, hai khái niệm này liên quan mật thiết.",
+                "count": 1
+            },
+            {
+                "text": "infor hiding là một tập hợp con của đóng gói, tập trung vào việc ẩn các chi tiết nội bộ => B",
+                "count": 1
+            },
+            {
+                "text": "Information hiding :concept of encapsulation -> subset of encapsulation",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "Đáp án đúng là: C. Developing static and dynamic models Giải thích:​Analysis modeling (mô hình phân tích) là giai đoạn trong quá trình phát triển phần mềm mà ta xây dựng các mô hình trừu tượng để hiểu rõ hệ thống cần làm gì, trước khi bắt tay vào thiết kế hoặc lập trình.  Trong đó, mô hình phân tích thường gồm hai loại mô hình chính:  Static models (Mô hình tĩnh): Mô tả cấu trúc của hệ thống, như: Class Diagram (sơ đồ lớp) Object Diagram (sơ đồ đối tượng) ERD (sơ đồ thực thể – quan hệ)   Dynamic models (Mô hình động): Mô tả hành vi, luồng dữ liệu, luồng xử lý trong hệ thống: Sequence Diagram Activity Diagram State Diagram Data Flow Diagram (DFD)        Vì vậy, phát triển mô hình tĩnh và động là công việc cốt lõi của giai đoạn analysis modeling.  Nhấn để mở rộng...  Giải thích vì sao các đáp án khác sai:​ A. Developing use case models → Một phần nhỏ của phân tích, nhưng không đầy đủ → không phải trọng tâm duy nhất B. Developing data flow and ERD → Cũng chỉ là hai loại mô hình cụ thể, không bao quát toàn bộ modeling D. Developing software architectures → Đây là công việc của giai đoạn thiết kế (design phase), không phải analysis",
+                "count": 1
+            },
+            {
+                "text": "analysic modeling --> static and dynamic",
+                "count": 1
+            },
+            {
+                "text": "during design -> Developing software architectures  during analysis -> Developing static and dynamic models",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "Đáp án đúng là: B. Use cases Giải thích:​COMET (Collaborative Object Modeling and Architectural Design Method) là một phương pháp phát triển phần mềm theo hướng đối tượng. COMET tập trung vào việc phân tích và thiết kế phần mềm bằng cách mô hình hóa hệ thống dựa trên các use case (trường hợp sử dụng).  Đặc điểm chính của COMET:​ Lấy use case làm trung tâm để xác định yêu cầu và hành vi của hệ thống. Dựa trên các use case để tạo ra các mô hình: Phân tích chức năng Thiết kế lớp Thiết kế kiến trúc  COMET hỗ trợ phát triển phần mềm theo hướng module, dễ mở rộng và bảo trì. Giải thích vì sao các đáp án khác sai:​ A. Prototyping → COMET không phải là một mô hình xoay quanh nguyên mẫu (prototype). C. Waterfall model → COMET không phải là quy trình tuyến tính tuần tự như waterfall. D. Spiral model → COMET không dựa trên mô hình lặp xoắn ốc (spiral), dù có thể dùng trong quy trình lặp.",
+                "count": 1
+            },
+            {
+                "text": "COMET -> Use cases",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 17
+            },
+            {
+                "text": "Đáp án đúng là: D. Developing software architectures Giải thích:​Design modeling (mô hình thiết kế) là giai đoạn sau khi đã phân tích yêu cầu, nơi các kiến trúc sư phần mềm và lập trình viên bắt đầu biến các mô hình phân tích trừu tượng thành thiết kế cụ thể, có thể hiện thực được bằng mã nguồn. Trong design modeling, ta thường thực hiện những việc sau:​ Phát triển kiến trúc phần mềm (software architectures): Chia hệ thống thành các thành phần (modules, layers, components) Xác định cách các thành phần này giao tiếp với nhau (interfaces) Lựa chọn kiểu kiến trúc (MVC, Microservices, Layered, Event-driven, v.v.)  Thiết kế chi tiết các lớp, thành phần: Lập Class Diagrams, Component Diagrams Thiết kế cơ chế giao tiếp: message passing, API calls, database schema tương ứng...  Tại sao các đáp án khác sai?​ A. Developing use case models →  Đây là phần của phân tích yêu cầu (requirements analysis), không phải thiết kế. B. Developing data flow and ERD →  Đây cũng thuộc giai đoạn phân tích (đặc biệt là phân tích dữ liệu). C. Developing static and dynamic models →  Những mô hình này thường phát triển trong analysis modeling.",
+                "count": 1
+            },
+            {
+                "text": "design modeling -> software architectures",
+                "count": 1
+            },
+            {
+                "text": "during design -> Developing software architectures  during analysis -> Developing static and dynamic models",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "Đáp án đúng là: D. To depict the activities in the main and alternative sequences of a use case Giải thích:​Activity diagram (sơ đồ hoạt động) trong UML là công cụ rất hữu ích để mô tả luồng hành động (workflow) hoặc logic xử lý của một tiến trình trong hệ thống.  Trong use case modeling, activity diagram được dùng để:  Mô tả các bước xử lý (activities) diễn ra trong kịch bản chính (main flow) và các kịch bản thay thế (alternative flows) của một use case cụ thể. Cho thấy rõ luồng kiểm soát (control flow) giữa các hành động và các rẽ nhánh (conditions). Ví dụ:​Giả sử có use case “Đặt hàng”:  Luồng chính: Chọn sản phẩm → Xác nhận giỏ hàng → Thanh toán Luồng thay thế: Nếu hết hàng → Hiển thị thông báo lỗi  Activity diagram có thể mô tả toàn bộ các bước và nhánh như vậy. Giải thích vì sao các đáp án khác sai:​ A. To depict the sequence of activities executed by all the use cases in the system →  Sai: Activity diagram chỉ mô tả một use case cụ thể, không phải toàn bộ hệ thống. B. To depict the sequence of external activities that the use case interacts with →  Mơ hồ và không chính xác – external activities không phải khái niệm đúng trong bối cảnh này. C. To depict the sequence of active objects in a use case →  Câu này dễ nhầm với sequence diagram chứ không phải activity diagram.",
+                "count": 1
+            },
+            {
+                "text": "activity diagram -> To depict the activities",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "A",
+                "count": 1
+            },
+            {
+                "text": "B",
+                "count": 6
+            },
+            {
+                "text": "Đáp án đúng là: B. A sequence of interactions between the user and the system Giải thích:​Use case (trường hợp sử dụng) là một mô tả về cách người dùng (actor) tương tác với hệ thống để đạt được một mục tiêu cụ thể.  Mỗi use case gồm:  Tác nhân (actor): Người dùng hoặc hệ thống bên ngoài Luồng hoạt động (flow of events): Các bước hệ thống và người dùng tương tác với nhau Kết quả: Kết quả mong đợi nếu use case thực hiện thành công  Use case tập trung vào tương tác giữa người dùng và hệ thống, không đi sâu vào chi tiết kỹ thuật bên trong (như object hay code). Giải thích các đáp án sai:​ A. A case study involving users →  “Case study” là nghiên cứu tình huống, không phải định nghĩa của use case. C. A sequence of interactions between the user and the objects in the system →  Sai: use case không mô tả mức đối tượng nội bộ – đó là việc của sequence diagram. D. A sequence of user inputs to the system →  Sai vì use case không chỉ nói đến input, mà là toàn bộ tương tác qua lại giữa user và system.",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 7
+            },
+            {
+                "text": "Use case -> interaction the user and the system",
+                "count": 1
+            },
+            {
+                "text": "https://www.figma.com/resource-library/what-is-a-use-case/#:~:text=A%20use%20case%20explains%20how%20users%20interact%20with%20a%20product%20or%20system.     B ( interations between user and the system)",
+                "count": 1
+            },
+            {
+                "text": "Sách Software Modeling and Design UML, Use Cases, Patterns, and Software Architectures by Hassan Gomaa trang 92 Exercise 6.1 bảo C. Ko đc cãi sách giáo trình",
+                "count": 1
+            },
+            {
+                "text": "tooi tin truong va truong B",
+                "count": 1
+            },
+            {
+                "text": "c - sách giáo trình",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 19
+            },
+            {
+                "text": "Generalization -> inheritance",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "composition -> strong form whole/part",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "aggregation -> weak form whole/part",
+                "count": 1
+            },
+            {
+                "text": "agree -> weak  whole                        conpose -> strong whole",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "state-dependent control -> that executes a state machine",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "stereotype -> to label",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "stereotype -> label",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "dynamic interaction model -> to show the dynamic behavior",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 19
+            },
+            {
+                "text": "communication diagram depict -> software objects and sequence of interaction",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "Đáp án đúng là: C. Activity Diagram Giải thích:​Trong UML (Unified Modeling Language), object interaction diagrams là những sơ đồ mô tả cách các đối tượng tương tác với nhau để thực hiện một chức năng cụ thể.  Các loại object interaction diagrams bao gồm:  Sequence Diagram – Mô tả thứ tự các thông điệp (messages) được gửi giữa các đối tượng theo thời gian. Communication Diagram (trước đây gọi là Collaboration Diagram) – Mô tả các đối tượng và luồng thông điệp giữa chúng, tập trung vào cấu trúc hơn là thời gian.      Sequence Diagram và Communication Diagram đều là interaction diagrams trong UML.  Nhấn để mở rộng...  Tại sao​ Activity Diagram dùng để mô tả luồng xử lý công việc (workflow/process) hoặc thuật toán, không tập trung vào các đối tượng và thông điệp giữa chúng. Nó là một dạng behavioral diagram, không phải interaction diagram theo nghĩa hẹp.",
+                "count": 1
+            },
+            {
+                "text": "Not a type interaction diagram -> Activity Diagram",
+                "count": 1
+            },
+            {
+                "text": "Đáp án đúng là: C. Activity Diagram Trong UML (Unified Modeling Language), object interaction diagrams là những sơ đồ mô tả cách các đối tượng tương tác với nhau để thực hiện một chức năng cụ thể.  Các loại object interaction diagrams bao gồm:  Sequence Diagram – Mô tả thứ tự các thông điệp (messages) được gửi giữa các đối tượng theo thời gian. Communication Diagram (trước đây gọi là Collaboration Diagram) – Mô tả các đối tượng và luồng thông điệp giữa chúng, tập trung vào cấu trúc hơn là thời gian.      Sequence Diagram và Communication Diagram đều là interaction diagrams trong UML.  Nhấn để mở rộng...   Activity Diagram dùng để mô tả luồng xử lý công việc (workflow/process) hoặc thuật toán, không tập trung vào các đối tượng và thông điệp giữa chúng. Nó là một dạng behavioral diagram, không phải interaction diagram theo nghĩa hẹp.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B    10.1 FINITE STATE MACHINES AND STATE TRANSITIONS A finite state machine (also referred to as state machine) is a conceptual machine with a finite number of states.  Nhấn để mở rộng...",
+                "count": 1
+            },
+            {
+                "text": "Finite State Machine (FSM) hay còn gọi là máy trạng thái hữu hạn là một mô hình toán học mô tả hành vi của một hệ thống bằng cách sử dụng:  Một tập hữu hạn các trạng thái (states) Một trạng thái bắt đầu (initial state) Một tập các sự kiện hoặc đầu vào (inputs/events) Một tập các quy tắc chuyển trạng thái (transitions)  Dựa trên sự kiện đầu vào và trạng thái hiện tại, FSM sẽ chuyển sang trạng thái mới.",
+                "count": 1
+            },
+            {
+                "text": "finite state machine -> machine with finite states",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "entry action ->state is entered",
+                "count": 1
+            },
+            {
+                "text": "entry = enter exit = left",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "composite state relate substate -> decomposed into substates",
+                "count": 1
+            },
+            {
+                "text": "đecompoesd",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "Boundary object -> external environment",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "Đáp án đúng là: C. A state-dependent control object Giải thích:​State-dependent interaction (tương tác phụ thuộc trạng thái) là loại tương tác mà hành vi của hệ thống thay đổi tùy theo trạng thái hiện tại của một đối tượng nào đó.  Trong thiết kế hướng đối tượng, loại đối tượng chính điều phối các luồng xử lý và quyết định hành vi dựa trên trạng thái là:   Control Object (đối tượng điều khiển)  Khi đối tượng này thay đổi hành vi dựa trên trạng thái, nó trở thành:   State-dependent control object → tức là đối tượng điều khiển có hành vi phụ thuộc trạng thái Ví dụ thực tế:​Ví dụ: Đối tượng điều khiển cửa tự động  Khi cửa đang mở → bỏ qua tín hiệu mở thêm Khi cửa đang đóng → đảo chiều để mở lại → Hành vi phụ thuộc vào trạng thái hiện tại Giải thích các đáp án sai:​ A. A control object →  Đúng loại đối tượng, nhưng chưa đủ → không nhấn mạnh tính \"phụ thuộc trạng thái\" B. A state-dependent entity object →  Entity object là loại lưu trữ dữ liệu, không dùng để điều khiển luồng tương tác D. A state-dependent user interaction object →  Không có khái niệm “user interaction object” chuẩn trong UML",
+                "count": 1
+            },
+            {
+                "text": "state-dependent interaction -> state-dependent control object",
+                "count": 1
+            },
+            {
+                "text": "State-dependent interaction (tương tác phụ thuộc trạng thái) là loại tương tác mà hành vi của hệ thống thay đổi tùy theo trạng thái hiện tại của một đối tượng nào đó.  Trong thiết kế hướng đối tượng, loại đối tượng chính điều phối các luồng xử lý và quyết định hành vi dựa trên trạng thái là:   Control Object (đối tượng điều khiển)  Khi đối tượng này thay đổi hành vi dựa trên trạng thái, nó trở thành:   State-dependent control object → tức là đối tượng điều khiển có hành vi phụ thuộc trạng thái Ví dụ: Đối tượng điều khiển cửa tự động  Khi cửa đang mở → bỏ qua tín hiệu mở thêm Khi cửa đang đóng → đảo chiều để mở lại → Hành vi phụ thuộc vào trạng thái hiện tại  A. A control object →  Đúng loại đối tượng, nhưng chưa đủ → không nhấn mạnh tính \"phụ thuộc trạng thái\" B. A state-dependent entity object →  Entity object là loại lưu trữ dữ liệu, không dùng để điều khiển luồng tương tác D. A state-dependent user interaction object →  Không có khái niệm “user interaction object” chuẩn trong UML",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 16
+            },
+            {
+                "text": "state-dependent -> an event",
+                "count": 1
+            },
+            {
+                "text": "input thì event,output là action",
+                "count": 2
+            },
+            {
+                "text": "input event  output action   vào sự kiện,ra hành động",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "Đáp án đúng là: C. They provide the skeleton or template for the overall software architecture Giải thích:​Software architectural patterns (mẫu kiến trúc phần mềm) là các giải pháp thiết kế cấp cao, được sử dụng lặp đi lặp lại để giải quyết các vấn đề phổ biến trong kiến trúc phần mềm.   Chúng cung cấp một \"bộ khung\" hay \"khuôn mẫu\" cho toàn bộ kiến trúc hệ thống phần mềm, giúp tổ chức hệ thống một cách logic, dễ mở rộng và bảo trì. Ví dụ các architectural patterns phổ biến:​ MVC (Model-View-Controller) – chia nhỏ hệ thống thành xử lý logic, giao diện và điều khiển. Layered Architecture – tổ chức hệ thống thành các tầng (presentation, business logic, data…). Microservices Architecture – chia hệ thống thành các dịch vụ độc lập. Giải thích các đáp án sai:​ A. They specify detailed algorithms for specific tasks →  Sai: Mẫu kiến trúc không đi sâu vào chi tiết thuật toán, mà hoạt động ở cấp cao hơn. B. They dictate the user interface design →  Sai: UI là một phần nhỏ, và không phải trọng tâm của architectural pattern. D. They focus on low-level implementation details →  Sai: Ngược lại, architectural patterns tập trung vào cấu trúc tổng thể, không phải chi tiết thấp.",
+                "count": 1
+            },
+            {
+                "text": "software architectural patterns -> skeleton or template",
+                "count": 1
+            },
+            {
+                "text": "C. template for the overall software architecture",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "Đáp án đúng là: C. Numbering messages and events in the same sequence across both diagrams Giải thích:​Khi bạn mô hình hóa các kịch bản tương tác phụ thuộc trạng thái (state-dependent interaction scenarios), thường sẽ sử dụng hai loại sơ đồ:  Communication Diagram (hoặc Sequence Diagram): → Mô tả các thông điệp được gửi giữa các đối tượng theo trình tự. Statechart (State Machine Diagram): → Mô tả sự thay đổi trạng thái của một đối tượng dựa vào các sự kiện (events) và hành động (actions).  Để đảm bảo cả hai sơ đồ nói cùng một “ngữ cảnh” (scenario) và không mâu thuẫn, ta cần:   Đánh số các thông điệp (messages) trong Communication Diagram và các sự kiện (events) trong Statechart theo cùng thứ tự xuất hiện.  ✔ Điều này giúp người đọc dễ dàng đối chiếu mỗi thông điệp với sự kiện tương ứng trong quá trình thay đổi trạng thái. Giải thích các đáp án sai:​ A. Using different naming conventions →  Sai: Dùng tên khác nhau gây mất nhất quán, trái với yêu cầu. B. Assigning unique names to each state →  Có ích, nhưng không đủ để đảm bảo trình tự sự kiện được giữ đúng giữa các sơ đồ. D. Defining separate control objects →  Không liên quan đến tính nhất quán giữa hai sơ đồ.",
+                "count": 1
+            },
+            {
+                "text": "communication diagram,state-dependent interaction -> Numbering messages and event",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "structural view -> components and connectors",
+                "count": 1
+            },
+            {
+                "text": "structural view -> compo and connectors  dynamic view => object mesages",
+                "count": 2
+            },
+            {
+                "text": "structural -> component and connector",
+                "count": 1
+            },
+            {
+                "text": "Trong kiến trúc phần mềm, Quan điểm Cấu trúc (Structural View) mô tả cách các thành phần của hệ thống được tổ chức một cách tĩnh. Quan điểm này thường được thể hiện qua các khối xây dựng và cách chúng được kết nối.  Trong các lựa chọn dưới đây, câu trả lời chính xác nhất phụ thuộc vào ngữ cảnh cụ thể:   A. A view in terms of a module hierarchy (Một quan điểm theo một hệ thống cấp bậc module). B. A view in terms of components and connectors (Một quan điểm theo các thành phần và bộ kết nối). Tuy nhiên, lựa chọn B là định nghĩa hiện đại và phổ quát nhất cho quan điểm cấu trúc (thường gọi là Component/Implementation View hoặc Static View) trong hầu hết các khuôn khổ kiến trúc hiện đại (như 4+1 View Model).",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "different locations -> different subsystems",
+                "count": 1
+            },
+            {
+                "text": "khác là khác",
+                "count": 1
+            },
+            {
+                "text": "different - different",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "user interface subsystem -> client subsystem",
+                "count": 1
+            },
+            {
+                "text": "ggiaodienej nguoi dung = client",
+                "count": 1
+            },
+            {
+                "text": "control -> chắc chắn k service -> logic -> k i/o -> thiết bị input/ output -> k => C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "13.3.1 Composite Object  Objects that are part of the same composite object should be in the same subsystem and separate from objects that are not part of the same composite object.  Nhấn để mở rộng...",
+                "count": 1
+            },
+            {
+                "text": "same là same",
+                "count": 1
+            },
+            {
+                "text": "13.3.1 Composite Object Objects that are part of the same composite object should be in the same subsystem and separate from objects that are not part of the same composite object.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "Cái không cho phép kế thừa -> class con định nghĩa lại (redefine) attributes từ class cha",
+                "count": 1
+            },
+            {
+                "text": "not allowed, inheritancee -> redefines",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "unlikely, encapsuled, business logic -> dialog box",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 18
+            },
+            {
+                "text": "NOT a oop concept -> SubTitle",
+                "count": 1
+            },
+            {
+                "text": "sụp rai A",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 16
+            },
+            {
+                "text": "Đáp án đúng là: A. Server is a requester of services Giải thích bằng tiếng Việt:​Trong kiến trúc phần mềm dạng máy chủ (Server Software Architectures), server (máy chủ) là thành phần cung cấp dịch vụ (provider) cho các client (máy khách) yêu cầu dịch vụ. Những phát biểu đúng:​ B. Server is a provider of services →  Đúng: Server là bên cung cấp dịch vụ (ví dụ: xử lý dữ liệu, truy vấn cơ sở dữ liệu...). C. A software system that provides one or more services for multiple clients →  Đúng: Server có thể là một hệ thống phần mềm phục vụ nhiều client đồng thời (ví dụ: web server, database server). D. A hardware system that provides one or more services for multiple clients →  Đúng trong một số ngữ cảnh: \"Server\" có thể ám chỉ phần cứng chuyên dụng chạy phần mềm máy chủ. Phát biểu sai:​ A. Server is a requester of services →  Sai hoàn toàn với định nghĩa kiến trúc client-server: → Client mới là bên gửi yêu cầu (requester) → Server là bên xử lý và phản hồi các yêu cầu đó",
+                "count": 1
+            },
+            {
+                "text": "Not true in Server Software Architectures -> Server is a requester -> Sai, client mới là requester",
+                "count": 1
+            },
+            {
+                "text": "server là một yêu cầu của sơ vịt là sai",
+                "count": 1
+            },
+            {
+                "text": "A => sever là máy chủ cung cấp các service, kp request",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            },
+            {
+                "text": "B ( a service fulfills)",
+                "count": 1
+            },
+            {
+                "text": "single service => a service",
+                "count": 1
+            },
+            {
+                "text": "client request, service fullfill",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "Đáp án đúng là: C. To interface with the database Giải thích:​Trong kiến trúc Client/Server, Database Wrapper là một lớp trung gian (middleware hoặc interface layer) có vai trò:   Giao tiếp với cơ sở dữ liệu (database) – thay vì để ứng dụng client hoặc business logic truy cập trực tiếp vào DB, thì database wrapper sẽ:  Gửi truy vấn đến cơ sở dữ liệu Nhận kết quả từ DB và trả về theo định dạng phù hợp Che giấu (wrap) các chi tiết kỹ thuật về kết nối cơ sở dữ liệu Hỗ trợ dễ dàng thay đổi DB engine mà không cần sửa toàn bộ code ứng dụng Lợi ích chính:​ Tách biệt logic truy cập dữ liệu khỏi phần mềm chính Dễ bảo trì, mở rộng và chống phụ thuộc trực tiếp vào DB cụ thể Có thể bổ sung các chức năng khác như caching, logging, connection pooling Giải thích:​ A. To provide a graphical user interface →  Sai: Giao diện người dùng (UI) là phần việc của client, không liên quan đến database wrapper. B. To manage client requests →  Sai: Đó là vai trò của application server hoặc các controller/business logic, không phải database wrapper. D. To perform data encryption →  Không phải chức năng chính. Encryption có thể được dùng trong truyền dữ liệu, nhưng không phải vai trò cốt lõi của wrapper.",
+                "count": 1
+            },
+            {
+                "text": "database wrapper -> interface with database (giao tiếp với database)",
+                "count": 1
+            },
+            {
+                "text": "wrapper là trung gian => giao tiếp với DB",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "compound transaction -> atomic transactions",
+                "count": 1
+            },
+            {
+                "text": "compound là kết hợp => phân huỷ thành nhiều atomic (subatomic là thuật ngữ sai)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "Đáp án đúng là: B. Knows the type of service required but not the specific service Giải thích:​Yellow Pages Brokering là một kiểu mô hình trung gian (brokering model) trong hệ thống phân tán hoặc kiến trúc hướng dịch vụ (SOA), tương tự như \"sổ vàng\" – nơi bạn biết loại dịch vụ mình cần, nhưng chưa biết chính xác ai (dịch vụ nào) cung cấp nó.  Cách hoạt động:​ Service requester (bên yêu cầu dịch vụ) biết loại dịch vụ cần (ví dụ: “dịch vụ thanh toán”) Nó truy vấn đến broker (trung gian) để tìm danh sách các nhà cung cấp dịch vụ phù hợp Sau đó, requester chọn một service cụ thể từ danh sách để thực thi  So sánh với các mô hình brokering khác:​ Loại BrokeringKhi nào dùng?White PagesKhi biết tên cụ thể của service/provider, cần tìm địa chỉ của nóYellow PagesKhi biết loại dịch vụ, nhưng chưa biết cụ thể ai cung cấpGreen PagesKhi cần biết cách sử dụng dịch vụ (interface, protocol, rules, etc.)  Giải thích đáp án sai:​ A. Needs to discover the location of the service →  Cái này giống white pages hơn là yellow pages. C. Knows the specific service but not the type →  Vô lý – nếu đã biết service cụ thể thì type không còn quan trọng. D. Needs to discover the broker →  Mục tiêu là tìm dịch vụ, không phải tìm broker.",
+                "count": 1
+            },
+            {
+                "text": "Yellow pages -> know the type of service",
+                "count": 1
+            },
+            {
+                "text": "biết the type of service",
+                "count": 1
+            },
+            {
+                "text": "yellow là biết type mà k biết tên white page là biết tên service mà kbt thông tin của service",
+                "count": 1
+            },
+            {
+                "text": "yellow -> knows the type",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "Đáp án đúng là: C. Act as an intermediary between clients and services Giải thích:​Trong SOA (Service-Oriented Architecture) – Kiến trúc hướng dịch vụ, Broker (trung gian) đóng vai trò cực kỳ quan trọng trong việc kết nối giữa:  Client (bên gọi dịch vụ) Service Provider (bên cung cấp dịch vụ)  Chức năng chính của​ Trung gian (intermediary): Nhận yêu cầu từ client → tra cứu và định tuyến đến dịch vụ phù hợp Tìm kiếm (discovery): Giúp client tìm dịch vụ thích hợp (dựa vào loại, tên, đặc điểm…) Tách biệt client và service: Giúp hai bên không cần biết thông tin trực tiếp về nhau Hỗ trợ các mô hình yellow/white/green pages  Giải thích các đáp án sai:​ A. Manage the resources of services →  Sai: Việc quản lý tài nguyên là của service provider, không phải broker. B. Perform services on behalf of the client →  Sai: Broker không thực hiện dịch vụ, chỉ kết nối client với service. D. Store detailed information about all clients and services →  Broker có thể lưu metadata (thông tin mô tả) về services, nhưng không lưu trữ thông tin chi tiết về mọi client.",
+                "count": 1
+            },
+            {
+                "text": "SOA -> Act as a intermediary",
+                "count": 1
+            },
+            {
+                "text": "act as",
+                "count": 1
+            },
+            {
+                "text": "broker là \"môi giới\" => C",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 15
+            },
+            {
+                "text": "connector join : required port -> provided port",
+                "count": 2
+            },
+            {
+                "text": "yêu cầu cung cấp",
+                "count": 1
+            },
+            {
+                "text": "required r mới provided mới đúng thứ tự => C",
+                "count": 1
+            },
+            {
+                "text": "delegation: provide - provide connector: required - provide",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 16
+            },
+            {
+                "text": "Đ",
+                "count": 1
+            },
+            {
+                "text": "subscription/notification -> joined a group",
+                "count": 1
+            },
+            {
+                "text": "What is broadcast message communication? (a) A message sent to several recipients (b) A message sent to a specific recipient (c) A message sent to all recipients (d) A message sent to recipients who are members of a group C  What are the communication characteristics of subscription/notification? (a) A message sent to several recipients (b) A message sent to a specific recipient (c) A message sent to all recipients (d) A message sent to recipients who have joined a group D",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "img_50.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            },
+            {
+                "text": "component có thể tái sử dụng => D",
+                "count": 1
+            },
+            {
+                "text": "component-based -> reusable piece of software",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "img_51.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "Đáp án đúng là: B. A task that executes a statechart Giải thích:​Trong kỹ thuật phần mềm hướng đối tượng, đặc biệt là trong mô hình COMET (và các mô hình phân tích thiết kế hướng sự kiện – event-driven), khái niệm control task thường được liên kết với:    Một nhiệm vụ (task) điều khiển hành vi theo trạng thái → Thường được thể hiện thông qua một statechart (biểu đồ trạng thái).  Nhấn để mở rộng...  Vậy Control Task là gì?​ Là một tác vụ điều khiển luồng xử lý logic của hệ thống Nó phản ứng theo các sự kiện và chuyển trạng thái tương ứng Thường được mô hình hóa bằng biểu đồ trạng thái (statechart) Được gán cho control object để đảm nhiệm việc xử lý trạng thái Giải thích các đáp án sai:​ A. A task that controls other module →  Không đủ rõ ràng và quá chung chung – không phản ánh đúng đặc điểm chính là liên quan đến statechart. C. A task that executes on command →  Câu này mơ hồ và không phản ánh đặc điểm quan trọng của control task là liên quan đến trạng thái và xử lý điều khiển logic. D. A task that controls I/O service →  Đây giống I/O task chứ không phải control task.",
+                "count": 1
+            },
+            {
+                "text": "control task -> executes a statechart",
+                "count": 1
+            },
+            {
+                "text": "control task excute statechart",
+                "count": 1
+            },
+            {
+                "text": "Trong kỹ thuật phần mềm hướng đối tượng, đặc biệt là trong mô hình COMET (và các mô hình phân tích thiết kế hướng sự kiện – event-driven), khái niệm control task thường được liên kết với:    Một nhiệm vụ (task) điều khiển hành vi theo trạng thái → Thường được thể hiện thông qua một statechart (biểu đồ trạng thái).  Nhấn để mở rộng...   Là một tác vụ điều khiển luồng xử lý logic của hệ thống Nó phản ứng theo các sự kiện và chuyển trạng thái tương ứng Thường được mô hình hóa bằng biểu đồ trạng thái (statechart) Được gán cho control object để đảm nhiệm việc xử lý trạng thái  A. A task that controls other module →  Không đủ rõ ràng và quá chung chung – không phản ánh đúng đặc điểm chính là liên quan đến statechart. C. A task that executes on command →  Câu này mơ hồ và không phản ánh đặc điểm quan trọng của control task là liên quan đến trạng thái và xử lý điều khiển logic. D. A task that controls I/O service →  Đây giống I/O task chứ không phải control task.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "img_52.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "Đáp án đúng là: B. It provides the overall control and sequencing of the system Giải thích:​Centralized Control (Điều khiển tập trung) là một mẫu kiến trúc phần mềm (architectural pattern) trong đó toàn bộ quyền điều khiển và xử lý logic chính của hệ thống được tập trung vào một thành phần duy nhất (thường gọi là central controller hoặc main control object). Đặc điểm chính của kiến trúc Centralized Control:​ Có một thành phần trung tâm điều phối toàn bộ hệ thống Thành phần này quyết định trình tự (sequencing) và cách thực thi các tác vụ Các module khác chỉ thực hiện hành động khi được trung tâm điều khiển gọi đến Giải thích đáp án sai:​ A. Control is divided among various control components →  Sai vì đây là mô hình distributed control (phân tán), trái ngược với centralized. C. It provides overall control by coordinating several control components →  Sai vì vẫn có nhiều control component, không đúng với tính tập trung (centralized). D. It provides overall control over various I/O objects →  Sai vì control tập trung không chỉ dành riêng cho I/O, mà điều phối toàn bộ hệ thống.",
+                "count": 1
+            },
+            {
+                "text": "Centralized Control -> provides the overall control",
+                "count": 1
+            },
+            {
+                "text": "Centralized => sequencing B   Distributed => Control is divided A   hierarchical => coordinating C",
+                "count": 1
+            },
+            {
+                "text": "Trong Centralized Control architectural pattern, hệ thống có một thành phần điều khiển trung tâm chịu trách nhiệm:    Điều phối luồng hoạt động Quyết định trình tự (sequencing) Xử lý các sự kiện và phân phối chúng đến các thành phần khác  Vì vậy:    A: sai → không phải centralized, đó là distributed control B: đúng → mô tả chính xác centralized control C: sai → mô tả giống coordination giữa nhiều bộ điều khiển, không phải “centralized” D: sai hoặc không đúng ngữ cảnh (VO objects không phải yếu tố của pattern này)",
+                "count": 1
+            },
+            {
+                "text": "Centralized - Sequencing Distributed - divided  Hierarchical - coordinating",
+                "count": 1
+            },
+            {
+                "text": "Centralized - provide the overall control and sequencing Distributed - control is divided Hierarchical - coordinating",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "img_53.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "C (user sequentially)",
+                "count": 1
+            },
+            {
+                "text": "user interaction task thì phải sequentially",
+                "count": 1
+            },
+            {
+                "text": "C. tt with user seuqentialy",
+                "count": 1
+            },
+            {
+                "text": "user interaction task -> sequentially",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "img_54.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "kernel system -> default classess",
+                "count": 1
+            },
+            {
+                "text": "đì fau B",
+                "count": 1
+            },
+            {
+                "text": "kernal thì phải default",
+                "count": 1
+            },
+            {
+                "text": "kernal system -> default",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "img_55.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 17
+            },
+            {
+                "text": "SPL feature -> A requirement or characteristic",
+                "count": 1
+            },
+            {
+                "text": "dài nhất",
+                "count": 1
+            },
+            {
+                "text": "a nhas",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "img_56.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            },
+            {
+                "text": "C (some product line)",
+                "count": 1
+            },
+            {
+                "text": "optional usecase in SPL",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "img_57.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "mantainability -> after deployment testability - before deployment",
+                "count": 1
+            },
+            {
+                "text": "test -> trước khi deploy  maintain -> sau khi deploy",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "img_58.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "img_59.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 20
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "image": "img_60.webp",
+        "best_answer": null,
+        "comments": []
+    }
+]

@@ -1,0 +1,946 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 16
+            },
+            {
+                "text": "PSM -> architecture mapped",
+                "count": 1
+            },
+            {
+                "text": "psm -> mapped",
+                "count": 1
+            },
+            {
+                "text": "PSM - Architecture mapped",
+                "count": 1
+            },
+            {
+                "text": "c  Câu B là Platform-Independent Model (PIM) Câu C là Platform-Specific Model (PSM)",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 19
+            },
+            {
+                "text": "modeling -> designing applications",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 18
+            },
+            {
+                "text": "analysis phase, most commonly -> use case diagram",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 19
+            },
+            {
+                "text": "UML, deployment on hardware nodes -> Deployment",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 16
+            },
+            {
+                "text": "Source code",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "validation -> build right systen",
+                "count": 1
+            },
+            {
+                "text": "Verification: Kiểm tra hệ thống có tuân theo các thiết kế ? Validation: Kiểm tra hệ thống có đáp ứng các yêu cầu từ khách hay chưa?",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "information hiding -> focus on hiding details",
+                "count": 1
+            },
+            {
+                "text": "c",
+                "count": 1
+            },
+            {
+                "text": "b: / ẩn thông tin là con đóng gói",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "reducing complexity -> modularization",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 16
+            },
+            {
+                "text": "software modeling -> designing software applications",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            },
+            {
+                "text": "organizes in to layer -> layered",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            },
+            {
+                "text": "incremental software construction _> detailed design, coding,..",
+                "count": 1
+            },
+            {
+                "text": "B.  During incremental software construction, a phased approach is taken to gradually build and integrate the software until the entire system is completed. The key activities carried out during this phase include:  Selecting a specific subset of the system to be constructed for each increment, which takes place after the software architectural design is completed. Performing the detailed design, coding, and unit testing of the classes within that chosen subset.",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 14
+            },
+            {
+                "text": "COMET focus -> integratong software",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 9
+            },
+            {
+                "text": "use case -> the user and system",
+                "count": 1
+            },
+            {
+                "text": "C  vì trong sách  \"software modeling and desgin trang 92 có câu trắc nghiệm y xì câu này\"  đán án là C  ở trang 537  mn có thể tự kiểm chứng nếu ko tin vì tôi đã check ròi :v",
+                "count": 1
+            },
+            {
+                "text": "https://uploads.photo/file/CImERz",
+                "count": 1
+            },
+            {
+                "text": "C",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "use case model -> functional behavior",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "focus static -> relation between system components",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "GoF template -> trade-offs",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "generalization -> inheritance",
+                "count": 1
+            },
+            {
+                "text": "a",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 12
+            },
+            {
+                "text": "structuring criteria -> struturing an application",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "entity object -> stores information , limited access",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "sequence diagram -> software object, sequence of...",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "normal form. remove partial -> 2nf",
+                "count": 1
+            },
+            {
+                "text": "1NF (First Normal Form) → Chỉ cần dữ liệu nguyên tử (không có mảng, lặp) 2NF (Second Normal Form)  → Loại bỏ partial dependency → Nghĩa là:     Mọi thuộc tính không khóa phải phụ thuộc vào TOÀN BỘ khóa chính, không phải chỉ 1 phần  Nhấn để mở rộng...   3NF (Third Normal Form) → Loại bỏ transitive dependency BCNF → Phiên bản mạnh hơn của 3NF",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 12
+            },
+            {
+                "text": "dynamic interaction -> captures, components",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 12
+            },
+            {
+                "text": "finite -> model, system behavior",
+                "count": 1
+            },
+            {
+                "text": "finite state machine -> model of system behavior",
+                "count": 1
+            },
+            {
+                "text": "B nhe",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "integrates static, dynamic -> conposite",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "UML diagram, primarily -> class diagram",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 12
+            },
+            {
+                "text": "a or b , state machine -> one state, different transition",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "executes, state machine -> state dependent, control",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 12
+            },
+            {
+                "text": "input message -> event",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "Call/Return -> invokes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "state-dependent, dynamic interaction -> modeling",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 11
+            },
+            {
+                "text": "perspectives -> static, dynamic,..",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 10
+            },
+            {
+                "text": "control subsystem -> several, internal",
+                "count": 1
+            },
+            {
+                "text": "Â",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "Sepaaration of Concerns -> minimize",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "subsystem, not likely -> service subsystem",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 12
+            },
+            {
+                "text": "entity class -> data abstraction",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "abstract class -> creating subclasses",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "not allowed inheritance -> subclass redefines atrributes",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": null,
+        "comments": [
+            {
+                "text": "ABC",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 13
+            },
+            {
+                "text": "concentenated key -> many to many",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "service blocker, SOA -> find",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "securing, SOA ->  implementing",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "main role, SOA -> act as an",
+                "count": 1
+            },
+            {
+                "text": "trích từ  \" Software Modeling and Design\" của Hassan Gomaa  ở chapter 16 16.2SOFTWARE ARCHITECTURAL BROKER PATTERNS trang 280  n a SOA, object brokers act as intermediaries between clients and services. The broker frees clients from having to maintain information about where a particularservice is provided and how to obtain that service. Sophisticated brokers provide white pages (naming services) and yellow pages (trader services) so that clients can locate services more easily.In the Broker pattern (which is also known as the Object  Broker or Object Request  Broker pattern), the broker acts as an intermediary between the clients and services. Services register with the broker. Clients locate services through thebroker. After the broker has brokered the connection between client and service,communication between client and service can be direct or via the broker",
+                "count": 1
+            },
+            {
+                "text": "SOA: c.Act client&services",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "component, context -> way to group",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 12
+            },
+            {
+                "text": "integrating patterns -> interaction diagram",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "img_50.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            },
+            {
+                "text": "primary responsiblity, architect -> defining",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "img_51.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 11
+            },
+            {
+                "text": "event-driven , input task -> generates interrupts",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "img_52.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "Centralized Control ->sequencing of the system",
+                "count": 1
+            },
+            {
+                "text": "b  Câu A là Distributed Control Câu C là Hierarchical Control",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "img_53.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "control task -> statechart",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "img_54.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 11
+            },
+            {
+                "text": "variability -> aspects",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "img_55.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 11
+            },
+            {
+                "text": "SPL  -> overall",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "img_56.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "kernel -> default system",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "img_57.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "D",
+                "count": 10
+            },
+            {
+                "text": "Product Line -> create a set",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "img_58.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 11
+            },
+            {
+                "text": "database normalization -> minimize",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "img_59.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 11
+            },
+            {
+                "text": "modularity , maintain -> more maintainable",
+                "count": 1
+            }
+        ]
+    }
+]
