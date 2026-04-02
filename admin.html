@@ -190,15 +190,148 @@
         <div class="links">
             <a href="/">&laquo; Trở về Trang Luyện Tập (Quiz)</a>
         </div>
+        
+        <hr style="margin: 30px 0; border: 1px solid #eee;">
+        
+        <h1>📂 Quản Lý Đề Thi</h1>
+        <div class="form-group">
+            <label for="manage-subject">Chọn Môn Học:</label>
+            <select id="manage-subject" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ccc;"></select>
+        </div>
+        <div class="form-group">
+            <label for="manage-thread">Chọn Đề:</label>
+            <select id="manage-thread" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ccc;"></select>
+        </div>
+
+        <div class="split">
+            <div class="form-group">
+                <label for="manage-new-subject">Chuyển sang môn:</label>
+                <input type="text" id="manage-new-subject" placeholder="Ví dụ: prn222">
+            </div>
+            <div class="form-group">
+                <label for="manage-new-category">Phân loại:</label>
+                <select id="manage-new-category" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
+                    <option value="pe">PE</option>
+                    <option value="fe">FE</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+        </div>
+        
+        <button id="btnMove" class="btn-submit" style="background-color: #f39c12;">🚀 DI CHUYỂN ĐỀ THI</button>
+        <div id="move-status-box" style="margin-top: 15px; padding: 10px; border-radius: 5px; display: none;"></div>
+
     </div>
 
     <script>
+        let indexData = null;
+
         // Load data from LocalStorage
-        document.addEventListener('DOMContentLoaded', () => {
+        document.addEventListener('DOMContentLoaded', async () => {
             document.getElementById('base').value = localStorage.getItem('crawl_base') || 'https://fuoverflow.com';
             document.getElementById('thread').value = localStorage.getItem('crawl_thread') || '';
             document.getElementById('xf_user').value = localStorage.getItem('crawl_xf_user') || '';
             document.getElementById('xf_session').value = localStorage.getItem('crawl_xf_session') || '';
+
+            await loadIndexData();
+        });
+
+        async function loadIndexData() {
+            try {
+                const response = await fetch('./images/index.json?t=' + new Date().getTime());
+                indexData = await response.json();
+                
+                const subjectSelect = document.getElementById('manage-subject');
+                subjectSelect.innerHTML = '<option value="">-- Chọn Môn --</option>';
+                for (const subject of Object.keys(indexData)) {
+                    const option = document.createElement('option');
+                    option.value = subject;
+                    option.textContent = subject.toUpperCase();
+                    subjectSelect.appendChild(option);
+                }
+            } catch (err) {
+                console.error("Lỗi khi load index.json: ", err);
+            }
+        }
+
+        document.getElementById('manage-subject').addEventListener('change', (e) => {
+            const subject = e.target.value;
+            const threadSelect = document.getElementById('manage-thread');
+            threadSelect.innerHTML = '<option value="">-- Chọn Đề --</option>';
+            document.getElementById('manage-new-subject').value = subject;
+
+            if (!subject) return;
+
+            const categories = indexData[subject];
+            for (const [category, threads] of Object.entries(categories)) {
+                const optgroup = document.createElement('optgroup');
+                optgroup.label = category.toUpperCase();
+                for (const [thread, data] of Object.entries(threads)) {
+                    const option = document.createElement('option');
+                    option.value = JSON.stringify({subject, category, thread});
+                    option.textContent = data.title;
+                    optgroup.appendChild(option);
+                }
+                threadSelect.appendChild(optgroup);
+            }
+        });
+
+        document.getElementById('manage-thread').addEventListener('change', (e) => {
+            if(!e.target.value) return;
+            const d = JSON.parse(e.target.value);
+            document.getElementById('manage-new-category').value = d.category;
+        });
+
+        document.getElementById('btnMove').addEventListener('click', async () => {
+            const threadVal = document.getElementById('manage-thread').value;
+            if (!threadVal) {
+                alert("Vui lòng chọn đề cần di chuyển!");
+                return;
+            }
+            const d = JSON.parse(threadVal);
+            
+            const newSubject = document.getElementById('manage-new-subject').value.trim().toLowerCase();
+            const newCategory = document.getElementById('manage-new-category').value;
+            
+            if (!newSubject) {
+                alert("Vui lòng nhập tên môn mới!");
+                return;
+            }
+
+            const moveStatusBox = document.getElementById('move-status-box');
+            moveStatusBox.style.display = 'block';
+            moveStatusBox.className = 'status-loading';
+            moveStatusBox.innerHTML = 'Đang xử lý...';
+
+            try {
+                const response = await fetch('/api/move_thread', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        subject: d.subject,
+                        category: d.category,
+                        thread: d.thread,
+                        new_subject: newSubject,
+                        new_category: newCategory
+                    })
+                });
+
+                const result = await response.json();
+                if (response.ok && result.status === 'success') {
+                    moveStatusBox.className = 'status-success';
+                    moveStatusBox.innerHTML = `<strong>Thành công!</strong> ${result.message}`;
+                    await loadIndexData(); // Tải lại dũ liệu
+                    document.getElementById('manage-thread').innerHTML = '<option value="">-- Chọn Đề --</option>';
+                    document.getElementById('manage-subject').value = newSubject;
+                    // Trigger change manually
+                    document.getElementById('manage-subject').dispatchEvent(new Event('change'));
+                } else {
+                    throw new Error(result.message || 'Lỗi từ Server');
+                }
+            } catch (err) {
+                moveStatusBox.className = 'status-error';
+                moveStatusBox.innerHTML = `<strong>Lỗi:</strong> ${err.message}`;
+            }
         });
 
         // Handle Form Submit

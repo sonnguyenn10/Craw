@@ -142,6 +142,50 @@ class AdminHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
                 response = {"status": "error", "message": str(e)}
                 self.wfile.write(json.dumps(response).encode('utf-8'))
 
+        elif self.path == '/api/move_thread':
+            content_length = int(self.headers.get('Content-Length', 0))
+            post_data = self.rfile.read(content_length)
+            
+            try:
+                data = json.loads(post_data.decode('utf-8'))
+                subject = data.get('subject')
+                category = data.get('category')
+                thread = data.get('thread')
+                new_subject = data.get('new_subject')
+                new_category = data.get('new_category')
+                
+                if not all([subject, category, thread, new_subject, new_category]):
+                    raise Exception("Vui lòng cung cấp đủ thông tin!")
+                
+                old_path = os.path.join("images", subject, category, thread)
+                if not os.path.exists(old_path) and category == "other":
+                    old_path = os.path.join("images", subject, thread)
+                    
+                new_category_path = os.path.join("images", new_subject, new_category)
+                new_path = os.path.join(new_category_path, thread)
+                
+                if not os.path.exists(old_path):
+                    raise Exception(f"Không tìm thấy thư mục: {old_path}")
+                
+                os.makedirs(new_category_path, exist_ok=True)
+                
+                import shutil
+                shutil.move(old_path, new_path)
+                
+                from craw_with_comments import update_index_json
+                update_index_json("images")
+                
+                self.send_response(200)
+                self.send_header('Content-Type', 'application/json')
+                self.end_headers()
+                self.wfile.write(json.dumps({"status": "success", "message": "Đã di chuyển thành công"}).encode('utf-8'))
+                
+            except Exception as e:
+                self.send_response(500)
+                self.send_header('Content-Type', 'application/json')
+                self.end_headers()
+                self.wfile.write(json.dumps({"status": "error", "message": str(e)}).encode('utf-8'))
+
         else:
             self.send_response(404)
             self.end_headers()

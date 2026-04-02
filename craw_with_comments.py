@@ -72,16 +72,39 @@ def update_index_json(images_dir="images"):
     index_data = {}
     if os.path.exists(images_dir):
         for subject_code in os.listdir(images_dir):
+            if subject_code in ["index.json", "index.json.bak"]: continue
             subject_path = os.path.join(images_dir, subject_code)
             if os.path.isdir(subject_path):
-                threads = [d for d in os.listdir(subject_path) if os.path.isdir(os.path.join(subject_path, d))]
-                if threads:
-                    index_data[subject_code] = {}
-                    for thread in threads:
-                        index_data[subject_code][thread] = {
-                            "title": thread,
-                            "path": f"images/{subject_code}/{thread}"
-                        }
+                index_data[subject_code] = {"pe": {}, "fe": {}, "other": {}}
+                
+                # Check top-level threads or categories
+                for item in os.listdir(subject_path):
+                    item_path = os.path.join(subject_path, item)
+                    if os.path.isdir(item_path):
+                        if item in ["pe", "fe", "other"]:
+                            # It's a category folder
+                            category = item
+                            for thread in os.listdir(item_path):
+                                thread_path = os.path.join(item_path, thread)
+                                if os.path.isdir(thread_path):
+                                    index_data[subject_code][category][thread] = {
+                                        "title": thread,
+                                        "path": f"images/{subject_code}/{category}/{thread}"
+                                    }
+                        else:
+                            # It's an un-categorized thread folder, put it in 'other'
+                            index_data[subject_code]["other"][item] = {
+                                "title": item,
+                                "path": f"images/{subject_code}/{item}"
+                            }
+
+                # Xoá category rỗng cho gọn
+                for cat in ["pe", "fe", "other"]:
+                    if not index_data[subject_code][cat]:
+                        del index_data[subject_code][cat]
+                        
+                if not index_data[subject_code]:
+                    del index_data[subject_code]
     
     with open(os.path.join(images_dir, "index.json"), "w", encoding="utf-8") as f:
         json.dump(index_data, f, ensure_ascii=False, indent=4)

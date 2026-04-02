@@ -1,6 +1,7 @@
 const state = {
     indexData: null,
     currentCourse: null,
+    currentCategory: null,
     currentSubject: null,
     currentImages: [],
     currentFiles: [],
@@ -79,12 +80,17 @@ function populateThreadSelect(subject) {
     }
     
     DOMElements.threadSelect.disabled = false;
-    const threads = state.indexData[subject];
-    for (const [thread, data] of Object.entries(threads)) {
-        const option = document.createElement('option');
-        option.value = JSON.stringify({subject, thread, path: data.path});
-        option.textContent = data.title;
-        DOMElements.threadSelect.appendChild(option);
+    const categories = state.indexData[subject];
+    for (const [category, threads] of Object.entries(categories)) {
+        const optgroup = document.createElement('optgroup');
+        optgroup.label = category.toUpperCase();
+        for (const [thread, data] of Object.entries(threads)) {
+            const option = document.createElement('option');
+            option.value = JSON.stringify({subject, category, thread, path: data.path});
+            option.textContent = data.title;
+            optgroup.appendChild(option);
+        }
+        DOMElements.threadSelect.appendChild(optgroup);
     }
 }
 
@@ -191,9 +197,10 @@ async function loadSelectedCourse() {
         return;
     }
 
-    const { subject, thread, path } = JSON.parse(selected);
+    const { subject, category, thread, path } = JSON.parse(selected);
     state.currentCourse = thread;
     state.currentSubject = subject;
+    state.currentCategory = category;
     state.currentPath = path;
     
     try {
@@ -239,7 +246,7 @@ async function loadSelectedCourse() {
             state.currentFiles.forEach(file => {
                 const li = document.createElement('li');
                 const a = document.createElement('a');
-                a.href = `./${path}/${file.url}`;
+                a.href = `./${state.currentPath}/${file.url}`;
                 a.target = '_blank';
                 a.textContent = file.name;
                 a.style.color = '#3498db';
@@ -295,7 +302,7 @@ function renderCurrentItem() {
         DOMElements.questionImage.onload = null; // Xóa sự kiện sau khi dùng
     };
 
-    DOMElements.questionImage.src = `./images/${state.currentSubject}/${state.currentCourse}/${item.image}`;
+    DOMElements.questionImage.src = `./${state.currentPath}/${item.image}`;
     
     DOMElements.questionCounter.textContent = `Câu hỏi: ${state.currentIndex + 1} / ${state.currentImages.length}`;
 
@@ -486,7 +493,7 @@ async function handleGeminiRequest(apiKey, model) {
     DOMElements.btnAskGemini.disabled = true;
 
     try {
-        const imagePath = `images/${state.currentSubject}/${state.currentCourse}/${item.image}`;
+        const imagePath = `${state.currentPath}/${item.image}`;
         const courseJsonPath = `${state.currentPath}/data.json`;
         
         const response = await fetch('/api/gemini', {
