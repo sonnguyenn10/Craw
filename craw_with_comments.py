@@ -5,6 +5,7 @@ import os
 import time
 import json
 import re
+import concurrent.futures
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -123,16 +124,15 @@ def run_crawler(base_url, thread_url, xf_user, xf_session):
     print(f"Thư mục lưu trữ: {save_path}")
 
     # Bắt đầu duyệt và lưu ảnh / xuất JSON
-    course_data = []
 
-    for i, (link, media_url) in enumerate(all_images.items()):
+    def process_image_item(idx, img_link, img_media_url):
         try:
-            img_name = f"img_{i}.webp"
+            img_name = f"img_{idx}.webp"
             img_path = os.path.join(save_path, img_name)
             
             # 1. Tải hình ảnh (Chỉ tải nếu chưa có file để tiết kiệm thời gian chạy lại)
             if not os.path.exists(img_path):
-                img_res = requests.get(link, cookies=cookies, headers=HEADERS, stream=True)
+                img_res = requests.get(img_link, cookies=cookies, headers=HEADERS, stream=True)
                 if img_res.status_code == 200:
                     with open(img_path, "wb") as f:
                         for chunk in img_res.iter_content(chunk_size=8192):
@@ -145,8 +145,8 @@ def run_crawler(base_url, thread_url, xf_user, xf_session):
             ans_counts = {'A': 0, 'B': 0, 'C': 0, 'D': 0, 'E': 0, 'F': 0}
             comments_extracted = []
             
-            if media_url:
-                m_res = requests.get(media_url, cookies=cookies, headers=HEADERS)
+            if img_media_url:
+                m_res = requests.get(img_media_url, cookies=cookies, headers=HEADERS)
                 m_soup = BeautifulSoup(m_res.text, "html.parser")
                 comments = m_soup.select(".comment-body")
                 if not comments:
@@ -185,17 +185,31 @@ def run_crawler(base_url, thread_url, xf_user, xf_session):
                     max_votes = v
                     best_answer = k
             
-            # Lưu object vào course_data array
-            item_data = {
-                "id": i,
+            # Trả về object dữ liệu
+            return {
+                "id": idx,
                 "image": img_name,
                 "best_answer": best_answer,
                 "comments": comments_extracted
             }
-            course_data.append(item_data)
             
         except Exception as e:
-            print(f"Lỗi ở ảnh {i}: {e}")
+            print(f"Lỗi ở ảnh {idx}: {e}")
+            return None
+
+    course_data = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        futures = []
+        for i, (link, media_url) in enumerate(all_images.items()):
+            futures.append(executor.submit(process_image_item, i, link, media_url))
+            
+        for future in concurrent.futures.as_completed(futures):
+            res = future.result()
+            if res:
+                course_data.append(res)
+                
+    # Sắp xếp lại course_data theo ID vĩ chạy đa luồng thứ tự có thể lộn xộn
+    course_data.sort(key=lambda x: x["id"])
 
     # Ghi dữ liệu ra file data.json
     data_json_path = os.path.join(save_path, "data.json")

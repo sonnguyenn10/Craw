@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import os
 import time
+import concurrent.futures
 
 BASE = "https://fuoverflow.com"
 THREAD = "/threads/pru212-sp-2025-fe.3546/"
@@ -69,10 +70,17 @@ save_path = os.path.join("images", folder_name)
 os.makedirs(save_path, exist_ok=True)
 print(f"Saving images to: {save_path}")
 
-for i, link in enumerate(all_images):
+def download_image(i, link):
     try:
         img = requests.get(link, cookies=cookies).content
         with open(os.path.join(save_path, f"img_{i}.webp"), "wb") as f:
             f.write(img)
-    except:
-        pass
+        print(f"Downloaded img_{i}.webp")
+    except Exception as e:
+        print(f"Failed to download {link}: {e}")
+
+with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+    futures = [executor.submit(download_image, i, link) for i, link in enumerate(all_images)]
+    concurrent.futures.wait(futures)
+
+print("Done downloading!")

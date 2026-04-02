@@ -1,0 +1,1076 @@
+[
+    {
+        "id": 0,
+        "image": "img_0.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "B",
+                "count": 1
+            },
+            {
+                "text": "C ví dụ đơn giản đề PE lion namespace Service.Services {     public class LionAccountService : ILionAccountService     {         private readonly ILionAccountRepository _lionAccountRepo;          public LionAccountService(ILionAccountRepository lionAccountRepo)         {             _lionAccountRepo = lionAccountRepo;         }         public Task<LionAccount> Login(string email, string password)         {             var user = _lionAccountRepo.Login(email, password);             if (user == null)                 throw new Exception(\"Invalid Email or Password!\");             return user;         }     } }  thì cái constructor injection của mình chính là cái public LionAccountService(ILionAccountRepository lionAccountRepo) {     _lionAccountRepo = lionAccountRepo; }",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "img_1.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 17
+            },
+            {
+                "text": "Singleton = Một cho cả app. Scoped = Một cho mỗi request. Transient = Một cho mỗi lần gọi. Temporary : không có cái này trong service lifetime",
+                "count": 1
+            },
+            {
+                "text": ".",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "img_2.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "img_3.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 16
+            },
+            {
+                "text": "Singleton  A single instance is created and shared throughout the application's lifetime. Not correct, because it does not create a new instance every time.  Scoped  A new instance is created per scope (usually per web request in ASP.NET Core). Not correct, because it creates one instance per scope, not per request.  Transient  A new instance is created every time the service is requested. Correct answer, because this matches the question exactly.  Persistent  This is not a standard service lifetime in ASP.NET Core Dependency Injection. Irrelevant option.",
+                "count": 1
+            },
+            {
+                "text": "life time - singleton request - transient",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "img_4.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "img_5.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "a",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "img_6.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "img_7.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "img_8.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "img_9.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 14
+            },
+            {
+                "text": "Blazor WebAssembly => A Blazor Server => B",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "img_10.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "img_11.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "img_12.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "img_13.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "img_14.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "img_15.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "img_16.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "img_17.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "img_18.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            },
+            {
+                "text": "IP = Địa chỉ & đường đi. TCP = Gửi dữ liệu qua mạng và đảm bảo dữ liệu không bị mất, không bị sai và đúng thứ tự. UDP = Gửi siêu lẹ nhưng không đảm bảo dữ liệu (dữ liệu có thể bị mất, bị sai) HTTP = Cách nói chuyện giữa trình duyệt và web (thường chạy trên TCP để đảm bảo dữ liệu web được nguyên vẹn).",
+                "count": 1
+            },
+            {
+                "text": "TCP stands for Transmission Control Protocol",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "img_19.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "img_20.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "img_21.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "img_22.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            },
+            {
+                "text": "A. hostname B. email C. IP Address D. Protocol",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "img_23.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "img_24.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "img_25.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "img_26.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "img_27.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "c",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "img_28.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "img_29.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "img_30.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "img_31.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "img_32.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "img_33.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "img_34.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "img_35.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "ví dụ trong code public class IndexModel : PageModel {     private readonly IMyService _myService;      public IndexModel(IMyService myService)     {         _myService = myService;     }      public void OnGet()     {         _myService.DoSomething();     } }",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "img_36.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 12
+            },
+            {
+                "text": "handler là mấy cái onget, onpost đồ ấy mấy ní ví dụ đây public class IndexModel : PageModel {     public string Message { get; set; }      public void OnGet()     {         Message = \"hellu may ni\";     } } roi` trong file cshtml thi` <p>@Model.Message</p> la` no auto pass data qua",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "img_37.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "img_38.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "img_39.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 13
+            },
+            {
+                "text": "logging là ghi log, lưu data đồ, bữa cố th nhầm thành log in, ae đừng lú nhen",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "img_40.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "img_41.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 11
+            },
+            {
+                "text": "Singleton = Một cho cả app. Scoped = Một cho mỗi request. Transient = Một cho mỗi lần gọi. Temporary : không có cái này trong service lifetime",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "img_42.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "img_43.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 10
+            },
+            {
+                "text": "3 cái trên như cũ còn Persistent ko phải là 1 service lifetime",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "img_44.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "img_45.webp",
+        "best_answer": "A",
+        "comments": [
+            {
+                "text": "A",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "img_46.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "img_47.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "img_48.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "img_49.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 8
+            },
+            {
+                "text": "b server thì trên server",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "img_50.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "img_51.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "img_52.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "img_53.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "img_54.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "img_55.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "img_56.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "img_57.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "img_58.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "img_59.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "image": "img_60.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "image": "img_61.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "image": "img_62.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "image": "img_63.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "image": "img_64.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "image": "img_65.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "c",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "image": "img_66.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "image": "img_67.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "image": "img_68.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "image": "img_69.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            },
+            {
+                "text": "90 câu mà nó lập lại nhiều câu dữ v ta",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "image": "img_70.webp",
+        "best_answer": "D",
+        "comments": [
+            {
+                "text": "d",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "image": "img_71.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "image": "img_72.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "image": "img_73.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "image": "img_74.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "image": "img_75.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "image": "img_76.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "image": "img_77.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "image": "img_78.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "image": "img_79.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 10
+            },
+            {
+                "text": "2",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "image": "img_80.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "image": "img_81.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "image": "img_82.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "image": "img_83.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "image": "img_84.webp",
+        "best_answer": "C",
+        "comments": [
+            {
+                "text": "C",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "image": "img_85.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "Mono ==> B Multi ==> A",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "image": "img_86.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "image": "img_87.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 13
+            },
+            {
+                "text": "BB",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "image": "img_88.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "B",
+                "count": 14
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "image": "img_89.webp",
+        "best_answer": "B",
+        "comments": [
+            {
+                "text": "b",
+                "count": 17
+            }
+        ]
+    }
+]
